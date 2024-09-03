@@ -1,1 +1,1 @@
-# Faccult-de-droit
+# Faculte-de-droit
