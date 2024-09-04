@@ -1,0 +1,5 @@
+Depuis les sociétés primitives les individus ont cherché à réguler les relations sociales qui peuvent parfois être injuste et inégale. 
+Ainsi on été créé des règles qui régissent le rapport entre les individus : les règles de droit, ayant pour objectif de passifier et d'offrir de meilleur condition de vie à la société et à ces individus. 
+Certaines de ces règles visent à ordonner le fonctionnement interne des insitutions détenant le pouvoir public qui est chargé de légiféré et d'éxecuter les règles de droit le Gouvernement et les Parlementaire qui représente l'Etat en France. 
+Ces règles sont destiné donc à régir le rapport entre l'organisme suprème et les individus. En France c'est règle sont inscrit dans un texte se nommant la constitution.
+Nous pourrions conclure sur le faite que le droit constitutionnel est l'étude des règles de fonctionnement de l'Etat
