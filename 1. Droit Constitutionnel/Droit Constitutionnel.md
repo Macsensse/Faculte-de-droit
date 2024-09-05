@@ -1,6 +1,6 @@
-***Le droit : Ensemble des règles qui organisent la vie des membres d'une société**.***
+***Le droit : Ensemble des règles qui organisent la vie des membres d'une société.***
 
-***Branche du droit publique : c'est l'étude d'une partie des règles liées au pouvoir politique et de l'Etat. et des relations entre les membres de la société et l'État**
+***Branche du droit publique : c'est l'étude d'une partie des règles liées au pouvoir politique et de l'Etat. et des relations entre les membres de la société et l'État***
 
 ***Droit Consitutionnel : C'est une branche du droit public interne, dont l'objet est l'étude des règles relatives au fonctionnement des organes de l'État qui exerce le pouvoir politique***
 ### **État & Pouvoir Politique**
@@ -16,7 +16,9 @@ Certaines de c'est institution sont mixte.
 ### **Conclusion :** 
 C'est une branche du droit public interne, dont l'objet est l'étude des règles relatives au fonctionnement des organes de l'Etat qui exerce le pouvoir politique.
 
-[[TITRE 1 LES FONDEMENTS THEORIQUE]]
+[[Titre 1. Les fondements théoriques]]
+[[Titre 2. La répartition des pouvoirs dans les régimes politiques contemporains]]
+[[Titre 3. L’histoire constitutionnelle française (1870-1958)]]
 
 #séance1 #droit-constitutionnel 
 
