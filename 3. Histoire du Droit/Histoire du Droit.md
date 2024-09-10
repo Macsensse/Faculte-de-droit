@@ -1,7 +1,7 @@
 ***3 thèmes :***
-- Thème 1 : Histoire d'un concepte juridique : l'Etat -> 5h
-- Thème 2 : Histoire d'une source du droit : la Loi -> 8h
-- Thème 3 : Histoire de la Justice -> 4h
+- Thème 1 : [[Histoire d'un concepte juridique Etat]] : l'Etat -> 5h
+- Thème 2 : [[Histoire d'une source du droit]] : la Loi -> 8h
+- Thème 3 : [[Histoire de la Justice]] -> 4h
 
 **La loi** (*sens historique*): Source juridique principal, on peut l'étudier dans le sens d'une perspective historique. Le Code civil est un exemple d'utilisation de la loi comme élément de construction de la société.
 

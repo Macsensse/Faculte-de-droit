@@ -27,4 +27,7 @@ Problématique = problème du sujet
 
 Apprendre à identifier des problèmes, ambiguiter contrariété, manque de clareté.
 
+### Introduction
+L'introduction représente 1/4 du devoir. => Brouillon nécessaire
+
 #méthodologie 

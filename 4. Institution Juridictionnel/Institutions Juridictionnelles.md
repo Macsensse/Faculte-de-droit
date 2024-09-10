@@ -1,3 +1,5 @@
+#séance1 
+
 **définition** : 
 ***Une institution juridictionnelles*** : Ensemble des organismes qui vont participer à la vie collective de la justice, les institution sont des principes fondamentaux qui vont fonder un tronc commun et donner à comprendre l'idée que notre société se fais de la justice. Panoplie de juridictions différentes par leur structure et leur esprit ainsi que leur domaine de compétence. Dans un premier temps il y a les juridctions civiles, juridictions pénales qui vont agir au nom de l'odre public, intérêt général. Les juridictions administratives c'est à la justice entre l'administration et les administrées. Les Institutions c'est la multitude professionnels qui incarne au quotidien le service public de la justice. **Juridictionnelles** car elle serve à la "*JURISIDICTIO*" c'est à dire la mission de dire le droit et de trancher un litige par une décision obligatoire, c'est un organisme qui peut dire le droit et de rendre la justice.
 **3 conditions** pour qualifier un organe de juridiction légal :
@@ -33,4 +35,4 @@ L'existence de la fonction de juger est itinérante à chaque société, dés lo
 
 
 
-#séance1 #institutions-juridictionnelles
+#institutions-juridictionnelles
