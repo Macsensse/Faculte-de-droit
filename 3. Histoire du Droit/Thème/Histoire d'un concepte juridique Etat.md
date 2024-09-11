@@ -39,7 +39,48 @@ La décolonisation a mené à la création de 196 États dans le monde.
 Un État est un **objet juridique**, **caractérisable**, disposant d'une **souveraineté** par un gouvernement sur un territoire donné, comprenant une population. Il entretient des liens avec d'autres États, et il est un **sujet de droit international**, ce qui signifie qu'il gère les relations entre les États.
 
 ### Parenthèse sur les régimes politique Allemand
+```mermaid
+gantt
+    title Régimes politiques de l'Allemagne
+    dateFormat YYYY
+    axisFormat %Y
+    
+    section Empire allemand
+    Empire allemand :active, 1871, 1918
 
+    section République de Weimar
+    République de Weimar :active, 1919, 1933
+
+    section Troisième Reich (Nazi)
+    Troisième Reich :active, 1933, 1945
+
+    section Allemagne occupée
+    Occupation Alliée :active, 1945, 1949
+
+    section République Fédérale d'Allemagne (RFA) / Allemagne de l'Ouest
+    RFA :active, 1949, 1990
+
+    section République Démocratique d'Allemagne (RDA) / Allemagne de l'Est
+    RDA :active, 1949, 1990
+
+    section Allemagne réunifiée
+    Allemagne réunifiée :active, 1990, 2023
+
+```
+
+```mermaid
+timeline
+    title Régimes politiques en Allemagne
+
+    1871 : Proclamation de l'Empire allemand
+    1919 : Création de la République de Weimar
+    1933 : Début du Troisième Reich (Régime nazi)
+    1945 : Fin du Troisième Reich et début de l'occupation alliée
+    1949 : Création de la RFA (Allemagne de l'Ouest) et de la RDA (Allemagne de l'Est)
+    1990 : Réunification de l'Allemagne
+    Aujourd'hui : Allemagne unifiée (République Fédérale d'Allemagne)
+
+```
 
 ### Société sans État : 4 particularités
 
