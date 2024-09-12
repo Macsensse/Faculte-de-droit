@@ -1,6 +1,6 @@
 # 📚 Cours de Droit L1🎓
 
-## Yo la team, bienvenue dans notre dossier de cours de droit !
+## Yo la team, bienvenue dans mon dossier de cours de droit !
 
 Ce README est là pour vous filer un coup de pouce et vous éviter de chercher pendant 1000 ans ce dont vous avez besoin. 😎
 
