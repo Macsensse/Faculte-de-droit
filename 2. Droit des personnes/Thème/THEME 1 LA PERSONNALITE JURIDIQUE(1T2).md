@@ -1,3 +1,5 @@
+#séance1 
+
 ***Définition :***
 La personalité juridique peut être définie comme l'aptitude à être titulaire de droit et de devoir, à la fois créancier et débiteur (créancier des droit que nous doit l'état mais aussi débiteur de ses obligations), ce qui on la personalité juridique son nommé sujet de droit à la fois personne physique et personne morale. ils possède des droit subjectif => donc un patrimoine.
 
@@ -13,11 +15,8 @@ Personne morale : groupement de personnes physiques auquelles le droit reconnait
 
 Par principe tout les êtres humains on la personalité juridique, la mort civil à disparut en 1954 mise au ban de la société, par ailleurs historiquement les esclaves étaient considérés comme des choses, abolition de cette catégorie date de 1948.
 
-### Le début de la personalité juridique
+#séance2 
+### [[Chapitre 1 Le début de la personalité juridique]]
 
-Les conditions de principe de l'acquisition de la personalité juridique.
 
-***Principe***
-
-***Exception presque***
 #droit-des-personnes 

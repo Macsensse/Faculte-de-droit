@@ -1,3 +1,4 @@
+#séance1 
 ### ***Introduction :***
 
 Comme pour tout sujet, il est nécessaire de définir les termes du sujet. Dans ce cadre là ce que nous avons à définir s'appelle "Droit", "des personnes". Le terme droit connait deux acceptions :
