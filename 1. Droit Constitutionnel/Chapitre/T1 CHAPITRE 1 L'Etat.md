@@ -49,7 +49,7 @@ Pouvoir politique != pouvoire adminstratif.
 #### **A. La déconcentration**
 
 ***circonscription administratives que ne sont pas des personnes publiques***
-***réprésnete de l'Etat nommées et hiérarchiquement subordonnée***
+***réprésentant de l'Etat nommées et hiérarchiquement subordonnée***
 
 *exemple en France : le prefet*
 
@@ -74,7 +74,7 @@ SUperposition d'institution politque, réel séparation vericale du pouvoir, Eta
 
 G.Scelle
 Les 3 principes de fonctionnement du fédéralisme
-- principe de sperposition d'Etats : 
+- principe de superposition d'Etats : 
 - Principe d'autonomie
 - principe de participation
 
