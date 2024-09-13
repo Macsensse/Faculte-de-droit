@@ -1,3 +1,10 @@
+---
+date: 2024-09-13
+tags:
+  - exercice
+allDay: true
+---
+
 ********
 
 ### Le Planeur de Marcèle
