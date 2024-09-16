@@ -36,7 +36,7 @@ Si le pouvoir est divisé il peut être limité, facteur de démocration avec de
 ### L'Etat Unitaire (simple)
 
 
-La loi ne peut être confié qu'a des organes politiques qui ont un  pouvoir souverrain à forciorie il y a la constitution au-dessus des lois (***voir hiérarchie des normes***), une seul constitution dans un Etat unitaire. Le réglement permet d'appliquer une loi et peut être édicter pour une institutions administrative sans pour autant qu'elle est un pouvoir politique. ***Compétence administrative***. Plusieurs source de pouvoir réglementaire mais un seul type de pouvoir politique.
+La loi ne peut être confié qu'a des organes politiques qui ont un pouvoir souverrain à forciorie il y a la constitution au-dessus des lois (***voir hiérarchie des normes***), une seul constitution dans un Etat unitaire. Le réglement permet d'appliquer une loi et peut être édicter pour une institutions administrative sans pour autant qu'elle est un pouvoir politique. ***Compétence administrative***. Plusieurs source de pouvoir réglementaire mais un seul type de pouvoir politique.
 Pouvoir politique != pouvoire adminstratif.
 
 ***Définition :***
@@ -103,3 +103,4 @@ Art.1 al.1 La France est une république indivisisible, laïque démocratique et
 ### Etats-Unis
 *voir Constitution américaine*
 #droit-constitutionnel
+
