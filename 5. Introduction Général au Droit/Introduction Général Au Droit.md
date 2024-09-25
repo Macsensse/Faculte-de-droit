@@ -17,6 +17,7 @@ Droit subjectifs : prerogative pouvoir, accorder par le droit objectifs pas un o
 
 Le droit objectif va proteger les droits subjectifs
 
-**[[Les spécifité du droit]]**
+Chapitre 1 : **[[Les spécifité du droit]]**
+Chapitre 2 : **[[Les divisions du droit]]**
 
 #introduction-général-au-droit #séance1 
