@@ -76,4 +76,16 @@ Nous pouvons conclure que une ressource renouvelables est une ressource qui se r
 
 Promotion1_Ressource_CAMPAGNE.Maxence => Moodle
 
+***Définition :***
+Développement durable : Le ddd est un mode de développement qui répond  au besoins des générations présentes sans compromettre la  capacité des générations futures de répondre au leur.
+
+écosystème
+
+biodiversité 3 types :
+1. Des territoires / milieu
+2. Des espèces
+3. V
+
+
+
 #en-jeux-de-la-transition-écologique 
