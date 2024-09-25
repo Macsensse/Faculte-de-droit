@@ -16,7 +16,7 @@ Personne morale : groupement de personnes physiques auquelles le droit reconnait
 Par principe tout les êtres humains on la personalité juridique, la mort civil à disparut en 1954 mise au ban de la société, par ailleurs historiquement les esclaves étaient considérés comme des choses, abolition de cette catégorie date de 1948.
 
 #séance2 
-### [[Chapitre 1 Le début de la personalité juridique]]
+### [[T1 Chapitre 1 Le début de la personalité juridique]]
 
 
 #droit-des-personnes 
