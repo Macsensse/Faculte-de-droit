@@ -45,6 +45,8 @@ Malgré tout, le référundum est un outil avec beaucoup de défaut mais il perm
 
 
 ***Article 3 de  la DDHC 1796***
+> [!PDF|] [[Déclaration des droits de l'Homme et du Citoyens 1789.pdf#page=1&selection=28,0,32,13|Déclaration des droits de l'Homme et du Citoyens 1789, p.1]]
+> > Article 3 Le principe de toute souveraineté réside essentiellement dans la nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.
 
 ## Les modes de scrutins
 ***définition***
@@ -67,3 +69,10 @@ Pas de nuance politique
 
 #### B. La représentation proportionnelle
 La RP est forcément un scrutin de liste à 1 seul tour et consiste à attribuer à chaque liste un nombre de sièges proportionnel au nombre de SE obtenus par la liste. La RP favorise la représentativité des élus et un multipartisme qui risque cependant de rendre délicate la constitution d'une coalition majoritaire durable et peut ainsi créer une instabilité politique.
+
+### Les modes de scrutins Mixtes
+- *exemple en France pour les élection municipales et régionales* RP avec prime majoritaire (deux tours)
+- *exemple de l'allemagne, éléction au Bundestag*
+- *exemple en Italie : élection d'une majorité de parlementaire à la RP et d'une minorité au scrutin majoritaire*
+
+

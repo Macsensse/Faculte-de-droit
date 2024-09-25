@@ -12,7 +12,7 @@ Imposée par lui même,
 ## Les éléments Constitutifs de l'Etat
 - **Un territoire** : L'Etat est un espace géographique délimité par des frontières (maritime aérienne, terrestre). Le pouvoir polirique de l'état s'étends uniquement sur son territoire.
 - **Une population** : Le pouvoir politique doit s'exercer sur quelqu'un donc la population. Toutes les personnes sur le territoire étranger y compris. (***Les sujets de droit***)
-- **Un pouvoir souverain** : Pouvoir qui s'impose à tout le monde, **pouvoir normatif** c'est à dire de fixé les règles de droit qui s'impose à toutes la population du terriroire compétence de la compétence. **Pouvoir coercitif** c'est à dire le pouvoir d'en imposer le respectet légitiment (sanction, utilisation de la force, ...) (*Imperium* de l'état). Aucun Etat ne peut contraindre un autre état juridiquement parlant & donc tous égaux.
+- ==**Un pouvoir souverain**== : Pouvoir qui s'impose à tout le monde, **pouvoir normatif** c'est à dire de fixé les règles de droit qui s'impose à toutes la population du terriroire compétence de la compétence. **Pouvoir coercitif** c'est à dire le pouvoir d'en imposer le respectet légitiment (sanction, utilisation de la force, ...) (*Imperium* de l'état). Aucun Etat ne peut contraindre un autre état juridiquement parlant & donc tous égaux.
 > 	J. Bodin, G. Jellinek, M. Weber : "Monopole de la violence légitime"
 
 ***Etat-Nation***
