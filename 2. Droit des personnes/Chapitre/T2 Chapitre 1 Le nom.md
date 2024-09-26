@@ -1,72 +1,93 @@
-Lorsque on parle de nom de manière général on invoque le mot ou l'ensemble de mot qui désigne une personne physique, cela se compose du nom de famille du ou des prénoms à l'état civil mais plus largement mais et ou aussi le nom d'usage. Les règles qui gouverne le nom de famille et celle qui gouvenre le nom d'usage ne sont pas les mêmes en effet lorsque on vise le nom de famille. il s'agit d'un attribut obligatoire ce qui n'est pas le cas du nom d'usage. QUand on parle du nom de famille, son mode de transmission se fais par la filiation de manière automatique. Pas de transmission du nom d'usage
+#### Introduction générale
 
-## Nom de famille 
+Le **nom** est l'élément qui permet d'identifier une personne physique dans la société. En droit, il se compose du **nom de famille** et des **prénoms** attribués à la naissance dans l'acte de naissance. Il existe également le **nom d'usage**, facultatif, qui peut être utilisé par une personne en complément ou en remplacement de son nom de famille, sans toutefois avoir la même portée juridique. Le **nom de famille** est un **attribut obligatoire** transmis par filiation, alors que le **nom d'usage** est librement choisi.
 
-### Dévolution
-Le nom de famille doit être attribué à la naissance de manière obligatoire, les règles d'attributionL dévolutions ont changé au cours du temps. Patronyme qui donnais le nom du groupe d'indivdu qui était responsable du groupe. loi 4 mars 2oo2 
-en pratique df a faire éxécuté et ajd encore on plaide pour l'égalité"
-1. Principe de liberté
-2. Principe d'égalité entre h et f
-*voir affaire benjamin*
+### I. Le nom de famille
 
-Les règles de cette dévolution
-***Transmis par le liens de filiation*** ==VERIFIER LA FILIATION EN TD==
+#### 1. Attribution et dévolution du nom de famille
 
-article 311-25 du Cc 
-Pour le deuxième lien on regarde si la mère est marié ou pas 
-Question se pose quand est née l'enfant, l'enfait est il concu pendant le mariage de la mère
-article 312 du Cc. Présomption de parternité à l'égare du mari de la mère
-pérode légal 6 & 1o mois
+Le **nom de famille** est attribué dès la naissance et inscrit dans l'acte de naissance. Historiquement, le patronyme était transmis automatiquement par le père. Cependant, la **loi du 4 mars 2002** a introduit des réformes majeures, donnant aux parents la possibilité de choisir le nom de l'enfant parmi différentes options, et visant à rétablir l'égalité entre les parents. Cette loi a mis fin au système où seul le nom du père était systématiquement attribué.
 
-principe chronologique si plusieur reconaissance parternelle
-loiii 2 aout 2o21 : révision des loi bioethique
-en 2o21 la procréation médicalement était autorisé pour les couples composé d'un homme et d'une femme juste cela. Au motif soit que le couple n'était pas fertile soit qu'il y avait un risque de transmission de la maladie.
-Maintenant il faudra faire remplire à ce qui font une PMA sur un projet de parent. accès à la PMA plus ouvert (couple de 2 femme etc et pour la fille seul).
-311-21 & 311-23
-342-12
-solution  déclaration conjointe de naissance
-présomption de paternité que lors d'un mariage d'un couple hétéro
+Les principes fondamentaux de l'attribution du nom de famille aujourd'hui sont :
 
-***Code civil Article 311-21***
-Il commence par donner son champ d'application, quand on parle ce champ d'application les hypothèses dans lesquelles on doit appliqué cet article. Celui si est appliqué dans les condition que :
-1. La naissance de l'enfant a eu lieu à partir du premier janvier 2006
-2. Enfant avec deux liens de filiation simultanné au plus tard au moment de la déclaration de naissance 
-3. 
-***Limite de 2 noms***
+1. **Principe de liberté** : Les parents peuvent choisir librement entre le nom du père, de la mère, ou une combinaison des deux, dans la limite de deux noms.
+2. **Principe d'égalité** : La loi garantit que les deux parents, père et mère, ont des droits égaux dans le choix du nom de famille.
 
-Principe d'unité du nom dans la fraterie, le choix s'exerce une fois pour les enfants communs
+#### 2. Transmission par filiation
 
-défaut de choix règle subsidiaire :
-- On va vérifier si il n'y a pas d'établissement de lien de filiation un avant l'autre on prends le premier
-- si au simultanément dans les liens de filiation on prend le nom du père.
-	Lorsque les parents ne sont pas d'accord alors soit l'officier d'étt civil à été averti au quelle cas il y aura transmission des deux nom dans l'ordre alphabétique. Si aucun désaccord signalé, le nom du père sera transmis.
+Le **nom de famille** est principalement transmis par le biais de la filiation, que celle-ci soit établie par la naissance, le mariage, ou la reconnaissance légale. Selon **l'article 311-25 du Code civil**, le nom de famille est attribué au moment de la déclaration de naissance.
 
-Nom composé n'est pas séquable lorsque il y a un tiret.
+Si la mère est mariée, la **présomption de paternité** s'applique au mari selon **l'article 312 du Code civil**, ce qui signifie que l'enfant porte automatiquement le nom du père sauf si une autre filiation est établie. La présomption de paternité couvre une période légale de 6 mois avant la naissance et jusqu'à 10 mois après.
 
+Si les deux liens de filiation (père et mère) sont établis de manière simultanée ou dans un délai très rapproché, les parents doivent choisir conjointement le nom de famille de l'enfant (soit celui du père, soit celui de la mère, ou les deux). En cas de désaccord, **l'article 311-21 du Code civil** prévoit que l'officier de l'état civil attribue les deux noms dans l'ordre alphabétique. Si aucun choix n'est signalé, **le nom du père est attribué par défaut**.
 
-Code Civil 342-12
+##### Particularités des cas de filiation multiples :
 
-Code Civil 311-21
+- **Principe de chronologie** : Si un lien de filiation est établi avant l'autre, c'est ce nom qui sera attribué en premier.
+- Si les deux liens sont établis simultanément, c'est le nom du père qui prime en cas de désaccord.
 
-Code Civil 311-23
-Transmission automatique du parent avec lien de filiation. Possible avec un formulaire. Remise en cause du lien de se nom car il a eu établissement du second lien de filiation pendant la minorité de l'enfant. SUbstitution du parent numéro 2 à la place du nom du parent numéro 1
+#### 3. Limite du nom de famille : la fratrie
 
-A la marge de 311-23 & -21  au vu de 
-l'article 57 du Code civil prévois la situation dans lequel on a un enfant trouvé, on ne sais pas le rataché, c'est l'officier d'état civil lui donne 3 prénoms et le dernier figure comme nom de famille.
+Le **principe d'unité du nom dans la fratrie** impose que tous les enfants nés des mêmes parents portent le même nom. Une fois le nom de famille du premier enfant choisi, ce nom s'applique automatiquement aux enfants suivants, sauf disposition particulière.
 
-### Changement de nom de famille
+Dans le cas de noms composés (avec un tiret), ceux-ci sont **indissociables** et ne peuvent être séparés lors de la transmission.
 
-Il s'agit d'une modification de l'état civil, la première possibilité résulte de l'article
-Code Civil Article 61 :
-"Aucun citoyen ne pourra porter de nom ni de prénom autre que ceux exprimé dans son acte de naissance."
-par principe on ne peut pas changer de nom de famille et résulte de la loi.
-***L'article 61*** en est une excession, apporter la preuve d'un intérèt légitime *consonnance étangère, reprendre le nom d'un de ces ancètres pour éviter l'extinction de nom*
-Il est une procédure admnistrative faite au garde ministère de la justice (Garde des sceaux), si il est d'accord le changement de nom se fait par décret. Les tiers on un délai de deux mois pour faire opposition si cela le porterais préjudice. Tout individu majeur peut demander à porter le nom prévu dans **Code civil article 311-21**
+#### 4. Cas particuliers : enfants trouvés et adoption
 
-### La protection du nom 
+Dans les cas où un enfant est **trouvé** sans lien de filiation identifiable, **l'article 57 du Code civil** prévoit que l'officier d'état civil attribue à l'enfant **trois prénoms**, le dernier servant de **nom de famille**
+
+. Cela permet à l’enfant de disposer d’une identité légale, même en l'absence de parents connus.
+
+Dans le cas de l’**adoption**, le nom de famille de l’enfant peut également être modifié. Si l’adoption est plénière (coupant tous les liens avec la famille d’origine), l’enfant prendra automatiquement le nom des parents adoptifs. En revanche, dans une adoption simple (qui laisse subsister certains liens avec la famille biologique), l’enfant peut conserver son nom d’origine, auquel le nom de l’adoptant pourra être ajouté.
+
+### II. Changement de nom de famille
+
+En principe, **un individu ne peut porter de nom autre que celui inscrit dans son acte de naissance**, selon **l'article 61 du Code civil**. Toutefois, il existe des cas où un changement de nom est possible, à condition de justifier d’un **intérêt légitime**. Ce changement de nom peut se faire pour diverses raisons :
+
+- **Nom à consonance étrangère**, pouvant causer des discriminations ou des difficultés d’intégration.
+- **Nom ridicule ou péjoratif**, affectant la dignité de la personne.
+- **Reprise du nom d’un ancêtre** pour éviter l'extinction de ce nom de famille.
+
+#### 1. Procédure de changement de nom
+
+La procédure de changement de nom est **administrative** et nécessite l’intervention du **Garde des Sceaux** (ministre de la Justice). Une demande doit être déposée auprès du ministère avec une justification de l’intérêt légitime. Si la demande est approuvée, le changement est officialisé par **décret**.
+Tout individu majeur peut demander à porter le nom prévu dans **Code civil article 311-21**
+
+### III. La protection du nom 
 Le nom est insaisissable et indisponible, on ne peut faire de contrat sur un nom de famille sauf si il est devnu une marque. On ne perd pas son nom de famille. Hypothèse dans le cas désquelles une personnes faisais usage du nom de famille d'une autre de bonne foi, publiquement et de manière loyale => acquisition.
 Deux actions principales : 
 1. Action en usurpation du nom : cela ne peut se faire que par une personne privé, le propriétaire du nom exerce une action en justice pour faire saissé l'usage de son nom de famille
 2. L'hypothès de l'utilisation Abusive du nom de famille, usage d'un nom de famille par un écrivain dans un ouvrage avec des mentions abusive. Possible de saisir le juge pour obtenir un dédomagement du fait de cette utilisation abusive.
+
 ----
+
+## Le Nom d'Usage Des Epoux
+Le nom d'usage n'est qu'un droit que on ne peut se saisir. Il n'y a pas d'obligation en la matière, c'est une possibilité qui existe pour deux types deux situations : 
+1. La paratlque pratique de l'usage dans le couple marié. 
+2. Et la pratique de l'usage du faite de la filiation.
+
+#### La paratlque pratique de l'usage dans le couple marié. 
+
+Avant 2013 les époux avaient le droit de porter le nom de leur conjoint à titre d'usage, en pratique c'était souvent l'épouse qui prenait le nom de son marie et lorsque c'était l'époux qui usait du nom de sa femme il procédait par adjonction du nom de sa femme alors que pour la femme dans la pluspart des cas une substitution du nom. Dans se cadre la est née une confusion consistant à coire que la femme changeait de nom.
+En réalité l'usage de nom ne modifie en rien l'état civil, le nom de naissance reste celui d'origine.
+
+La loi dite mariage pour tous, est venu codifier cet usage : 
+Code Civil Article 225-1 :
+> [!PDF|] [[Code civil.pdf#page=97&selection=86,0,103,92|Code civil, p.97]]
+> > 225-1 LOI n°2022-301 du 2 mars 2022 - art. 1 Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf Chacun des époux peut porter, à titre d'usage, le nom de l'autre époux, par substitution ou adjonction à son propre nom dans l'ordre qu'il choisit, dans la limite d'un nom de famille pour chacun d'eux.
+
+Retiens que chacun des époux peut porter à titre d'usage soit par substitution ou ajonction à son nom, le nom de l'autre époux. **Cet usage du nom n'engage en rien l'état civil.**
+
+Le nom d'usage des époux ne dures que le temps ou dures le mariage. **exception accord de l'époux, intérèt des enfants qui mineur**
+
+L'usage ne peut être abusif, et porter atteinte à celui qui le prète. Le juge pourra empécher l'usage du nom.
+
+#### La pratique de l'usage du faite de la filiation.
+Cet transmission éxigeait l'accord des deux parents, et ne changeait pas l'état civil de l'enfant. Aujourd'hui cela reste vrai néanmoins cela a moins d'intéret depuis la loi relative au nom de famille qui permet l'attribution des deux noms puisque elle permet la transmission des deux noms
+
+311-24-2 : venu codifier cet possibilité de nom d'usage => demande information possibilité de siasir le juge des affaires familiales, si enfant plus 13 ans consentement requis.
+
+#droit-des-personnes 
+
+
 
