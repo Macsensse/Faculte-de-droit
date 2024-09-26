@@ -1,3 +1,4 @@
+#introduction-général-au-droit 
 ### SECTION 1 : Les fondements du droit
 
 Il est essentiel de poser les bases du droit en rejetant certains amalgames et confusions. Ainsi, dans un premier temps, il est nécessaire de distinguer le droit naturel du droit positif, avant d'analyser les différences entre le droit et la justice. Ensuite, il convient de distinguer le droit de la morale et, enfin, de le différencier de la religion.
