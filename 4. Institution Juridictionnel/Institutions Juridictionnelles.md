@@ -31,7 +31,7 @@ En cas de non éxécution les parties peuvent demander au tribunal de rendre éx
 L'existence de la fonction de juger est itinérante à chaque société, dés lors que une société se forme la fonction de juger apparait de façon casi-simultanné **nécéssité***. 
 > **Nul ne peut se faire justice à soi-même**
 
-[[Partie 1 Les Principes Fondamentaux de la Justice française]]
+[[PARTIE I  LES PRINCIPES FONDAMENTAUX DE LA JUSTICE FRANCAISE]]
 
 
 
