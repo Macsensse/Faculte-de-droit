@@ -1,3 +1,4 @@
+#droit-des-personnes 
 #### Introduction générale
 
 Le **nom** est l'élément qui permet d'identifier une personne physique dans la société. En droit, il se compose du **nom de famille** et des **prénoms** attribués à la naissance dans l'acte de naissance. Il existe également le **nom d'usage**, facultatif, qui peut être utilisé par une personne en complément ou en remplacement de son nom de famille, sans toutefois avoir la même portée juridique. Le **nom de famille** est un **attribut obligatoire** transmis par filiation, alors que le **nom d'usage** est librement choisi.
@@ -87,7 +88,6 @@ Cet transmission éxigeait l'accord des deux parents, et ne changeait pas l'éta
 
 311-24-2 : venu codifier cet possibilité de nom d'usage => demande information possibilité de siasir le juge des affaires familiales, si enfant plus 13 ans consentement requis.
 
-#droit-des-personnes 
 
 
 

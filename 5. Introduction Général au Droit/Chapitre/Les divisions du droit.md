@@ -1,3 +1,4 @@
+#introduction-général-au-droit #séance3 
 il est nécessaire d’org l’ensemble des règles qui constit le droit afin d’en faciliter la compréhension et ma manip. Le droit va donc be divided en branches soit verticalement soit horizontalement.
 
 Section 1 : Les divisions « verticales » du droit
@@ -34,7 +35,7 @@ Droit interN privé: a pour goal de déter les relations entre particuliers et l
 
 ▪(s’agissant de la condition des étrangers) tenter de régler de savoir quels sont les droits auxquels ces derniers peuvent prétendre ds un État qui n’est pas le leur. (ex:accès à la propriété/à certaines professions réglementées/accès à sécu sociale)
 
-2. Le Droit de l’Union européenne
+### Le Droit de l’Union européenne
 
 ce n’est pas du droit interN car il possède son propre ordre juridique et ses spécificités notamment à travers le cara contraignant de ses règles. C donc un ensemble de règles instaurées par les diffs traités constitutifs. C ce qu’on call le droit primaire ou le droit originaire ainsi que les règles adoptées par les instits euros (donc de l’UE) afin de réaliser des goals fixés par les traités et la jurisprudence de la cours de justice de l’UE, c ce qu’on call le droit dérivé. C un droit mixte (=à la fois public et privé) :
 
@@ -60,7 +61,7 @@ Donc Droit dérivé=règlements,directives et jurisprudence de la cours de justi
 
 But de la CEDH:Instituée en 1959 par le Conseil de l'Europe, la Cour européenne des droits de l'Homme (CEDH) est une juridiction internationale dont la mission est d'assurer le respect de la mise en œuvre de la Convention européenne des droits de l'Homme dans les 46 États membres du Conseil de l'Europe.
 
-3. Le Droit interne:
+### Le Droit interne:
 
 droit en vigueur sur le territoire d’un État et est issu des diffs organes de cet État. Le parlement, le gouv, les juridictions. La garantie de son respect et la sanction en cas de violation sont assurées par ce mme État. On dit alors que l’État constitue un ordre juridique propre donc que l’ensemble des règles juridiques qui préfigurent relèvent de ce mme système. Il existe donc autant d’ordres juridiques que d’État. Donc pour comprendre la notion d’État, dans sa globalité:
 
@@ -68,9 +69,94 @@ l’État est donc un concept, une entité juridique ce qui signifie qu’on va 
 
 de droit public et donc la juridiction le conseil d’État. A cote de ces deux ordre le conseil constit doit contrôler la répartition des pouvoirs prévue par la constit il doit s’assurer du respect par les lois des libertés fondamentales et enfin il lui revient d’opérer sa mission de contrôle de constit par la loi. Si une loi votée par le parlement est anticonstit elle sera abrogée. Se faisant, les règlements et la jurisprudence compo alors une partie essentielle du droit interne french.
 
-SECTION 2:les divisions horizontales du droit
+## Les divisions horizontales du droit
 
 d’un pdv horizontal la RDD résulte de deux grandes branches: le droit public et le droit privé. Cette distinction des deux droits est apparue en France au 13e s et il s’agit encore ajd de la summa divisio de notre droit. C une distinction qui puise ses origines dans le droit romain et plus particulièrement dans le digeste de Justinien où il est énoncé une phrase très célèbre écrite par une jurisconsulte qui se call Ulpien « dans cette étude il y a deux positions, le public et le privé le jus publicum = droit public qui est celui qui regarde le statuum rei romane =Le statut, l’état de la chose romaine, le droit privé est celui qui intéresse l’utilité des particuliers » ces distinctions perdurent encore de nos jours, le droit public à notre époque actu correpd plus particulièrement à un ensemble de règles générales et imperso qui régissent la vie en société qui sont sanctionnées par la puissance publique et qui s’appliquent aux relations entre les personnes privées et les personnes publiques. Le droit public=ensemble des règles qui s’appliquent à l’org des pouvoirs publics et de l’admin. Le droit privé qd à lui va venir gérer les rapports entre les personnes privées=intérêts des particuliers.
 
-1:le droit privé
-#introduction-général-au-droit 
+### Le droit privé
+
+#séance4
+Le droit privé est ensemble de règle appliquable au particulier, qui intéresse aussi leurs satuts. *exemple : relatif à l'état civil*. Que les relations entre les particuliers, droit des contrats etc...
+
+Il peut également concerner les colléctivités privées
+
+***3 Grandes branche :***
+1. Droit civil
+2. Droit commercial
+3. Droit du travail
+#### A. Le droit civil :
+Branche la plus importante du droit privé, puisque il est la source de toutes les autres branches du droit privé. Il organise les rapports entres les personnes privées.
+- étude des personnes (incapacité et état civil)
+- étude des biens (droit de propriété)
+- Droit de la famille (Filiation Union Séparation)
+- [[Droit de la propriété]]
+- Droit des obligations (responsabilité civil)
+- Droit des régimes matrimoniaux régitles relations péquinière entre les époux
+- Droit des successions
+
+Le droit civil est le droit commun, on s'y réfère lorsque il n' a pas de règle de droit plus spécialisé. Il est appliqué et respecté par les juridictions de l'odre judiciaire. 
+[[PARTIE I  LES PRINCIPES FONDAMENTAUX DE LA JUSTICE FRANCAISE]]
+
+#### B. Droit commercial :
+Le droit commercial représente l'ensemble des règles appliquables au commerçant, au société commerciale et au acte de commerce.
+Origine est historique en Italie au sein des république marchande => ***Génération de contencieux*** ne peut pas être traité selon les règles de droit commun et donc envisagé une juridictions spécialisé (Tribunal de commerce) => **[[Le tribunal de commerce]]** (lien étroit avec le droit civil). Appel de ces juridictions se fait devant la Cour d'appel également une juridiction  civil.
+Ne pas confondre droit commercial et droit des affaires, le droit commercial est une des branche du droit des affaires.
+Droit des affaires = droit commercial + droit fiscale + droit etc...
+
+#### Droit du travail :
+Branche du droit privé qui gère les relation entre employeur et salarié. C'est donc une branche qui à gagné son autonomie notemment depuis les avancés sociales dû au différentes action mené par les mouvement sociaux et qui se caractérise par une protection croissante des salariés et de leur conditions de travail.
+
+Protection des salariés et cadre employeurs 
+
+***Juridiction*** => [[Le conseil de prud’hommes]]
+
+### Le droit public :
+c'est un droit qui gère le rapport entre les particuliers les instiutions, l'état.
+On distingue classiquement : 
+1. Le droit constituionnel
+2. Le droit administatif
+
+#### Le droit constitutionnel :
+Le droit constituionnel c'est le droit de l'état, qui a pour objet les limites du pouvoir de cet état. C'est le droit qui s'attache à l'étude des constitutions qui constitut les véritables colone vertebrales des états. Il n'éxiste pas d'état sans constitution.
+Le droit constitutionnel constitut un ensemble de règle relative à l'organisation d'état parceque la constitution définit la forme de l'état. *état miliaire, régional, fédéral* ainsi que les différent principe sur lesquels repose cette état (démocratie, république, nature du régime parlementaire, présidentiel).
+Règle relative à la dévolution du pouvoir et à son exercice qui va intéréssé la désignation des Hommes et des institutions qui exerce le pouvoir, leurs compétences, leurs rapports mutuels.
+
+Le droit constitutionnel en france par l'odre judiciaire et l'odre administratif.
+
+Juridiction spécialisée chargé du respect de la constitution => [[Conseil Constituitionnel]]
+
+#### Droit administratif :
+C'est l'ensemble des règles relatives à l'organisation de l'appareil étatique, qu'est l'administration. AInsi que les règles relative au relation de l'administration avec les particuliers. Entre personne publique et personne privé. Cet branche du droit couvre donc l'organsiation territorial de l'état français en gérant les différentes abilité territoriales tels que les communes les départements les régions, les collectivité à statut particulier.
+
+Elle prévoit aussi l'aménagement du territoire français, la gestion d'urbanisme, gestion des expropriation.
+
+Le droit administratif viens régler le satut et les compétences des fonctionnaires et agents publics, en fixant les règles en matière de contrat administratif, de travaux public mais aussi de responsabilité de l'administration. Le respect des règles applicables est confié au juridiction de l'ordre administratif avec à sa tête le conseil d'état => [[Conseil d ETat]] 
+
+On ne peut pas faire jugé cet état par le juge compétent par les particuliers autres ordre de juridiction : ordre administratif voir [[CHAPITRE II. LES PRINCIPES PROPRES AU SERVICE PUBLIC DE LA JUSTICE]]
+
+Droit administratif français est autonome, il s'agit d'un droit différent du droit privé, un droit exorbitant du droit commun. Un droit fait de privilège su sujetion pour les personnes publiques. Les prérogatives de puissances publiques. *exemple expropriation*
+
+Façe a des prôpriétaire récalcitrant l'état peut forcé quelqu'un à quitter sont domicile pour cause d'utilité publique en vu de satisfaire l'intérèt général.
+
+L'intérèt général semble être la raison d'être du droit administratif est autonome qu'il protège l'administration. Le droit administratif encadre l'actiona dministrative et le juge administratif est la pour veiller au respect du droit administratif par l'administration. Le juge administratif veille a ce que l'administration respecte le droit des administrés. Il est donc protecteur du droit des administrés par 2 instruments :
+1. Recours en responsabilité
+2. Recours pour excès de pouvoir
+
+##### Recours en responsabilité
+toutes les actions qui visent a obtenir des dommages et intérèt de la part des personnes publique
+
+##### Recours pour exès de pouvoir
+C'est une action visant à obtenir l'annulation d'un acte adlinistratif unilatéral. Considéré comme illégale . Procès fait à un acte
+#####
+
+Professeur René Chapu : Le droit adminsitratif est fondamentalement jurisprudentiel. il veut montré que c'est un droit prétorien, formé par le juge. Sa substance est le produit de la juris prudence du juge administratif. Affirmation tend à être ""Diminué""" car tend ầ être codifié.
+
+### Les Droits mixtes
+
+#### Droit pénal 
+Le droit pénal va slintéréssé au règle qui définisse les infractions, les contions dans lequels leur auteur pourrons être poursuivit et leur sanction. Plus de vengeance privé c'est pouruqoi l'état est toujours présent au procès pénal à travers le ministère public qu'il représente car on estime que une infraction commise même en vers une personne privé, est aussi commise à l'encontre de la société et donc de l'état.
+
+C'est la raison pour laquel même si il n y a pas de plainte, le ministère public peut poursuivre un délinquant.Puise que l'état intervient nous entrons dans le domaine du droit public. Mais le droit pénal peut aussi être rataché au droit privé. car il est appliqué par les juridictions de l'ordre judiciaire qui sanctionne les atteintes au personnes, au bien et à la société => [[Tribunal de police]] [[Tribunal correctionnel]] [[Cour d'assise]] & juridiction pour mineur
+
+#### Droit de l'union européenne
+L'UE constitut l'ensemble des règles issus du droit originaires des traités et du droit dérivés; il entre dans la catégorie droit public puisque les traités régissent les rapport entre états membres, mais il entre dans la catégorie droit privé car le droit privé peut interréssé les individus.

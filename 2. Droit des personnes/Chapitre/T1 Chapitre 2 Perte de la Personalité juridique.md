@@ -1,4 +1,4 @@
-#séance2 
+#droit-des-personnes #séance2 
 ## Le déces constaté
 
 ### A. Les critères du décès
@@ -85,4 +85,3 @@ Saisine du tribunal judiciaire, enquête réaliser avec un jugement déclaratif 
 
 ***Présume la mort***
 
-#droit-des-personnes 

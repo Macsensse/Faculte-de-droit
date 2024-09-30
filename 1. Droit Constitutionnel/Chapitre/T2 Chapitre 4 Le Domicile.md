@@ -1,1 +1,0 @@
-#droit-des-personnes #séance4 #asynchrone

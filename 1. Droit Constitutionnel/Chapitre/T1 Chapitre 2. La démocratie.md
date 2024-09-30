@@ -1,5 +1,4 @@
-#droit-constitutionnel 
-#séance3
+#droit-constitutionnel #séance3
 ***Définition :***
 La démocratie : c'est le gouvernement du peuple, par le peuple, pour le peuple.
 ***Il détient le pouvouvoir politique l'exerce pour lui même***

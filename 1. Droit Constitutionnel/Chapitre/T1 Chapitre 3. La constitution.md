@@ -1,9 +1,7 @@
-#droit-constitutionnel 
-#séance4
+#droit-constitutionnel #séance4
 
 ***Introduction :***
 Constitution est l'instrument juridique par lequel le peuple souverain limite le pouvoir des gouvernants et les contrait à respecter ses droit et liberté ***Constitutionnalisme***
-
 
 ## Définition Constitution
 **La définition neutre** (la C. contient les règles relatives à l’organisation du pouvoir politique – attribution et exercice du pouvoir) 
@@ -56,5 +54,26 @@ Pouvoir compétent pour réviser la constitution i. e. adopter des lois constitu
 • Art. 16 DDHC du 26 août 1789 « Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution ».
 
 
+#séance5 
+## La justice constitutionnelle
+***introduction :***
+Contrôle de constitutionnalité = contrôle de conformité à la C. des normes infraconstitutionnelles + sanction des normes inconstitutionnelles. Justice constitutionnelle = ensemble des moyens de contrôle de constitutionnalité de nature juridictionnelle. État de droit = soumission de l’État au droit, possible grâce au contrôle du respect de la hiérarchie des normes
 
-## Contrôle du respect de la constitution
+### Le modèle américain :
+Le contrôle de sontitutionnalité n'est pas prévu dans la constitution, prévoit seulement les compétences des institutions. En 1803 **Marbury vs Madison***, la cour supèrme devient compétente pour dire qu'une loi n'est pas constitutionnelle.
+
+- Contrôle diffus : le juge ordinaire est compétent pour effectuer le contrôle de constitutionnalité des lois 
+- Contrôle effectué par voie d’exception : à l’occasion d’un litige, le moyen tiré de l’inconstitutionnalité de la loi est soulevé et le juge saisi et compétent pour trancher cette question dont dépend l’issue du litige (question préalable). Donc contrôle concret et a posteriori (la loi est en vigueur).
+
+- Autorité relative de chose jugée des déclarations d’inconstitutionnalité des juges (effet inter partes) : l’application de la loi est écartée en l’espèce.
+
+	*Inconcreto*
+	
+Lorsque le juge déclare que la loi est inconstitutionnelle elle n'est pas annuler mais écarter son application au cas d'éspèce (ne tiens pas compte de la loi)
+
+related : **[[Cour suprème Américain]]**
+
+
+### Le modèle européen :
+
+

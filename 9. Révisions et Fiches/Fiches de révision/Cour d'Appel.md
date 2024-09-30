@@ -1,3 +1,4 @@
+#fiche #institutions-juridictionnelles 
 ## Définition
 La **cour d'appel** est une juridiction du **deuxième degré** dans le système judiciaire. Elle permet de rejuger une affaire déjà tranchée en première instance par une juridiction civile, pénale ou administrative. Les décisions rendues en première instance peuvent être contestées devant la cour d’appel si l’une des parties n'est pas satisfaite du jugement.
 

@@ -1,3 +1,4 @@
+#fiche #institutions-juridictionnelles 
 ## Définition
 La **Cour de cassation** est la plus haute juridiction de l'ordre judiciaire en France. Son rôle principal est de **vérifier la conformité des décisions des tribunaux et cours d'appel avec la loi**. Elle ne rejuge pas les faits, mais contrôle la correcte application du droit.
 

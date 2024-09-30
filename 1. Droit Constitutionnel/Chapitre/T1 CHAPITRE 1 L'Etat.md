@@ -1,4 +1,4 @@
-#séance1
+#droit-constitutionnel #séance1 
 ### Introduction : 
 Même dans les sociétés primitives, le chef (pouvoir personnel c'est à dire donner à une personne), dirige le pouvoir public. L'inconvéhient de ce système est que le pouvoir s'arrète à la mort de la personnes et donc l'arrêt du pouvoir politique. Le pouvoir politique est donc précaire avec un risque de désorganisation de la société à la mort de ce chef.
 
@@ -102,5 +102,4 @@ Art.1 al.1 La France est une république indivisisible, laïque démocratique et
 
 ### Etats-Unis
 *voir Constitution américaine*
-#droit-constitutionnel
 
