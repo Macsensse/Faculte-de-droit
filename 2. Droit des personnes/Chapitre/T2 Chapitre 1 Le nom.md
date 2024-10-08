@@ -18,9 +18,19 @@ Les principes fondamentaux de l'attribution du nom de famille aujourd'hui sont :
 
 Le **nom de famille** est principalement transmis par le biais de la filiation, que celle-ci soit établie par la naissance, le mariage, ou la reconnaissance légale. Selon **l'article 311-25 du Code civil**, le nom de famille est attribué au moment de la déclaration de naissance.
 
+> [!PDF|] [[Code civil.pdf#page=126&selection=8,0,30,116|Code civil, p.126]]
+> > 311-25 Ordonnance n°2005-759 du 4 juillet 2005 - art. 9 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006 - Conseil Constit. 2011-186/187/188/189 QPC Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf La filiation est établie, à l'égard de la mère, par la désignation de celle-ci dans l'acte de naissance de l'enfant.
+> 
+
 Si la mère est mariée, la **présomption de paternité** s'applique au mari selon **l'article 312 du Code civil**, ce qui signifie que l'enfant porte automatiquement le nom du père sauf si une autre filiation est établie. La présomption de paternité couvre une période légale de 6 mois avant la naissance et jusqu'à 10 mois après.
 
+> [!PDF|] [[Code civil.pdf#page=126&selection=44,0,66,59|Code civil, p.126]]
+> > 312 Ordonnance n°2005-759 du 4 juillet 2005 - art. 10 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006 - Conseil Constit. 2011-186/187/188/189 QPC Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf L'enfant conçu ou né pendant le mariage a pour père le mari
+> 
+
 Si les deux liens de filiation (père et mère) sont établis de manière simultanée ou dans un délai très rapproché, les parents doivent choisir conjointement le nom de famille de l'enfant (soit celui du père, soit celui de la mère, ou les deux). En cas de désaccord, **l'article 311-21 du Code civil** prévoit que l'officier de l'état civil attribue les deux noms dans l'ordre alphabétique. Si aucun choix n'est signalé, **le nom du père est attribué par défaut**.
+
+
 
 ##### Particularités des cas de filiation multiples :
 

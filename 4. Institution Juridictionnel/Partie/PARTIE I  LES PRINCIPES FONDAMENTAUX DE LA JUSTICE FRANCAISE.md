@@ -5,8 +5,9 @@ Une décision de justice peut avoir des conséquences graves sur la vie d'une pe
 > Sa gratuité est assurée selon les modalités fixées par la loi et le règlement.
 Certains principe doivent réguler le service de de la justice
 
-**[[CHAPITRE I. LES PRINCIPES COMMUNS A TOUS LES SERVICES PUBLICS]]**
-**[[CHAPITRE II. LES PRINCIPES PROPRES AU SERVICE PUBLIC DE LA JUSTICE]]**
+**[[P1 CHAPITRE I. LES PRINCIPES COMMUNS A TOUS LES SERVICES PUBLICS]]**
+**[[P1 CHAPITRE II. LES PRINCIPES PROPRES AU SERVICE PUBLIC DE LA JUSTICE]]**
+**[[P1 CHAPITRE III. LES PRINCIPES RELATIFS AU PROCES]]**
 
 
 #institutions-juridictionnelles 

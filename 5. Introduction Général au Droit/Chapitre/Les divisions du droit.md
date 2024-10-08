@@ -132,7 +132,7 @@ Elle prévoit aussi l'aménagement du territoire français, la gestion d'urbanis
 
 Le droit administratif viens régler le satut et les compétences des fonctionnaires et agents publics, en fixant les règles en matière de contrat administratif, de travaux public mais aussi de responsabilité de l'administration. Le respect des règles applicables est confié au juridiction de l'ordre administratif avec à sa tête le conseil d'état => [[Conseil d ETat]] 
 
-On ne peut pas faire jugé cet état par le juge compétent par les particuliers autres ordre de juridiction : ordre administratif voir [[CHAPITRE II. LES PRINCIPES PROPRES AU SERVICE PUBLIC DE LA JUSTICE]]
+On ne peut pas faire jugé cet état par le juge compétent par les particuliers autres ordre de juridiction : ordre administratif voir [[P1 CHAPITRE II. LES PRINCIPES PROPRES AU SERVICE PUBLIC DE LA JUSTICE]]
 
 Droit administratif français est autonome, il s'agit d'un droit différent du droit privé, un droit exorbitant du droit commun. Un droit fait de privilège su sujetion pour les personnes publiques. Les prérogatives de puissances publiques. *exemple expropriation*
 

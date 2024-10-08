@@ -4,7 +4,13 @@
 ## ***La saisine d'une juridiction civile***
 Il existe 2 possibilité pour saisir une juridiction civile :
 ***La requète :***
+Une **requête judiciaire** est une **demande écrite** introduite par une partie devant une juridiction, sans confrontation directe avec l'autre partie, dans le but d’obtenir une décision judiciaire. Contrairement à l’**assignation**, qui implique la convocation de l’autre partie (le défendeur) pour un débat contradictoire, la requête est souvent utilisée dans des procédures **non contentieuses** ou dans des situations où l'absence d'opposition est présumée.
+
+
 ***L'assignation :***
+L'**assignation** est un acte de procédure par lequel une personne (le **demandeur**) informe officiellement une autre personne (le **défendeur**) qu'elle est convoquée devant un tribunal pour répondre à une demande en justice. Cet acte est délivré par un **huissier de justice** et marque le début d'une procédure contentieuse devant une juridiction civile.
+
+***!!!!!! Pour les juridiction spécialisé voir au cas par cas*** !!!!!!!!!!!!!
 
 ## ***Les différentes Juridictions Civiles de première instance***
 
