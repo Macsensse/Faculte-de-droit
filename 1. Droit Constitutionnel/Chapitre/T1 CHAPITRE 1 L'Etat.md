@@ -49,25 +49,25 @@ Pouvoir politique != pouvoire adminstratif.
 #### **A. La déconcentration**
 
 ***circonscription administratives que ne sont pas des personnes publiques***
-***réprésentant de l'Etat nommées et hiérarchiquement subordonnée***
+***représentant de l'Etat nommées et hiérarchiquement subordonnée***
 
-*exemple en France : le prefet*
+*exemple en France : le préfet*
 
-> O. Barrot : C'est le même marteau qui frappe, mais on en a raccorci le mache
+> O. Barrot : C'est le même marteau qui frappe, mais on en a raccourci le mache
 
 #### ***B. La décentralisation***
 
-=> Dimension politique! à la décentralisation à partir du moment ou il ya des éluts, qui ne possède pas de pouvoir souverain sucepitbile d'être un contrepouvoir
-- Colléctivité terriotoriales / locales
+=> Dimension politique! à la décentralisation à partir du moment ou il y a des élus, qui ne possède pas de pouvoir souverain susceptible d'être un contrepouvoir
+- Collectivité territoriales / locales
 - élis locaux
-- décision adlinistratives édictées au nom de la collectivité locale. Libre administration
-- controle administratif de l'Etat / tutelle sur le contrôle administratif
-Personne morale de droit public donc autonomie vis a vis de l'état et plus la décision administartive de l'Etat 
-Autonomie + - importante. L'etat =
+- décision administratives édictées au nom de la collectivité locale. Libre administration
+- contrôle administratif de l'Etat / tutelle sur le contrôle administratif
+Personne morale de droit public donc autonomie vis a vis de l'état et plus la décision administrative de l'Etat 
+Autonomie + - importante. L'état =
 superposition entre décentration décentralisation en France
 
 ### L'Etat Fédéral (composé)
-SUperposition d'institution politque, réel séparation vericale du pouvoir, Etat composé de plusieurs Etat.
+Superposition d'institution politique, réel séparation verticale du pouvoir, Etat composé de plusieurs Etat.
 
 **Confédération d'Etats** : rapprochement d'état, peut être une étape dans la création d'un états souverains. Les Etat se rapproche mais reste pleinement souverains, ils concluent des alliances via des traités international. 
 
@@ -78,17 +78,17 @@ Les 3 principes de fonctionnement du fédéralisme
 - Principe d'autonomie
 - principe de participation
 
-Fédéralisme par association, à l'opposé du fédéralisme par désintégration d'un Etat unitaire comme la Belgique. Lorsque au sein d'un Etat il y a des tensions on peut les appaisé en donnant plus d'autonomie et se rapprocher du fédéralisme.
+Fédéralisme par association, à l'opposé du fédéralisme par désintégration d'un Etat unitaire comme la Belgique. Lorsque au sein d'un Etat il y a des tensions on peut les apaisé en donnant plus d'autonomie et se rapprocher du fédéralisme.
 **Unité Artificielle :** nécessite une volonté des Etats fédérés.
 
 
 ### L'Etat régional / autonomique
 
-Des Etat qui se présente unitaire, mais emprunte au fédéralisme, il Transferé à certaines collectivités territorial un rôle de legislateur et donc un partage du pouvoir legislatif entre l'Etat et certaine colléctivité, ce qui est incompatible avec l'Etat unitaire. **Loi local***
-***Forme intérmediaire :***
+Des Etat qui se présente unitaire, mais emprunte au fédéralisme, il Transféré à certaines collectivités territorial un rôle de législateur et donc un partage du pouvoir legislatif entre l'Etat et certaine collectivité, ce qui est incompatible avec l'Etat unitaire. **Loi local***
+***Forme intermédiaire :***
 Une seul constitution, contrôle de l'état sur les régions sous forme de tutelle etc...
 
-Forme récente qui concerne des Etats Unitaires dont certaine autorité territoiral / partie du territoire, qui demande plus de pouvoir et une plus grande autonomie pour affirmer leurs 
+Forme récente qui concerne des Etats Unitaires dont certaine autorité territorial / partie du territoire, qui demande plus de pouvoir et une plus grande autonomie pour affirmer leurs 
 
 
 ## Exemple d'Etat

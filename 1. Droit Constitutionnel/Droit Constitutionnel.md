@@ -2,7 +2,7 @@
 
 ***Branche du droit publique : c'est l'étude d'une partie des règles liées au pouvoir politique et de l'Etat. et des relations entre les membres de la société et l'État***
 
-***Droit Consitutionnel : C'est une branche du droit public interne, dont l'objet est l'étude des règles relatives au fonctionnement des organes de l'État qui exerce le pouvoir politique***
+***Droit Constitutionnel : C'est une branche du droit public interne, dont l'objet est l'étude des règles relatives au fonctionnement des organes de l'État qui exerce le pouvoir politique***
 ### **État & Pouvoir Politique**
 Depuis l'apparition des premières sociétés primitives, l'élaboration de ces règles de droit donne lieu à l'apparition d'un pouvoir politique. 
 Au sein de cette société une partie des membres sera chargé de dicté la vies en société

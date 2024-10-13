@@ -4,7 +4,7 @@
 Thomas Hobbes, *Léviathan* (1651), Jean Bodin
 
 ***Contexte Historique :***
-Le XVIIe siècle est marqué par une série de conflits et de bouleversements politiques en Europe. Parmi eux, la guerre de Trente Ans (1618-1648) a profondément marqué les États européens, dévastant de nombreuses régions, en particulier le Saint-Empire romain germanique. À la suite de ce conflit, le besoin d'un État fort et centralisé se fait sentir pour assurer la paix et la stabilité. 
+Le XVIIe siècle est marqué par une série de conflits et de bouleversements politiques en Europe. Parmi eux, la guerre de Trente Ans (1618-1648) a profondément marqué les États européens, dévastant de nombreuses régions, en particulier le Saint Empire romain germanique. À la suite de ce conflit, le besoin d'un État fort et centralisé se fait sentir pour assurer la paix et la stabilité. 
 
 C'est dans ce contexte que **Thomas Hobbes** écrit *Léviathan* en 1651, une œuvre qui propose une théorie de l'État moderne. Hobbes, influencé par les guerres civiles anglaises et les troubles politiques, considère que l'État doit être une autorité centrale forte pour éviter le "chaos naturel" (l'état de nature), où règne la loi du plus fort. Pour lui, les individus doivent renoncer à une partie de leur liberté en faveur d'un **contrat social**, afin de bénéficier de la sécurité offerte par l'État. L'État, comparé à un monstre biblique (le Léviathan), détient alors un pouvoir absolu pour garantir la paix et l'ordre.
 
@@ -87,9 +87,6 @@ timeline
 - Pas de différence sociale marquée
 - Pas de hiérarchie
 - Les liens de parenté l'emportent sur le lien national
-
-
-
 # Perspective Historique
 
 ## ***La naissance de l'Egypte pharaonique***

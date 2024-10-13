@@ -1,5 +1,4 @@
 #droit-des-personnes #séance4 #asynchrone
-
 # Le Logement en Droit Civil
 
 ## Introduction

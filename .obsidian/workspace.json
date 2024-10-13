@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "185c54ea47721cc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32a688e89b5da9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a3502c00554d5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Droit Constitutionnel/Droit Constitutionnel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fa6b8c4245e8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/QRC Séance 4 Droit Constitutionnel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "403a3b1d6c7dbc00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92afbdd2870ea5cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "634b7afc33f78256",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Livre/France/Code civil.pdf"
+              }
+            }
+          },
+          {
+            "id": "96cf18654d1ba81f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e2c720d8b2152c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "17fe3207ca4210fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3808da1c569404c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0075211be150954",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36b938b4c00d57a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "855d1de093254e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b81170495a5a489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe9f146e0030e37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "937de7b0608879e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ae75a53410954f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e900229c81df9900",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "403a3b1d6c7dbc00",
+  "lastOpenFiles": [
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/QRC Séance 4 Droit Constitutionnel.md",
+    "1. Droit Constitutionnel/Droit Constitutionnel.md",
+    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
+    "Livre/France/Code civil.pdf",
+    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/Fiche-TD-seance1-4.pdf",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 4 Le Domicile.md",
+    "2. Droit des personnes/Thème/THEME 2 L’IDENTIFICATION DE LA PERSONNE PHYSIQUE.md",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 3 Le sexe.md",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 2 Le prénom.md",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 1 Le nom.md",
+    "2. Droit des personnes/Thème/THEME 1 LA PERSONNALITE JURIDIQUE.md",
+    "2. Droit des personnes/Chapitre/T1 Chapitre 1 Le début de la personalité juridique.md",
+    "Livre/Jurisprence/Cour de cassation, Assemblée plénière, 7 novembre 2014, 14-83.739.pdf",
+    "3. Histoire du Droit/Thème/Histoire d'un concepte juridique Etat.md",
+    "3. Histoire du Droit/Histoire du Droit.md",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/Commentaire de texte.md",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/TD Droit Constitutionnel Séance 1.md",
+    "1. Droit Constitutionnel/Titre/Titre 1. Les fondements théoriques.md",
+    "1. Droit Constitutionnel/Chapitre/T1 CHAPITRE 1 L'Etat.md",
+    "5. Introduction Général au Droit/Chapitre/P2 Chapitre 1 Mise en perspective du droit objectif – Les sources.md",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4",
+    "Sans titre",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S3",
+    "5. Introduction Général au Droit/Chapitre/P1 Chapitre 1 Les spécifités du droit.md",
+    "2. Droit des personnes/Droit des Personnes.md",
+    "5. Introduction Général au Droit/Chapitre/P1 Chapitre 2 Les divisions du droit.md",
+    "2. Droit des personnes/Chapitre/T4 Chapitre 1 Protection de l'integrité morale.md",
+    "4. Institution Juridictionnel/Chapitre/P2 T2 CHAPITRE III. LES JURIDICTIONS ADMINISTRATIVES SPECIALISEE.md",
+    "4. Institution Juridictionnel/Partie/PARTIE II  LES JURIDICTIONS FRANCAISES.md",
+    "4. Institution Juridictionnel/Chapitre/P2 T2 CHAPITRE II. LES JURIDICTIONS ADMINISTRATIVES DE DROIT COMMUN.md",
+    "5. Introduction Général au Droit/Topo en Asynchrone/Exercice/Séance 5 IGD 23-24 Asynchrone.pdf",
+    "5. Introduction Général au Droit/Topo en Asynchrone/Cours - Topo",
+    "5. Introduction Général au Droit/Topo en Asynchrone/Exercice",
+    "5. Introduction Général au Droit/Topo en Asynchrone/Exercice/Séance 6 IGD 23-24 Asynchrone.pdf"
+  ]
+}

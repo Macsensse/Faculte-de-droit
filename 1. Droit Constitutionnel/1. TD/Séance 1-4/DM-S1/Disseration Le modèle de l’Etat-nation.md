@@ -1,5 +1,5 @@
 #dm #dissertation
-**Problématique** : En quoi le modèle de l'État-nation peut-il être une source de tensions entre les différentes composantes de la population au sein d'un même territoire ?
+**Problématique** : En quoi le modèle de l'État nation peut-il être une source de tensions entre les différentes composantes de la population au sein d'un même territoire ?
 
 ### I. Nationalisme et Exclusion
 #### A. Marginalisation des minorités

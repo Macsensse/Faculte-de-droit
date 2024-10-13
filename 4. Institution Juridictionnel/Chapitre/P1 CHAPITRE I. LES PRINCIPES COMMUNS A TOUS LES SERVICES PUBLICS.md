@@ -1,4 +1,4 @@
-#séance1 
+#institutions-juridictionnelles  #séance1 
 ## La continuité du services publique
 Est un aspect de la continuité de l'Etat, principe à **valeur constitutionnelle**. En principe la justice est rendu sans interruption et de manière continue. Les juridictions sièges sans aucune discontinuité d'un bout à l'autre de l'année. Au nom de la continuité du services publiques les magistrats ne peuvent faire grève.
 ***exception :***
@@ -34,6 +34,3 @@ Il ne doit pas prendre en compte son opinion politique et ne pas les montrer. Pa
 ## Principe de mutabilité et d'ataptabilité du Service Public
 Le services public de la justice ne doit pas rester immobile face au changement de la société. Il doit prendre en compte dans son organisation et son fonctionnement les variation et évolution affectant l'environnement juridique, économique  et social de la société suivre les besoins des usagers et les évolution technique.
 *exemple* ***Concernela Création, supression de service, saisir le juge par internet (pas encore possibile)***
-
-
-#institutions-juridictionnelles 

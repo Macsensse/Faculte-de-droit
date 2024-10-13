@@ -16,6 +16,9 @@ Les principes fondamentaux de l'attribution du nom de famille aujourd'hui sont :
 
 #### 2. Transmission par filiation
 
+***voir Code Civil 311-21 :***
+Qui définit la transmission du nom de famille par la filiation.
+
 Le **nom de famille** est principalement transmis par le biais de la filiation, que celle-ci soit établie par la naissance, le mariage, ou la reconnaissance légale. Selon **l'article 311-25 du Code civil**, le nom de famille est attribué au moment de la déclaration de naissance.
 
 > [!PDF|] [[Code civil.pdf#page=126&selection=8,0,30,116|Code civil, p.126]]
@@ -29,9 +32,6 @@ Si la mère est mariée, la **présomption de paternité** s'applique au mari se
 > 
 
 Si les deux liens de filiation (père et mère) sont établis de manière simultanée ou dans un délai très rapproché, les parents doivent choisir conjointement le nom de famille de l'enfant (soit celui du père, soit celui de la mère, ou les deux). En cas de désaccord, **l'article 311-21 du Code civil** prévoit que l'officier de l'état civil attribue les deux noms dans l'ordre alphabétique. Si aucun choix n'est signalé, **le nom du père est attribué par défaut**.
-
-
-
 ##### Particularités des cas de filiation multiples :
 
 - **Principe de chronologie** : Si un lien de filiation est établi avant l'autre, c'est ce nom qui sera attribué en premier.
@@ -62,13 +62,13 @@ En principe, **un individu ne peut porter de nom autre que celui inscrit dans so
 #### 1. Procédure de changement de nom
 
 La procédure de changement de nom est **administrative** et nécessite l’intervention du **Garde des Sceaux** (ministre de la Justice). Une demande doit être déposée auprès du ministère avec une justification de l’intérêt légitime. Si la demande est approuvée, le changement est officialisé par **décret**.
-Tout individu majeur peut demander à porter le nom prévu dans **Code civil article 311-21**
+Tout individu majeur peut demander à porter le nom prévu dans **Code civil article 61**
 
 ### III. La protection du nom 
-Le nom est insaisissable et indisponible, on ne peut faire de contrat sur un nom de famille sauf si il est devnu une marque. On ne perd pas son nom de famille. Hypothèse dans le cas désquelles une personnes faisais usage du nom de famille d'une autre de bonne foi, publiquement et de manière loyale => acquisition.
+Le nom est insaisissable et indisponible, on ne peut faire de contrat sur un nom de famille sauf si il est devenu une marque. On ne perd pas son nom de famille. Hypothèse dans le cas desquelles une personnes faisais usage du nom de famille d'une autre de bonne foi, publiquement et de manière loyale => acquisition.
 Deux actions principales : 
-1. Action en usurpation du nom : cela ne peut se faire que par une personne privé, le propriétaire du nom exerce une action en justice pour faire saissé l'usage de son nom de famille
-2. L'hypothès de l'utilisation Abusive du nom de famille, usage d'un nom de famille par un écrivain dans un ouvrage avec des mentions abusive. Possible de saisir le juge pour obtenir un dédomagement du fait de cette utilisation abusive.
+1. Action en usurpation du nom : cela ne peut se faire que par une personne privé, le propriétaire du nom exerce une action en justice pour faire cesser l'usage de son nom de famille
+2. L'hypothèse de l'utilisation Abusive du nom de famille, usage d'un nom de famille par un écrivain dans un ouvrage avec des mentions abusive. Possible de saisir le juge pour obtenir un dédommagement du fait de cette utilisation abusive.
 
 ----
 
@@ -94,9 +94,9 @@ Le nom d'usage des époux ne dures que le temps ou dures le mariage. **exception
 L'usage ne peut être abusif, et porter atteinte à celui qui le prète. Le juge pourra empécher l'usage du nom.
 
 #### La pratique de l'usage du faite de la filiation.
-Cet transmission éxigeait l'accord des deux parents, et ne changeait pas l'état civil de l'enfant. Aujourd'hui cela reste vrai néanmoins cela a moins d'intéret depuis la loi relative au nom de famille qui permet l'attribution des deux noms puisque elle permet la transmission des deux noms
+Cet transmission exigeait l'accord des deux parents, et ne changeait pas l'état civil de l'enfant. Aujourd'hui cela reste vrai néanmoins cela a moins d'intérêt depuis la loi relative au nom de famille qui permet l'attribution des deux noms puisque elle permet la transmission des deux noms
 
-311-24-2 : venu codifier cet possibilité de nom d'usage => demande information possibilité de siasir le juge des affaires familiales, si enfant plus 13 ans consentement requis.
+311-24-2 : venu codifier cet possibilité de nom d'usage => demande information possibilité de saisir le juge des affaires familiales, si enfant plus 13 ans consentement requis.
 
 
 

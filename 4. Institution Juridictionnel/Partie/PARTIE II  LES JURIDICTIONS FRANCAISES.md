@@ -76,13 +76,13 @@ En matière civile et commerciale, les parties peuvent parfois insérer des clau
 ### **TITRE I. LES JURIDICTIONS DE L’ORDRE JUDICIAIRE**
 EEn France, les juridictions de l'ordre judiciaire sont compétentes pour réguler les relations entre les individus, ainsi que celles entre les individus et la société, ce qui englobe un large éventail de questions relevant du droit civil. L'ordre judiciaire se divise en deux branches : l'ordre judiciaire civil et l'ordre judiciaire répressif, également connu sous le nom de droit pénal. Ces deux branches sont toutes rattachées à la Cour de cassation, qui constitue la plus haute instance de l'ordre judiciaire et assure l'harmonisation de la jurisprudence à travers le pays.
 
-**[[P2 CHAPITRE I. LES JURIDICTIONS CIVILES]]**
-**[[CHAPITRE II. LES JURIDICTIONS PENALES]]**
-**[[CHAPITRE III. LA COUR DE CASSATION]]**
+**[[P2 T1 CHAPITRE I. LES JURIDICTIONS CIVILES]]**
+**[[P2 T1 CHAPITRE II. LES JURIDICTIONS PENALES]]**
+**[[P2 T1 CHAPITRE III. LA COUR DE CASSATION]]**
 
 ### **TITRE II. LES JURIDICTIONS DE L’ORDRE ADMINISTRATIF**
-**[[CHAPITRE I. LE CONSEIL D’ETAT]]**
-**[[CHAPITRE II. LES JURIDICTIONS ADMINISTRATIVES DE DROIT COMMUN]]**
-**[[CHAPITRE III. LES JURIDICTIONS ADMINISTRATIVES SPECIALISEE]]**
+**[[P2 T2 CHAPITRE I. LE CONSEIL D’ETAT]]**
+**[[P2 T2 CHAPITRE II. LES JURIDICTIONS ADMINISTRATIVES DE DROIT COMMUN]]**
+**[[P2 T2 CHAPITRE III. LES JURIDICTIONS ADMINISTRATIVES SPECIALISEE]]**
 
 

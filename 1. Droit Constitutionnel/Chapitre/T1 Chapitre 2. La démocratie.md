@@ -1,16 +1,16 @@
 #droit-constitutionnel #séance3
 ***Définition :***
 La démocratie : c'est le gouvernement du peuple, par le peuple, pour le peuple.
-***Il détient le pouvouvoir politique l'exerce pour lui même***
+***Il détient le pouvoir politique l'exerce pour lui même***
 *Idée récente 17ème siècle*
 
 2 théorie sur la détention de la souveraineté :
 - Souveraineté Populaire
-- Souverainté Nationnal 
+- Souveraineté National 
 
-## Les Notions de démocratie directe réprésentative et semi-directe
+## Les Notions de démocratie directe représentative et semi directe
 ### La souveraineté populaire et la démocratie directe
-Chaque membre de la soicété est titulaire d'une partie de la souveraineté. Résultat de l'opinion de chaque individu.
+Chaque membre de la société est titulaire d'une partie de la souveraineté. Résultat de l'opinion de chaque individu.
 Difficile à pratiquer dans les grands états.
 Le peuple choisis des gouvernants ceux si on un mandat impératif =>  applique strictement la volonté de la population
 **LE VOTE EST UN DROIT & Facultatif & universel***.
@@ -20,23 +20,23 @@ Peuple n'est pas capable de gouverner développe l'idée d'une souveraineté nat
 Des représentant de la nation sauf que les représentant qui vont agir au nom de la nation, élu.
 ***Le vote n'est pas un droit mais une fonction obligatoire***
 ***Réservé le vote à certain,  le suffrage restreint*** *censitaire, capacitaire (niveau d'instruction)*
-**Mandat réprésentatif**
+**Mandat représentatif**
 
 ### La démocratie représentative
-Gouvernant liée au peuple l'éléction des réprésentants est une modalité d'exercice de la souverainté
-=>suffrage universel,égal, libre et, secret. (mandat représentatif) périodique
+Gouvernant liée au peuple l'élection des représentants est une modalité d'exercice de la souveraineté
+=>suffrage universel, égal, libre et, secret. (mandat représentatif) périodique
 ***Suffrage est un droit***,
-Un élécteur = une voie
+Un électeur = une voie
 
-***C'est démocratie sont en difficulté, on ouvlie la place du peuple.*** #problème 
+***C'est démocratie sont en difficulté, on oublie la place du peuple.*** #problème 
 
-### La démocratie semi-directe
-partage entre les réprésentant et le peuple.
-Démocratie smi-directe = démocratie réprésentative corrigée / tempérée par des outils de démocratie directe. Essenstiellement le référendum qui peut se décliner de multiple manière (législatif (*sur un loi*), constituant (*sur la constiution*), d'initiative populaire, abrogatif (*abrogation*), obligaoitre, facultatif, décisionnel, consultatif (*même lorsque il est une consultation populaire, juridiquement parlant, politiquement il est délicat d'ignoré la réponse majoritaire exprimé par le peuple*)) #problème 
+### La démocratie semi directe
+partage entre les représentant et le peuple.
+Démocratie semi directe = démocratie représentative corrigée / tempérée par des outils de démocratie directe. Essentiellement le référendum qui peut se décliner de multiple manière (législatif (*sur un loi*), constituant (*sur la constitution*), d'initiative populaire, abrogatif (*abrogation*), obligatoire, facultatif, décisionnel, consultatif (*même lorsque il est une consultation populaire, juridiquement parlant, politiquement il est délicat d'ignoré la réponse majoritaire exprimé par le peuple*)) #problème 
 
-La pratique est extèmement variable
+La pratique est extrêmement variable
 
-Malgré tout, le référundum est un outil avec beaucoup de défaut mais il permet de maintenir un lien entre les élus et les élécteurs.
+Malgré tout, le référendum est un outil avec beaucoup de défaut mais il permet de maintenir un lien entre les élus et les électeurs.
 
 ***Article 3 de  la Constitution***
 > [!PDF|yellow] [[Constitution Française.pdf#page=3&color=yellow|Constitution Française, p.3]]
@@ -50,7 +50,7 @@ Malgré tout, le référundum est un outil avec beaucoup de défaut mais il perm
 ## Les modes de scrutins
 ***définition***
 Suffrages exprimés (SE) : nombre de votes - votes nul et votes blancs.
-Sructin uninominal :
+Scrutin uninominal :
 Scrutin plurinominal ou liste
 
 ### Les modes de scrutins classiques
