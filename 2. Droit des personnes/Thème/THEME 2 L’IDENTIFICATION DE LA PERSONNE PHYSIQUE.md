@@ -12,5 +12,5 @@ Ré"gime juridique est l'ensemble des ègles que on va leur appliquer dans se ca
 
 ***[[T2 Chapitre 1 Le nom]]***
 ***[[T2 Chapitre 2 Le prénom]]***
-**[[T2 Chapitre 3 Le sexe**]]
+**[[T2 Chapitre 3 Le sexe]]**
 ***[[T2 Chapitre 4 Le Domicile]]***

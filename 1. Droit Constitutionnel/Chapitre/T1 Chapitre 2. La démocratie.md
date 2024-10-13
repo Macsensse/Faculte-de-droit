@@ -30,8 +30,8 @@ Un élécteur = une voie
 
 ***C'est démocratie sont en difficulté, on ouvlie la place du peuple.*** #problème 
 
-
 ### La démocratie semi-directe
+partage entre les réprésentant et le peuple.
 Démocratie smi-directe = démocratie réprésentative corrigée / tempérée par des outils de démocratie directe. Essenstiellement le référendum qui peut se décliner de multiple manière (législatif (*sur un loi*), constituant (*sur la constiution*), d'initiative populaire, abrogatif (*abrogation*), obligaoitre, facultatif, décisionnel, consultatif (*même lorsque il est une consultation populaire, juridiquement parlant, politiquement il est délicat d'ignoré la réponse majoritaire exprimé par le peuple*)) #problème 
 
 La pratique est extèmement variable

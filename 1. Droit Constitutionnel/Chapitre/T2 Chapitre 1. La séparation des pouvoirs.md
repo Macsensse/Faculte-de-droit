@@ -3,10 +3,6 @@
 
 ## Les originies de la théorie
 
-Bien sûr, voici une version plus détaillée de votre cours bibliographique, avec un approfondissement des idées centrales :
-
----
-
 ### Bibliographie :
 - **Aristote**, *Politique* (IVe siècle av. J.-C.)
 - **John Locke**, *Traité du Gouvernement civil* (1690)
@@ -37,6 +33,3 @@ La Révolution anglaise de 1688 (ou Glorieuse Révolution) marque un tournant d�
 - C’est dans ce contexte que **Locke** développe ses réflexions sur la nécessité de limiter le pouvoir royal par le droit et les institutions, en insistant sur la suprématie de la loi et le rôle protecteur de l’État. Pour lui, la souveraineté appartient au peuple, qui délègue temporairement le pouvoir à ses représentants, mais conserve le droit de le reprendre si les gouvernants abusent de leur autorité.
   
 - **Montesquieu**, bien que postérieur à ces événements, s’appuie sur l’exemple anglais pour étayer ses théories. Dans l’Angleterre post-révolutionnaire, il observe une séparation relative des pouvoirs et un équilibre entre le roi, le parlement et les cours de justice. Montesquieu plaide pour une telle répartition, non seulement comme un moyen d’éviter la tyrannie, mais aussi pour garantir la liberté individuelle.
-
-
-

@@ -1,0 +1,1 @@
+Garantie legislative de la décentralisation

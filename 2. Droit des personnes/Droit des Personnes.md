@@ -43,7 +43,7 @@ Comme pour tout sujet, il est nécessaire de définir les termes du sujet. Dans 
 		Lorsqu'il y a un mauvais un comportement, on le classera tantôt dans les contraventions, tantôt dans les délits, tantôt dans les crimes. Lorsqu'il y a un procès pénal, on va avoir souvent. Parquet, procureur, ministère public. Le procès pénal n'a que pour projet de rétablir le préjudice qui à été causé à la société.
 		=> La partie civile pour réparation du préjudice pour la victime physique dans le cas d'un procès pénal.
 
-[[THEME 1 LA PERSONNALITE JURIDIQUE(1T2)]]
+[[THEME 1 LA PERSONNALITE JURIDIQUE]]
 [[THEME 2 L’IDENTIFICATION DE LA PERSONNE PHYSIQUE]]
 [[THEME 3 LA PROTECTION DU CORPS HUMAIN DE LA PERSONNE PHYSIQUE]]
 [[THEME 4 LA PROTECTION DE L’INTEGRITE MORALE DE LA PERSONNE PHYSIQUE]]
