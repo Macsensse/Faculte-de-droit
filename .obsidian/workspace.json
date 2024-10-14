@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "579c785cd918c560",
+        "id": "47386a5d0e9682bd",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb8c07fa8c8d56a",
+            "id": "6df13f973ba2ad97",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md"
+              }
             }
           }
         ]
@@ -143,8 +147,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4eb8c07fa8c8d56a",
+  "active": "3808da1c569404c4",
   "lastOpenFiles": [
+    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 1. La séparation des pouvoirs.md",
+    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md",
     "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
     "6. Introduction aux En Jeux de la Transition Ecologique/Introduction aux en jeux de la transition écologique.md",
     "6. Introduction aux En Jeux de la Transition Ecologique/chapitre/Chapitre 3 Le contexte juridique.md",
@@ -155,8 +161,6 @@
     "2. Droit des personnes/Thème/THEME 4 LA PROTECTION DE L’INTEGRITE MORALE DE LA PERSONNE PHYSIQUE.md",
     "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/Commentaire de texte TD Séance 4.md",
     "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
-    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md",
-    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 1. La séparation des pouvoirs.md",
     "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires.md",
     "1. Droit Constitutionnel/Chapitre/T2 Chapitre 3. Le régime présidentiel américain.md",
     "1. Droit Constitutionnel/Droit Constitutionnel.md",
