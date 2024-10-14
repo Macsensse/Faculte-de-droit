@@ -1,3 +1,5 @@
+#droit-constitutionnel #dm
+related : [[T1 Chapitre 3. La constitution]]
 ***A quoi sert la Constitution ?***
 
 La Constitution est la norme juridique suprême d'un État. Elle fixe le cadre politique et juridique, en définissant le régime politique (par exemple, république ou monarchie) et la séparation des pouvoirs (exécutif, législatif, judiciaire). En France, elle inclut des textes fondamentaux comme la Déclaration des droits de l'homme de 1789 et la Constitution de 1958.

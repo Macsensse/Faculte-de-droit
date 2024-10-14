@@ -1,7 +1,6 @@
 #droit-constitutionnel #séance7
 
 ## Les diverses modalité du régime parlementaire
-### Du réfime parlementaire dualiste au régime parlementaire moniste
 
 ### Du régime parlementaire dualiste au régime parlementaire moniste
 
@@ -68,19 +67,19 @@ La transition du régime dualiste au régime moniste s'est souvent opérée à t
 
 Le passage du régime parlementaire dualiste au régime parlementaire moniste marque une évolution vers une plus grande concentration des responsabilités politiques entre le Parlement et le gouvernement, au détriment du chef de l'État. Si le régime dualiste est souvent plus complexe et sujet à des crises institutionnelles, le régime moniste apporte plus de stabilité mais au prix d'un affaiblissement de la fonction présidentielle ou royale, réduite à un rôle essentiellement symbolique.
 
-### Monocarémalisme ou bicamérisme
+### Monocamérisme ou Bicamérisme
 Dans un régime parlementaire, la distinction entre **monocaméralisme** et **bicamérisme** repose sur le nombre de chambres qui composent le Parlement, l’organe législatif de l’État. Cette distinction joue un rôle fondamental dans la structure institutionnelle, l’équilibre des pouvoirs, ainsi que dans la manière dont les lois sont débattues, votées et mises en œuvre.
 
-#### 1. **Monocaméralisme** 
+#### 1. **Monocamérisme** 
 
 Le monocaméralisme désigne un système parlementaire dans lequel il n’y a qu’une seule chambre législative. Autrement dit, l’ensemble du pouvoir législatif est concentré dans une unique assemblée qui a la charge de débattre et de voter les lois.
 
-##### **Avantages du monocaméralisme** :
+##### **Avantages du monocamérisme** :
 - **Simplicité et rapidité** : Ce modèle est plus simple et plus efficace, car il n’y a pas de va-et-vient législatif entre deux chambres. Cela réduit les délais de délibération et permet de légiférer rapidement, ce qui peut être un atout dans des situations d’urgence.
 - **Économie de moyens** : Un Parlement à une seule chambre réduit les coûts institutionnels. Moins de ressources humaines, financières et administratives sont nécessaires pour faire fonctionner une seule assemblée.
 - **Responsabilité directe** : Avec une seule chambre, il est plus facile d’identifier les responsables des décisions législatives. Cela rend la classe politique plus responsable vis-à-vis des citoyens.
 
-##### **Inconvénients du monocaméralisme** :
+##### **Inconvénients du monocamérisme** :
 - **Risque de concentration des pouvoirs** : L'absence d'une seconde chambre peut conduire à une concentration excessive des pouvoirs législatifs, voire à une dérive autoritaire, car il n’existe pas d’organe pour contrôler ou modérer les décisions de la première chambre.
 - **Moins de représentation des minorités** : Une seule chambre peut parfois ne pas refléter la diversité des opinions et des intérêts présents dans la société, surtout dans les systèmes à majorité simple où une majorité peut écraser les voix minoritaires.
 
@@ -106,7 +105,7 @@ Le bicamérisme, quant à lui, désigne un système où le Parlement est divisé
 
 Le bicamérisme est souvent adopté par des pays de plus grande taille ou ayant une diversité sociale, ethnique ou géographique significative, car il permet une meilleure représentation des différentes composantes du pays. Des exemples incluent la **France**, avec l’Assemblée nationale et le Sénat, ou encore le **Royaume-Uni**, avec la Chambre des communes et la Chambre des Lords.
 
-#### 3. **Bicamérisme parfait et bicamérisme imparfait**
+#### 3. **Bicamérisme parfait (égalitaire) et bicamérisme imparfait**
 
 Il convient également de différencier le **bicamérisme parfait** du **bicamérisme imparfait**.
 
@@ -117,4 +116,49 @@ Il convient également de différencier le **bicamérisme parfait** du **bicamé
 
 Le choix entre le monocaméralisme et le bicamérisme dépend des traditions politiques, de la taille et de la structure de l’État, ainsi que des objectifs en matière de représentation et d’équilibre des pouvoirs. Le monocaméralisme est simple et direct, mais peut manquer de contrepoids, tandis que le bicamérisme offre un cadre plus complet et équilibré, au prix d'une complexité accrue dans le processus législatif.
 
-## La séparation des pouvoirs en régime parlementaire
+## Section 2 : La séparation des pouvoirs en régime parlementaire
+
+Le régime parlementaire repose sur un équilibre des pouvoirs entre l'exécutif et le législatif. Le **Premier ministre** est le leader de la majorité parlementaire, incarnant le fait majoritaire, qui est essentiel au bon fonctionnement du régime. Ce système permet aussi une certaine clarté pour les citoyens, car le gouvernement est directement responsable devant le Parlement, lequel exerce un contrôle sur l'exécutif.
+
+### I – L’exécutif bicéphale
+
+Dans un régime parlementaire, l’exécutif est **bicéphale**, c’est-à-dire qu’il est partagé entre deux têtes : le **chef de l’État** et le **Premier ministre**. Cette distinction reflète une distribution du pouvoir au sein de l’exécutif.
+
+#### Le rôle du chef de l'État
+
+Dans la majorité des régimes parlementaires, le chef de l’État, qu’il soit un **monarque** ou un **président**, a perdu l’essentiel de ses pouvoirs au profit du Premier ministre et du gouvernement. Le chef de l’État joue donc un rôle avant tout **symbolique** et de **représentation**, restant à l’écart des décisions politiques quotidiennes. 
+
+- **Le monarque** arrive au pouvoir par le biais de l'hérédité, et son rôle est souvent limité à des fonctions cérémoniales.
+  
+- **Le président**, s'il n’est pas un monarque, est élu pour un mandat d'une durée déterminée (généralement 5 à 7 ans). L’élection au **suffrage universel direct** du président est rare dans les régimes parlementaires, l'exemple notable étant la **France**. Dans la plupart des cas, comme en **Allemagne** ou en **Italie**, le président est élu par le Parlement ou un **collège électoral** composé de parlementaires et d'autres représentants. Cette élection requiert souvent une **majorité qualifiée**, ce qui permet d'obtenir un consensus autour de la personnalité choisie pour le poste.
+
+Tous les actes officiels du chef de l’État sont **contresignés** par le Premier ministre ou d'autres ministres, ce qui signifie que le chef de l’État n'a pas de pouvoir autonome dans la prise de décisions politiques.
+
+#### Le rôle du Premier ministre
+
+Le **Premier ministre** est le véritable chef de l’exécutif dans un régime parlementaire. Il est désigné par le Parlement et tire sa légitimité de la **majorité parlementaire**. Il exerce les pouvoirs exécutifs, choisit les orientations politiques et dirige le gouvernement.
+
+Les modalités de désignation du Premier ministre peuvent varier selon les pays :
+- Dans certains cas, comme en **France**, un **vote d’investiture** est nécessaire pour prouver la confiance du Parlement envers le Premier ministre.
+- Au **Royaume-Uni**, où il n'y a pas de constitution écrite, le Premier ministre est simplement nommé par le roi ou la reine, la confiance étant **présumée** en raison du fait majoritaire au sein du Parlement.
+
+Le Premier ministre et son gouvernement doivent régulièrement rendre compte de leurs actions devant le Parlement, qui peut les **renverser** par un vote de défiance ou une motion de censure si la majorité parlementaire leur retire sa confiance.
+
+#### Les deux têtes de l'exécutif dans la pratique
+
+Dans les régimes parlementaires où le chef de l’État est un **monarque**, celui-ci est en grande partie effacé du processus décisionnel. Il n’intervient pas dans les choix politiques et se contente de remplir des fonctions **représentatives**. Un exemple typique est celui du **Royaume-Uni**, où le monarque prononce un discours à l’ouverture de la session parlementaire, mais ce discours est en réalité rédigé par le Premier ministre et expose le programme politique du gouvernement.
+
+Les présidents, bien que chefs de l’État, exercent des fonctions similaires de représentation. Cependant, dans certains cas, ils peuvent jouer un rôle plus actif, notamment en période de **crise**. Par exemple, ils peuvent tenter d’atténuer ou de résoudre les crises politiques par leur intervention ponctuelle.
+
+#### Les prérogatives spécifiques du chef de l’État
+
+Les chefs d’État, qu’ils soient monarques ou présidents, conservent néanmoins certaines prérogatives importantes, souvent encadrées et limitées :
+- Ils sont souvent **chefs des armées**, mais ils ne déclarent jamais la guerre seuls. Ils apposent leur signature sur des décisions militaires, mais ces décisions sont prises par le gouvernement.
+- Ils **promulguent les lois**, mais cette formalité intervient après que le Parlement a voté les textes. Leur rôle est ainsi de valider la mise en application des lois adoptées par la majorité parlementaire.
+- Ils ont parfois le pouvoir de **dissoudre le Parlement** à la demande du Premier ministre, en cas de blocage politique.
+
+En somme, si le chef de l’État peut intervenir, c’est de manière **ponctuelle** et souvent en période de crise. Il devient alors un acteur apaisant et peut agir comme **médiateur** dans des situations de tensions politiques majeures.
+
+### Conclusion
+
+La séparation des pouvoirs dans un régime parlementaire repose sur l’équilibre entre un exécutif bicéphale et un Parlement. Le chef de l’État joue un rôle symbolique, de représentation, et intervient rarement dans les décisions politiques. Le Premier ministre, soutenu par la majorité parlementaire, détient le véritable pouvoir exécutif et est responsable de la conduite des affaires politiques et des choix gouvernementaux. L'interaction entre ces deux figures de l'exécutif assure le bon fonctionnement du régime parlementaire, tout en maintenant le contrôle du gouvernement par le Parlement.

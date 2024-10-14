@@ -8,73 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a3502c00554d5d5",
+            "id": "2e981b023438af02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Droit Constitutionnel/Droit Constitutionnel.md",
+                "file": "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4fa6b8c4245e8dd",
+            "id": "40bbc94fb90ef37e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/QRC Séance 4 Droit Constitutionnel.md",
+                "file": "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/Commentaire de texte TD Séance 4.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "403a3b1d6c7dbc00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92afbdd2870ea5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "634b7afc33f78256",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Livre/France/Code civil.pdf"
-              }
-            }
-          },
-          {
-            "id": "96cf18654d1ba81f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+                "file": "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+                "file": "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md"
+                "file": "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md"
               }
             }
           }
@@ -201,14 +158,27 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "403a3b1d6c7dbc00",
+  "active": "2e981b023438af02",
   "lastOpenFiles": [
-    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/QRC Séance 4 Droit Constitutionnel.md",
+    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 1. La séparation des pouvoirs.md",
+    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md",
+    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires.md",
+    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 3. Le régime présidentiel américain.md",
     "1. Droit Constitutionnel/Droit Constitutionnel.md",
-    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
-    "Livre/France/Code civil.pdf",
-    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
     "1. Droit Constitutionnel/1. TD/Séance 1-4/Fiche-TD-seance1-4.pdf",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/Commentaire de texte TD Séance 4.md",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/QRC Séance 4 Droit Constitutionnel.md",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/TD Droit Constitutionnel Séance 4 La Constitution.md",
+    "5. Introduction Général au Droit/Chapitre/P2 Chapitre 1 Mise en perspective du droit objectif – Les sources.md",
+    "6. Introduction aux En Jeux de la Transition Ecologique/Introduction aux en jeux de la transition écologique.md",
+    "Livre/France/Code civil.pdf",
+    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
+    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+    "6. Introduction aux En Jeux de la Transition Ecologique/chapitre/Chapitre 2 Les grands enjeux environnementaux.md",
+    "6. Introduction aux En Jeux de la Transition Ecologique/chapitre/Chapitre 3 Le contexte juridique.md",
+    "6. Introduction aux En Jeux de la Transition Ecologique/chapitre/Chapitre 4 Penser le futur du système Terre.md",
+    "1. Droit Constitutionnel/Titre/Titre 2. La répartition des pouvoirs dans les régimes politiques contemporains.md",
+    "1. Droit Constitutionnel/Titre/Titre 1. Les fondements théoriques.md",
     "2. Droit des personnes/Chapitre/T2 Chapitre 4 Le Domicile.md",
     "2. Droit des personnes/Thème/THEME 2 L’IDENTIFICATION DE LA PERSONNE PHYSIQUE.md",
     "2. Droit des personnes/Chapitre/T2 Chapitre 3 Le sexe.md",
@@ -219,21 +189,9 @@
     "Livre/Jurisprence/Cour de cassation, Assemblée plénière, 7 novembre 2014, 14-83.739.pdf",
     "3. Histoire du Droit/Thème/Histoire d'un concepte juridique Etat.md",
     "3. Histoire du Droit/Histoire du Droit.md",
-    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/Commentaire de texte.md",
-    "1. Droit Constitutionnel/1. TD/Séance 1-4/TD Droit Constitutionnel Séance 1.md",
-    "1. Droit Constitutionnel/Titre/Titre 1. Les fondements théoriques.md",
-    "1. Droit Constitutionnel/Chapitre/T1 CHAPITRE 1 L'Etat.md",
-    "5. Introduction Général au Droit/Chapitre/P2 Chapitre 1 Mise en perspective du droit objectif – Les sources.md",
     "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4",
     "Sans titre",
     "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S3",
-    "5. Introduction Général au Droit/Chapitre/P1 Chapitre 1 Les spécifités du droit.md",
-    "2. Droit des personnes/Droit des Personnes.md",
-    "5. Introduction Général au Droit/Chapitre/P1 Chapitre 2 Les divisions du droit.md",
-    "2. Droit des personnes/Chapitre/T4 Chapitre 1 Protection de l'integrité morale.md",
-    "4. Institution Juridictionnel/Chapitre/P2 T2 CHAPITRE III. LES JURIDICTIONS ADMINISTRATIVES SPECIALISEE.md",
-    "4. Institution Juridictionnel/Partie/PARTIE II  LES JURIDICTIONS FRANCAISES.md",
-    "4. Institution Juridictionnel/Chapitre/P2 T2 CHAPITRE II. LES JURIDICTIONS ADMINISTRATIVES DE DROIT COMMUN.md",
     "5. Introduction Général au Droit/Topo en Asynchrone/Exercice/Séance 5 IGD 23-24 Asynchrone.pdf",
     "5. Introduction Général au Droit/Topo en Asynchrone/Cours - Topo",
     "5. Introduction Général au Droit/Topo en Asynchrone/Exercice",
