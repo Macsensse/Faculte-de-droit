@@ -47,9 +47,9 @@ Les correspondances sont visés par la vie privé
 ##### Le salarié une exception ?
 Non, le salarié à aussi le droit au respect de sa vie privé. Attention l'ordinateur mit à disposition par l'employeur peut être avec modération être utilisé à des fins personnels mais il vaut mieux pour tout ce qui relève de la vie privé soit mit dans un dossier personnel de sorte à que l'employeur ne puisse pas y avoir accès directement.
 
-**Un arrèt de principe de la Chambre Social Cour Cassation 2 Octobre 2001** (Affaire Nikon) : on ne peut pas tiré des élements de licenciments provenant d'une messagerie personnel.
+**Un arrêt de principe de la Chambre Social Cour Cassation 2 Octobre 2001** (Affaire Nikon) : on ne peut pas tiré des éléments de licenciements provenant d'une messagerie personnel.
 
-##### Les personalité publique :
+##### Les personnalités publiques :
 Les personnalité publique on aussi le droit à la vie privé, tant que cela concerne des actes privés et non des actes fait en publiques : *exemple à un match de foot*
 
 #### **B – Recours et sanctions**  
