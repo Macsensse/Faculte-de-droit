@@ -2,7 +2,7 @@
 ## La continuité du services publique
 Est un aspect de la continuité de l'Etat, principe à **valeur constitutionnelle**. En principe la justice est rendu sans interruption et de manière continue. Les juridictions sièges sans aucune discontinuité d'un bout à l'autre de l'année. Au nom de la continuité du services publiques les magistrats ne peuvent faire grève.
 ***exception :***
-Dans l'ordre judiciaire [[Le tribunal paritaire des baux ruraux]] se réunisse par session de même pour les Cour d'assise par session intermittente. Si il en est ainsi la principal raison est qu'il sont composé de juge exterieur car y a moins d'affaire. ***Dans l'ordre administratif*** ce sont les juridictions administratives spéciales siège par session (Les ordres professionnels). Les dimanches, jours férrier fermeture du service public justice **sauf en cas d'urgence*** toujours possible de saisir un juge des réfferés.
+Dans l'ordre judiciaire [[Le tribunal paritaire des baux ruraux]] se réunisse par session de même pour les Cour d'assise par session intermittente. Si il en est ainsi la principal raison est qu'il sont composé de juge extérieur car y a moins d'affaire. ***Dans l'ordre administratif*** ce sont les juridictions administratives spéciales siège par session (Les ordres professionnels). Les dimanches, jours ferrier fermeture du service public justice **sauf en cas d'urgence*** toujours possible de saisir un juge des référés.
 
 #séance2
 
