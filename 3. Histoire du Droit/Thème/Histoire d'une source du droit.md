@@ -141,3 +141,160 @@ Il se réfère à la loi des XII tables, objectif moderne de codification et de 
 
 Les XII tables posent la loi comme source d'apaisement des conflits (loi comme pacte social qui trouve un équilibre néanmoins elle peut assi devenir un instrument de domination #problème ). Aucune garantie qu'elle soit juste 
 
+Voici la mise en forme de votre cours sur **Le Sacre et la Loi Salique** :
+
+---
+
+## **Le Sacre et la Loi Salique**
+
+### **Définition**
+Le sacre est une cérémonie religieuse investissant un roi, symbolisant son lien avec la divinité. Cette cérémonie établit la légitimité divine du pouvoir royal, affirmant que le roi est choisi par Dieu pour gouverner.
+
+### **Exemple historique**
+Pépin le Bref a été sacré roi des Francs par le pape, illustrant ainsi le sacre de Saül par le prophète Samuel dans la Bible. Cela souligne l'importance du caractère sacré de la royauté.
+
+### **Étapes**
+
+#### **Succession Royale**
+
+- **Concept de la Mort Saisie** : Ce concept indique que la mort d'un roi entraîne immédiatement la nécessité de sacrer son successeur, marquant ainsi la transition du pouvoir.
+  
+- **Succession Élective vs Héréditaire** : Historiquement, la succession pouvait être élective (choix par les nobles) ou héréditaire (transmission du pouvoir au fils). Le sacre validait la légitimité du roi, qu'il soit élu ou héréditaire.
+
+#### **L’Onction**
+
+- **Rôle de l'Onction** : L’onction, consistant à appliquer de l’huile sainte sur le roi, est un acte central du sacre, symbolisant sa purification et son élection divine.
+
+- **Amélioration du Statut Royal** : Cette onction renforce l’autorité du roi, le distinguant des nobles ordinaires et lui conférant un caractère sacré.
+
+#### **Lois Fondamentales et Loi Salique**
+
+- **Lois Fondamentales** : Ce sont des règles régissant la succession au trône et l'organisation de la monarchie. Elles établissent des principes sur la légitimité et l'hérédité.
+
+- **Loi Salique** : Cette loi interdit la succession des femmes au trône, stipulant que seules les lignées masculines peuvent revendiquer la couronne. Elle a joué un rôle crucial dans l’histoire monarchique de France et a influencé de nombreux conflits de succession.
+
+#### **Regalia et Remise des Insignes Royaux**
+
+- **Sceptre** : Le roi reçoit le sceptre, symbole de sa puissance et de son autorité, souvent orné de symboles religieux.
+
+- **Main de Justice** : Parfois, le roi se voit remettre une main de justice, représentant son rôle de protecteur et de juge.
+
+#### **La Sainte Ampoule**
+La sainte ampoule est un récipient contenant une huile sainte utilisée lors des cérémonies de sacre des rois de France. Elle est souvent associée à l’onction royale, soulignant l'importance de ce rituel dans le sacre.
+
+#### **Couronnement**
+Le couronnement est le moment culminant de la cérémonie de sacre, où le roi reçoit la couronne, symbolisant sa souveraineté et son autorité sur le royaume. Cette étape finale de la cérémonie est souvent marquée par des prières et des chants religieux, affirmant ainsi le caractère sacré du pouvoir royal.
+
+---
+
+### **Remarques importantes**
+
+- **Philippe de Valois** : À retenir pour son rôle historique dans le contexte monarchique.
+
+- **Pouvoir thaumaturgique** : Dans le domaine religieux, il désigne le **fait de faire un miracle, notamment un miracle de guérison ou de résurrection**.
+
+- **Rapport à la loi** : Comparaison avec l'empereur Justinien.
+
+- **Monarchie absolue de droit divin** : Ne subsiste plus aujourd'hui, sauf au Maroc.
+
+- **MDD (Monarchie de Droit Divin)** : Ne signifie pas despote, le roi reçoit ce pouvoir en tant qu’**officium** et ne doit pas en abuser (loi fondamentale du royaume), il exerce une fonction de protection et de conservation.
+
+- **Songe du verger** : Les lois fondamentales du royaume sont coutumières et évoluent avec le temps, les normes émergeant progressivement avec l'histoire.
+
+---
+
+### **Règles de transmission et d’accession à la couronne**
+
+1. **Loi de l'hérédité** : La couronne est héréditaire et suit la succession dynastique.
+  
+2. **Primogéniture** : Le premier né hérite du trône.
+
+3. **Loi de masculinité** : Seules les lignées masculines peuvent revendiquer la couronne.
+
+4. **Principe de catholicité** : Le roi doit être de foi catholique.
+
+5. **Principe de majorité** : L’âge minimum pour accéder au trône est de 13 ans.
+
+---
+
+### **Statut de la couronne**
+
+- **Indisponibilité de la couronne** : Le roi n'en dispose pas à sa guise.
+
+- **Principe de continuité de la couronne** : Assure une succession stable et régulière.
+
+- **Deux lois fondamentales liées à la couronne** : Ces lois régissent le fonctionnement et la transmission du pouvoir royal.
+
+---
+
+### Inaliénabilité du domaine royal
+
+- Le domaine royal désigne tous les biens et droits qui appartienneent à la Couronne et qui lui sont 
+- principe d'iniabélité et imprrescriptibilité
+- exception apénage engagnement echanges
+
+---
+
+### Loi Salique
+#### Dynastie
+```mermaid
+graph TD
+    subgraph Capétiens
+        Hugues_Capet("Hugues Capet (c. 941-996)") 
+        Hugues_Capet --> Robert("Robert II (972-1031)")
+        Robert --> Henri_I("Henri I (1008-1060)")
+        Henri_I --> Philippe_I("Philippe I (1052-1108)")
+        Philippe_I --> Louis_VI("Louis VI le Gros (1081-1137)")
+        Louis_VI --> Louis_VII("Louis VII le Jeune (1120-1180)")
+        Louis_VII --> Philippe_II("Philippe II Auguste (1165-1223)")
+        Philippe_II --> Louis_IX("Louis IX (Saint Louis) (1214-1270)")
+        Louis_IX --> Philippe_III("Philippe III (1245-1285)")
+    end
+
+    subgraph Valois
+        Philippe_VI("Philippe VI (1293-1350)") --> Jean_I("Jean I (1316)")
+        Philippe_VI --> Philippe_VII("Philippe VII (1342-1350)")
+        
+        Philippe_VI --> Jean_II("Jean II le Bon (1319-1364)")
+        Jean_II --> Charles_V("Charles V (1338-1380)")
+        Jean_II --> Charles_VI("Charles VI (1368-1422)")
+        
+        Charles_VI --> Louis_XI("Louis XI (1423-1483)")
+        Charles_VI --> Charles_VII("Charles VII (1403-1461)")
+        Charles_VI --> Louis_XII("Louis XII (1462-1515)")
+    end
+
+    subgraph Bourbon
+        Louis_XII --> François_I("François Ier (1494-1547)")
+        Louis_XII --> Henri_II("Henri II (1519-1559)")
+        
+        Henri_II --> François_II("François II (1544-1560)")
+        Henri_II --> Charles_IX("Charles IX (1550-1574)")
+        Henri_II --> Henri_III("Henri III (1551-1589)")
+        Henri_II --> Catherine_de_Médicis("Catherine de Médicis (1519-1589)")
+        
+        François_I --> Henri_IV("Henri IV (1553-1610)")
+        
+        Henri_IV --> Louis_XIII("Louis XIII (1601-1643)")
+        Louis_XIII --> Louis_XIV("Louis XIV (1638-1715)")
+        Louis_XIV --> Louis_XV("Louis XV (1710-1774)")
+        Louis_XV --> Louis_XVI("Louis XVI (1754-1793)")
+    end
+
+```
+#### Evenement historique
+
+| DATES         | ÉVÉNEMENTS POLITIQUES ET JURIDIQUES                                                                                                                                                                                                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| V-VI s.       | Première rédaction du Pactus leges salicae du vivant de Clovis (mort en 511). Il s'agissait d'un recueil du droit coutumier des Francs dits « Salins » (installés entre la mer du Nord, la Somme et la Sambre).                                                                                           |
+| 768           | Publication de la Lex Salica par Charlemagne. Puis elle fut publiée.                                                                                                                                                                                                                                      |
+| 3 juillet 987 | Avennement de Hugues CAPET, fondateur de la dynastie des capétiens.                                                                                                                                                                                                                                       |
+| 987-1316      | Succession directe des frères en fils – « Miracle capétien »                                                                                                                                                                                                                                              |
+| 1316          | Mort de Jean Ier (6 jours), fils de Louis X et petit-fils de Philippe le Bel. Sa sœur, Isabelle de France, est exclue de la succession.                                                                                                                                                                   |
+| 1322          | Mort de Philippe V sans descendant mâle. Charles IV, le frère cadet, lui succède donc.                                                                                                                                                                                                                    |
+| 1328          | Mort de Philippe VI, dernier des fils de Philippe le Bel. Il n’a pas d’héritier mâle, ce qui provoque l’extinction de la branche capétienne.                                                                                                                                                              |
+| 1328          | Philippe VI de Valois est sacré roi de France. Once Louis X, Philippe V et Charles IV, les fils de Philippe le Bel. La dynastie sera désormais celle des Capétiens-Valois.                                                                                                                                |
+| 1337          | Édouard III d’Angleterre prête hommage à Philippe VI.                                                                                                                                                                                                                                                     |
+| 1337          | « Guerre de Cent ans » - Causes multiples : la crise successorale, épidémie de peste noire, difficultés économiques majeures, multiples questions de territoires et de frontières, etc. Mais la Guerre de Cent ans marque surtout l’agonie de la féodalité et la naissance progressive de l’État moderne. |
+| 1340          | Édouard III se proclame « roi de France » et cela malgré l’avis contraire des papes Benoît XII et plus tard Clément VI (1344). Le titre fut revendiqué par les rois d’Angleterre jusqu’à la paix d’Amiens en 1802 ! Les mémoires de légistes se multiplient.                                              |
+| 1360          | Identification de la loi salique                                                                                                                                                                                                                                                                          |

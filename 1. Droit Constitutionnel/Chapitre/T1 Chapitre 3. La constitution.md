@@ -4,7 +4,8 @@
 Constitution est l'instrument juridique par lequel le peuple souverain limite le pouvoir des gouvernants et les contrait à respecter ses droit et liberté ***Constitutionnalisme***
 
 ## Définition Constitution
-##### **La définition neutre** (la C. contient les règles relatives à l’organisation du pouvoir politique – attribution et exercice du pouvoir) 
+##### **La définition neutre** 
+(la C. contient les règles relatives à l’organisation du pouvoir politique – attribution et exercice du pouvoir) 
 ***Qui ne rime pas forcément avec démocratie*** => [[T1 Chapitre 2. La démocratie]]
 ##### **La définition politique** (ou sociale ou moderne)
 incluant un critère matériel (relatif au contenu de la C. qui doit prévoir une séparation des pouvoirs et la garantie des droits) et en général un critère formel (relatif au contenant que constitue la C. qui est élaborée et révisée selon une procédure spéciale et protégée par un contrôle de constitutionnalité).
@@ -32,7 +33,8 @@ En pratique peut être :
 
 ### ***Le pouvoir constituant dérivé***
 Pouvoir compétent pour réviser la constitution i. e. adopter des lois constitutionnelles (LC)
-##### **La Constitution rigide :** Si la procédure d’adoption des Loi Constitutionnelles est plus complexe que l’adoption des lois (ordinaires), par ex., pouvoir constituant dérivé confié à un organe spécial, qui n’est pas le Parlement dans sa composition ordinaire ; adoption des LC à la majorité qualifiée ; LC approuvées par référendum.
+##### **La Constitution rigide :** 
+Si la procédure d’adoption des Loi Constitutionnelles est plus complexe que l’adoption des lois (ordinaires), par ex., pouvoir constituant dérivé confié à un organe spécial, qui n’est pas le Parlement dans sa composition ordinaire ; adoption des LC à la majorité qualifiée ; LC approuvées par référendum.
 ##### ***La Constitution est souple lorsqu’une loi ordinaire peut la modifier.*** 
 • Première Constitution moderne : État de Virginie (29 juin 1776) ; contient la Déclaration des droits adoptée par cet État le 12 juin 1776 
 • Lois fondamentales du Royaume (France) : ne sont pas l’équivalent d’une C. 

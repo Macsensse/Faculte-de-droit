@@ -32,6 +32,7 @@ L'existence de la fonction de juger est itinérante à chaque société, dés lo
 > **Nul ne peut se faire justice à soi-même**
 
 [[PARTIE I  LES PRINCIPES FONDAMENTAUX DE LA JUSTICE FRANCAISE]]
+[[PARTIE II  LES JURIDICTIONS FRANCAISES]]
 
 
 
