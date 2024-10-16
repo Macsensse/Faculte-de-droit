@@ -7,7 +7,7 @@ Constitution est l'instrument juridique par lequel le peuple souverain limite le
 ##### **La définition neutre** 
 (la C. contient les règles relatives à l’organisation du pouvoir politique – attribution et exercice du pouvoir) 
 ***Qui ne rime pas forcément avec démocratie*** => [[T1 Chapitre 2. La démocratie]]
-##### **La définition politique** (ou sociale ou moderne)
+##### **La définition materiel** (politique ou ou sociale ou moderne)
 incluant un critère matériel (relatif au contenu de la C. qui doit prévoir une séparation des pouvoirs et la garantie des droits) et en général un critère formel (relatif au contenant que constitue la C. qui est élaborée et révisée selon une procédure spéciale et protégée par un contrôle de constitutionnalité).
 **3 critères :**
 1. *Un contenu particulier* **Règles fondamentales & Limitation du pouvoir de l'Etat, etc...**
@@ -26,20 +26,21 @@ règle non écrite non sanctionné
 ## L'élaboration et la révision des constitutions
 
 ### ***Le pouvoir constituant originaire***
+Le pouvoir qui élabore une Constitution
 Dans une démocratie la constitution est élaboré par le peuple concrètement par les représentants du peuple.
 En pratique peut être : 
 ***Elire une assemblée Constituante*** => spécialement constitué pour la rédaction de la constitution.
+***Referundum Constitutant***
 ***Soumis à validation au peuple par le référendum***
 
 ### ***Le pouvoir constituant dérivé***
 Pouvoir compétent pour réviser la constitution i. e. adopter des lois constitutionnelles (LC)
 ##### **La Constitution rigide :** 
-Si la procédure d’adoption des Loi Constitutionnelles est plus complexe que l’adoption des lois (ordinaires), par ex., pouvoir constituant dérivé confié à un organe spécial, qui n’est pas le Parlement dans sa composition ordinaire ; adoption des LC à la majorité qualifiée ; LC approuvées par référendum.
+Si la procédure d’adoption des Loi Constitutionnelles est plus complexe / différente que l’adoption des lois (ordinaires), par ex., pouvoir constituant dérivé confié à un organe spécial, qui n’est pas le Parlement dans sa composition ordinaire ; adoption des LC à la majorité qualifiée ; LC approuvées par référendum.
 ##### ***La Constitution est souple lorsqu’une loi ordinaire peut la modifier.*** 
 • Première Constitution moderne : État de Virginie (29 juin 1776) ; contient la Déclaration des droits adoptée par cet État le 12 juin 1776 
 • Lois fondamentales du Royaume (France) : ne sont pas l’équivalent d’une C. 
 • Art. 16 DDHC du 26 août 1789 « Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution ».
-
 
 #séance5 
 ## La justice constitutionnelle
@@ -59,7 +60,6 @@ related : **[[Cour suprème Américain]]**
 ### Le modèle européen :
 **[[H. Kelsen]]** 
 En quelque point :
-
 - **Contrôle concentré** : réservé à une juridiction spéciale (Cour constitutionnelle / Tribunal constitutionnel).
 - **Contrôle exercé par voie d’action** : le juge constitutionnel est saisi d’un litige dont l’objet est de trancher la question de la constitutionnalité d’une loi. 
 - **Déclarations d’inconstitutionnalité** du juge constitutionnel dotées de l’autorité absolue de chose jugée : la loi disparaît de l’ordonnancement juridique (effets erga omnes). 
