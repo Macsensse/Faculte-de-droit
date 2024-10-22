@@ -2,7 +2,7 @@
 ***Définition :***
 La démocratie : c'est le gouvernement du peuple, par le peuple, pour le peuple.
 ***Il détient le pouvoir politique l'exerce pour lui même***
-*Idée récente 17ème siècle*
+*Idée récente 17ème siècles* Lumières
 
 2 théorie sur la détention de la souveraineté :
 - Souveraineté Populaire
@@ -73,5 +73,3 @@ La RP est forcément un scrutin de liste à 1 seul tour et consiste à attribuer
 - *exemple en France pour les élection municipales et régionales* RP avec prime majoritaire (deux tours)
 - *exemple de l'allemagne, éléction au Bundestag*
 - *exemple en Italie : élection d'une majorité de parlementaire à la RP et d'une minorité au scrutin majoritaire*
-
-

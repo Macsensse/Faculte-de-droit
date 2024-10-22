@@ -162,3 +162,24 @@ En somme, si le chef de l’État peut intervenir, c’est de manière **ponctue
 ### Conclusion
 
 La séparation des pouvoirs dans un régime parlementaire repose sur l’équilibre entre un exécutif bicéphale et un Parlement. Le chef de l’État joue un rôle symbolique, de représentation, et intervient rarement dans les décisions politiques. Le Premier ministre, soutenu par la majorité parlementaire, détient le véritable pouvoir exécutif et est responsable de la conduite des affaires politiques et des choix gouvernementaux. L'interaction entre ces deux figures de l'exécutif assure le bon fonctionnement du régime parlementaire, tout en maintenant le contrôle du gouvernement par le Parlement.
+
+## II – Le Parlement
+#séance8
+
+Le mode de scrutin choisi pour l’élection des parlementaires détermine largement l’organisation des partis politiques et contribue ainsi à faciliter ou compliquer la constitution d’un système majoritaire. 
+
+Ainsi, les membres de la Chambre des communes au Royaume-Uni sont élus au scrutin uninominal majoritaire à un tour qui produit un bipartisme et donne en principe au Premier ministre le soutien solide du parti majoritaire à la chambre. Ce bipartisme crée une stabilité malgré l’absence de rationalisation du régime. Parfois le parti minoritaire peut empêcher l’un des 2 grands partis de bénéficié de la majorité absolue. 
+
+En Allemagne, on a le Bundestag (environ 700 élus pour 4 ans). Les membres sont élus selon un scrutin proportionnel qui conduit à un multipartisme. Les grands partis doivent faire des alliances avec les plus petits partis car seuls ils n’auront pas la majorité absolue. Le régime est tout de même stable, car il est très rationnalisé. 
+
+En Italie, le scrutin est essentiellement proportionnel. Le régime n’est pas rationnalisé donc le régime est instable. Coalition des partis.  
+
+La Parlement a 2 fonctions : 
+
+- La fonction législative : mise en œuvre du programme de la majorité élue. Il partage cette fonction avec l’exécutif au niveau de l’adoption des lois, de la discussion des lois... Si le gouv abuse des prérogatives, on peut vite dériver vers un régime présidentialiste. 
+    
+
+- La fonction de contrôler le gouvernement : il y a des moyens de contrôle qui n’engage pas la responsabilité politique du gouv (demande de justification sur des actions estimées excessives, sur la proposition de loi, ...), et aussi des moyens de contrôle qui engage la responsabilité du gouv (moyen de pression, ...). Le gouv doit savoir endosser une respons politique, même si aucun mécanisme de respons politique n’a été engagé contre lui.  
+    
+
+Au RU, c’est le 1er ministre qui démissionne lorsqu’il constate qu’il a perdu le soutien de sa majorité. Il dissout l’assemblée en générale vers la fin du mandat des députés.

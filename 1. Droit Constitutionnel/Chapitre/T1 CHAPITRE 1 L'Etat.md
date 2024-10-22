@@ -35,7 +35,6 @@ Si le pouvoir est divisé il peut être limité, facteur de démocration avec de
 
 ### L'Etat Unitaire (simple)
 
-
 La loi ne peut être confié qu'a des organes politiques qui ont un pouvoir souverrain à forciorie il y a la constitution au-dessus des lois (***voir hiérarchie des normes***), une seul constitution dans un Etat unitaire. Le réglement permet d'appliquer une loi et peut être édicter pour une institutions administrative sans pour autant qu'elle est un pouvoir politique. ***Compétence administrative***. Plusieurs source de pouvoir réglementaire mais un seul type de pouvoir politique.
 Pouvoir politique != pouvoire adminstratif.
 
@@ -71,7 +70,6 @@ Superposition d'institution politique, réel séparation verticale du pouvoir, E
 
 **Confédération d'Etats** : rapprochement d'état, peut être une étape dans la création d'un états souverains. Les Etat se rapproche mais reste pleinement souverains, ils concluent des alliances via des traités international. 
 
-
 G.Scelle
 Les 3 principes de fonctionnement du fédéralisme
 - principe de superposition d'Etats : 
@@ -89,7 +87,6 @@ Des Etat qui se présente unitaire, mais emprunte au fédéralisme, il Transfér
 Une seul constitution, contrôle de l'état sur les régions sous forme de tutelle etc...
 
 Forme récente qui concerne des Etats Unitaires dont certaine autorité territorial / partie du territoire, qui demande plus de pouvoir et une plus grande autonomie pour affirmer leurs 
-
 
 ## Exemple d'Etat
 
