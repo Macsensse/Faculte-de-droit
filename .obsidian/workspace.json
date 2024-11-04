@@ -11,11 +11,49 @@
             "id": "6df13f973ba2ad97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Droit des personnes/Chapitre/T1 Chapitre 2 Perte de la Personalité juridique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T1 Chapitre 2 Perte de la Personalité juridique"
+            }
+          },
+          {
+            "id": "1515b143fe21e9da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Livre/Jurisprence/Cour de Cassation, Assemblée plénière, du 31 mai 1991, 90-20.105, Publié au bulletin - Légifrance.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 338,
+                "zoom": 1.92113768462671
+              },
+              "icon": "lucide-file-text",
+              "title": "Cour de Cassation, Assemblée plénière, du 31 mai 1991, 90-20.105, Publié au bulletin - Légifrance"
+            }
+          },
+          {
+            "id": "2aaf628f3c887f8b",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Droit des personnes/Chapitre/T1 Chapitre 1 Le début de la personalité juridique.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T1 Chapitre 1 Le début de la personalité juridique"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -35,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -50,7 +90,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -58,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -81,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md",
+                "file": "2. Droit des personnes/Chapitre/T1 Chapitre 1 Le début de la personalité juridique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +133,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour T1 Chapitre 1 Le début de la personalité juridique"
             }
           },
           {
@@ -98,10 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md",
+                "file": "2. Droit des personnes/Chapitre/T1 Chapitre 1 Le début de la personalité juridique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de T1 Chapitre 1 Le début de la personalité juridique"
             }
           },
           {
@@ -112,7 +160,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -121,8 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md"
-              }
+                "file": "2. Droit des personnes/Chapitre/T1 Chapitre 1 Le début de la personalité juridique.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de T1 Chapitre 1 Le début de la personalité juridique"
             }
           }
         ]
@@ -147,43 +199,42 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3808da1c569404c4",
+  "active": "2aaf628f3c887f8b",
   "lastOpenFiles": [
-    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 1. La séparation des pouvoirs.md",
-    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires applications.md",
-    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
-    "6. Introduction aux En Jeux de la Transition Ecologique/Introduction aux en jeux de la transition écologique.md",
-    "6. Introduction aux En Jeux de la Transition Ecologique/chapitre/Chapitre 3 Le contexte juridique.md",
-    "4. Institution Juridictionnel/Chapitre/P1 CHAPITRE I. LES PRINCIPES COMMUNS A TOUS LES SERVICES PUBLICS.md",
-    "2. Droit des personnes/Chapitre/T3 Chapitre 1  L’intégrité physique.md",
-    "2. Droit des personnes/Thème/THEME 3 LA PROTECTION DU CORPS HUMAIN DE LA PERSONNE PHYSIQUE.md",
+    "Livre/France/Code civil.pdf",
+    "2. Droit des personnes/Chapitre/T1 Chapitre 2 Perte de la Personalité juridique.md",
+    "Livre/Jurisprence/Cour de Cassation, Assemblée plénière, du 31 mai 1991, 90-20.105, Publié au bulletin - Légifrance.pdf",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 1 Le nom.md",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 2 Le prénom.md",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 3 Le sexe.md",
+    "2. Droit des personnes/Chapitre/T2 Chapitre 4 Le Domicile.md",
+    "2. Droit des personnes/Chapitre/T1 Chapitre 1 Le début de la personalité juridique.md",
+    "2. Droit des personnes/Chapitre/T5 Chapitre 1 Le mineur.md",
     "2. Droit des personnes/Chapitre/T4 Chapitre 1 Protection de l'intégrité morale.md",
-    "2. Droit des personnes/Thème/THEME 4 LA PROTECTION DE L’INTEGRITE MORALE DE LA PERSONNE PHYSIQUE.md",
-    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/Commentaire de texte TD Séance 4.md",
-    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 2. La démocratie.md",
+    "2. Droit des personnes/Chapitre/T3 Chapitre 1  L’intégrité physique.md",
+    "3. Histoire du Droit/PERIODISATION HISTORIQUE.pdf",
+    "3. Histoire du Droit/Histoire du Droit.md",
+    "A. Exercice & Devoir rendu/Fiche d'arrêt entrainement.md",
+    "Livre/Jurisprence/Cour de cassation, Assemblée plénière, 7 novembre 2014, 14-83.739.pdf",
+    "9. Révisions et Fiches/Fiches de révision/Le tribunal paritaire des baux ruraux.md",
+    "5. Introduction Général au Droit/Chapitre/P2 Chapitre 2 Mise en oeuvre du droit objectif.md",
+    "2. Droit des personnes/Thème/THEME 5  LES PERSONNES VULNERABLE.md",
+    "2. Droit des personnes/1. TD/Séance 4/Séance 4 Droit des personnes TD.md",
+    "2. Droit des personnes/1. TD/Séance 4",
     "1. Droit Constitutionnel/Chapitre/T2 Chapitre 2. Les régimes parlementaires.md",
-    "1. Droit Constitutionnel/Chapitre/T2 Chapitre 3. Le régime présidentiel américain.md",
+    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/Correction Dissertation.md",
+    "T2 Chapitre 2. Les régimes parlementaires.md",
+    "Le tribunal paritaire des baux ruraux.md",
+    "Correction Dissertation.md",
+    "2. Droit des personnes/Thème/THEME 1 LA PERSONNALITE JURIDIQUE.md",
+    "2. Droit des personnes/Droit des Personnes.md",
+    "1. Droit Constitutionnel/Chapitre/T1 Chapitre 3. La constitution.md",
+    "1. Droit Constitutionnel/Titre/Titre 1. Les fondements théoriques.md",
     "1. Droit Constitutionnel/Droit Constitutionnel.md",
     "1. Droit Constitutionnel/1. TD/Séance 1-4/Fiche-TD-seance1-4.pdf",
-    "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4/QRC Séance 4 Droit Constitutionnel.md",
-    "1. Droit Constitutionnel/1. TD/Séance 1-4/TD Droit Constitutionnel Séance 4 La Constitution.md",
-    "5. Introduction Général au Droit/Chapitre/P2 Chapitre 1 Mise en perspective du droit objectif – Les sources.md",
-    "Livre/France/Code civil.pdf",
-    "6. Introduction aux En Jeux de la Transition Ecologique/chapitre/Chapitre 2 Les grands enjeux environnementaux.md",
-    "6. Introduction aux En Jeux de la Transition Ecologique/chapitre/Chapitre 4 Penser le futur du système Terre.md",
-    "1. Droit Constitutionnel/Titre/Titre 2. La répartition des pouvoirs dans les régimes politiques contemporains.md",
-    "1. Droit Constitutionnel/Titre/Titre 1. Les fondements théoriques.md",
-    "2. Droit des personnes/Chapitre/T2 Chapitre 4 Le Domicile.md",
-    "2. Droit des personnes/Thème/THEME 2 L’IDENTIFICATION DE LA PERSONNE PHYSIQUE.md",
-    "2. Droit des personnes/Chapitre/T2 Chapitre 3 Le sexe.md",
-    "2. Droit des personnes/Chapitre/T2 Chapitre 2 Le prénom.md",
-    "Livre/Jurisprence/Cour de cassation, Assemblée plénière, 7 novembre 2014, 14-83.739.pdf",
     "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S4",
     "Sans titre",
     "1. Droit Constitutionnel/1. TD/Séance 1-4/DM-S3",
-    "5. Introduction Général au Droit/Topo en Asynchrone/Exercice/Séance 5 IGD 23-24 Asynchrone.pdf",
-    "5. Introduction Général au Droit/Topo en Asynchrone/Cours - Topo",
-    "5. Introduction Général au Droit/Topo en Asynchrone/Exercice",
-    "5. Introduction Général au Droit/Topo en Asynchrone/Exercice/Séance 6 IGD 23-24 Asynchrone.pdf"
+    "5. Introduction Général au Droit/Topo en Asynchrone/Exercice/Séance 5 IGD 23-24 Asynchrone.pdf"
   ]
 }

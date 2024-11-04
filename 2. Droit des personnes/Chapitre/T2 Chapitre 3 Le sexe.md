@@ -1,7 +1,6 @@
 #droit-des-personnes #séance4 
 
 ## I. Le sexe
-
 Le robert dans sa version numérique contient le pronom ielle depuis le 17 novembre 2021. Le caractère de l'état civil est obligatoire et la case du sexe est obligatoire et par ailleurs il est binaire n (masulin) & f (féminin).
 
 **Code civil article 57**
@@ -19,7 +18,6 @@ Permet la rectification de l'état civil
 ***Cour de Cassation 4 Mai 2017*** statut : l'impossibilité au juge de donner un sexe neutre, le législateur doit choisir. 
 
 ## II. Le changement de sexe
-
 Il n'était pas possible de changer la mention du sexe avant 1792, rien dans la loi n'éxistait principe d'immutabilité.
 
 Le juge français a été contraint au changement par une affaire du 25 Mars 1992 affaire BOTELLA.
@@ -34,9 +32,9 @@ Procédure judiciaire ***Code civil Article 60-5 & suivant*** :
 Le législateur indique que le faite de ne pas avoir subit de traitement médicaux, une opération chirurgicale ou une stérilisation ne peut motiver le refus de faire droit à la demande. Un individu garçon qui se comporte comme une femme en société et autorisé au changement de la mention de son sexe à l'état civil autorisé par un juge
 
 16 Septembre 2020 1er Chambre Civil Cour de Cassation. 
-***VOir TD***
+***Voir TD***
 Arrêt du 9 février 2022 : La cour d'appel établit le second lien de filiation maternelle.
 
-Révision des lois bioéthique non effectué en 2018, en 2019 Nicole Bélloubé Garde des Sceaux ==PROBLEME== #problème Il existe des situations non prévu par le legislateur. Principe d'unité des liens de filiation 2 papa maman et l'autre 2 maman.
+Révision des lois bioéthique non effectué en 2018, en 2019 Nicole Bélloubé Garde des Sceaux ==PROBLEME== #problème Il existe des situations non prévu par le législateur. Principe d'unité des liens de filiation 2 papa maman et l'autre 2 maman.
 
 

@@ -45,7 +45,7 @@ La **viabilité** fait référence à l'aptitude de l'enfant à survivre de mani
 - **Problème** : Si la déclaration n'est pas faite à temps.
 - **Solution** : Il est possible de rétablir l'acte de naissance a posteriori, accompagné d'un acte de décès.
 
-## Enfant né décédé :
+## Enfant né sans vie :
 - **Acte de naissance sans vie** :  
    - Les parents peuvent obtenir un **livret de famille**,  
    - L'enfant peut recevoir un **nom de famille** et un **prénom**,  
