@@ -2,8 +2,8 @@
 Comme leur nom l'indique les juridictions pénales sont chargés de réprimer les infractions (**contravention**, **délit**, **crime**). 
 Principe d'unité des juridictions civiles et pénales. Sont des subdivisions de l'ordre judiciaire.
 3 éléments d'unités
-- Les juridictions civiles et pénales dépendent de la Cour de Cassation => [[Cour de Cassation]]
-- L'identité des organes physiques (n'éxiste pas de tribunal de police physique mais présent au sein du tribunal judiciaire)
+- Les juridictions civiles et pénales dépendent de la Cour de Cassation -> [[Cour de Cassation]]
+- L'identité des organes physiques (n'existe pas de tribunal de police physique mais présent au sein du tribunal judiciaire)
 - L'identité du personnel judiciaire (même juge entre juge civil et pénal
 
 #### Le procès pénal
@@ -14,12 +14,11 @@ Principe d'unité des juridictions civiles et pénales. Sont des subdivisions de
 #### Peine et Infraction :
 ***3 types d'infractions :***
 - ***Les Contraventions*** (L131-12&S du Code pénal) => Tribunal de Police
-- **Les Délits** (Volonté de transgressé une norme social importante) (Amande / privative de liberté jusqu'a 10 ans) => Tribunal correctionnel
-- ***Les crimes*** (L121-1 Code pénale)(Violation extrème des interdits fondamentaux de la société jusqu'à 15 ans à la perpétuité réèl et incompressible de réclusion criminelle)
+- **Les Délits** (Volonté de transgressé une norme social importante) (Amande / privative de liberté jusqu'à 10 ans) => Tribunal correctionnel
+- ***Les crimes*** (L121-1 Code pénale)(Violation extrême des interdits fondamentaux de la société jusqu'à 15 ans à la perpétuité réel et incompressible de réclusion criminelle)
 
 ## Section 1 : Les juridictions pénales de droit commun
-#séance7 
-
+#séance8  
 ### I – L’instruction préparatoire
 
 Avant d’être jugé la preuve doit être apporter. Une instruction préparatoire qui est distincte du jugement. Lorsqu’il s’agit d’un crime, l’instruction préparatoire est obligatoire, pour un délit elle est facultative, et il n’y en a pas en matière de contravention
@@ -88,4 +87,73 @@ Cette juridiction est nouvelle. Elle juge certains crimes. Elle a été institu�
 
 ## Section 2 : Les juridictions pénales spécialisées
 
-Sur moodle
+***Définition :***
+Les juridictions pénales spécialisées se caractérisent par le fait qu’elles ne sont compétentes que dans les cas strictement prévus par la loi, pour juger certaines infractions ou certains délinquants que la loi détermine limitativement. Autrement dit, leur compétence est limitativement circonscrite par la loi à certains délinquants ou certaines infractions.
+
+Elles sont extrêmement nombreuses et nous ne les étudierons pas dans le cadre de ce cours (sauf brièvement celle pour mineurs) mais le précis Dalloz que vous avez dans le syllabus contient toutes les informations nécessaires si cela vous intéresse.
+A noter tout de même, que les juridictions pénales spéciales concernent essentiellement
+La juridiction pénale des mineurs.
+Les juridictions pénales de nature politique (Cour de justice de la république)
+Ou militaire.
+Ces juridictions d’exception concernent tout autant la phase d’instruction que la phase de jugement. Les juridictions de l’application des peines ?
+
+Si l'on met à part la juridiction pénale des mineurs qui depuis 1/2 siècle a connu un grand essor, à juste raison d'ailleurs c'est un fait que les juridictions pénales d'exception n'ont jamais eu bonne presse. En effet, elle prolifère habituellement dans les périodes de crise où sous le signe d'un contexte autoritaire qui donne à penser que, à travers elle, le pouvoir politique cherche un surcroît de répression et d'exemplarité par le biais d'un amenuisement souvent grave des droits de la défense.
+
+L'histoire en apporte malheureusement la démonstration. Par exemple, avec la 2nde Guerre mondiale, le régime de l'occupation et ensuite les événements d'Algérie, de nombreuses juridictions d'exception pénales ont été mises en place. C'est le cas des cours martiales du haut tribunal militaire, de la Cour de justice militaire. C'est en fait que trop souvent, les juridictions de ce genre sont utilisées par certains régimes pour renforcer leur emprise politique par la menace de sanction expéditive.
+
+Ce n'est pas encore le cas, mais on entend souvent parler d'une juridiction pénale spécialisée qui viendrait juge les actes de terrorisme, par exemple.
+
+### Paragraphe 1. Les juridictions pénales des mineurs
+
+Les mineurs qui n'ont pas encore 18 ans au moment des faits sont soustraits aux juridictions pénales de droit commun. On le comprend aisément. Certes, le jeune âge n'y immunise pas contre toute sanction. En effet, dès lors que le mineur est capable de discernement, sa responsabilité pénale est engagée (art. 122-8 C. pén.). Mais il serait inopportun de faire comparaître un délinquant mineur devant des juridictions qui ont à juger de comportements d'adultes sans tenir compte du particularisme très marqué de la délinquance juvénile.
+
+S’agissant de mineurs, les variations d'âge comptent beaucoup. On ne peut pas traiter pénalement de la même manière un enfant de 12 ans et un jeune homme de 17 ans. Le premier est présumé (présomption simple) ne pas être capable de discernement contrairement au second.
+Les nouvelles dispositions concernant les juridictions pénales des mineurs sont dans une loi du 17 juin 2020, la loi n°2020- 734.
+
+Les juridictions de jugement des mineurs sont au nombre de trois mais avant disons quelques mots de l’instruction.
+
+#### L’instruction
+Les délits et les crimes commis par un mineur donnent toujours lieu à une instruction préparatoire aux fins de procéder à une enquête de personnalité. D'un point de vue social et médical, la saisine du juge d'instruction est obligatoire en matière criminelle. En matière délictuelle, en revanche, le procureur de la République peut confier l'instruction au juge des enfants dans ce cas. La procédure est simplifiée et le juge des enfants pourra participer à l'audience de jugement.
+
+#### Le juge des enfants
+On désigne par là un juge unique qui appartient au tribunal judiciaire. Il constitue à lui seul une juridiction autonome. Il est compétent pour juger les contraventions de la 5e classe ainsi que
+
+les contraventions de la 4e classe lorsqu'elles sont connexes et les délits les moins graves commis par un mineur.
+En revanche, l'étendue de ses pouvoirs est relativement limitée. En effet, le juge des enfants, lorsqu'il statue seul, ne peut infliger que les peines prévues à l'article L 221- 4 du code de la justice pénale des mineurs : confiscation de l'objet ayant servi à commettre l'infraction, stage, travail d'intérêt général si le mineur est âgé d'au moins 16 ans au moment du prononcé de la peine. Dit autrement, il est amené à statuer seul quand il estime qu'une simple mesure de rééducation suffit. À défaut, quand le prononcé d'une peine s'impose, la composition est collégiale.
+
+#### Le tribunal pour enfant
+Cette juridiction se différencie de la juridiction du juge des enfants en ce sens qu'il s'agit d'une juridiction qui statue collégialement. Son originalité tient au fait qu'elle est composée d'un juge des enfants qui en assure la présidence. A ses côtés, siège 2 assesseurs qui ne sont pas des magistrats. Ce sont de simples particuliers, âgés d'au moins 30 ans, qui sont connus pour leurs compétences et l'intérêt qu'ils portent au problème de l'enfance. Ils sont nommés pour 4 ans par le ministre de la Justice sur proposition du premier président de la Cour d'appel.
+Le tribunal pour enfant connaît des contraventions de la 5e classe et des délits commis par les mineurs âgés d'au moins 13 ans. Il connaît également des crimes commis par les mineurs de moins de 16 ans, ainsi que des contraventions des 4 premières classes commises par des mineurs lorsqu'elles sont connexes aux infractions précédentes.
+Il peut prononcer des mesures éducatives et des peines, notamment une peine privative de liberté ou une peine d'amende, mais en tenant compte de l'excuse de minorité.
+
+#### La cour d’assises des mineurs
+Le mineur qui commet un crime entre 16 et 18 ans, est justiciable d'une juridiction spéciale que l'on appelle la Cour d'assises des mineurs. Laquelle, comme le tribunal pour enfants, peut prononcer une mesure éducative, mais aussi, bien entendu, une peine, en faisant également jouer l'excuse de minorité.
+
+Au point de vue de son organisation, cette juridiction ne se distingue en rien d'une cour d'assises ordinaire que l'on appelle, par opposition, à la Cour d'assises des majeures. En effet, son siège, son ressort, son fonctionnement intermittent, sa composition et la portée de ses arrêts sont identiques. Alors, où est la différence ? Elle se limite en réalité à de simples nuances, mais qui ont toutefois leur importance.
+Les 2 assesseur magistrats du président de la cour d'assises sont généralement choisis parmi des juges pour enfants.
+Les débats sont publics, à moins que la publicité ne soit dangereuse pour l'ordre ou les mœurs. Notamment lorsque les poursuites sont exercées, du chef de viol ou de torture et actes de barbarie accompagnés d'agressions sexuelles, le huis clos est de droit si l'une des victimes parties civiles le demande.
+
+
+### Paragraphe 2. Les juridictions pénales de nature politique (Moodle)
+
+Très rapidement. « Il est parfois nécessaire de juger certains responsables politiques de l'État Pour des infractions graves dont ils se seraient rendus coupables dans l'exercice de leurs fonctions. Les juridictions de droit commun sont assez mal placées pour se prononcer sur de telles infractions qui, en raison des fonctions exercées par le délinquant, risquent de soulever des problèmes de responsabilité politique, relevant notamment de la compétence des assemblées parlementaires ou qui mettent en cause l'application des règles constitutionnelles.
+Et cependant, il n'est pas possible que certaines infractions restent impunies.
+
+Il existe donc un certain nombre de juridictions pénales de nature politique. En réalité, il ne s'agit pas vraiment de juridiction pénale au sens strict du terme. Je vous renvoie à la définition que nous avons donnée, des institutions juridictionnelles mais également au début du cours, ou je vous ai dit qu'un certain nombre de juridictions ne rentraient ni dans l'ordre judiciaire, ni dans l'ordre administratif.
+
+#### La Haute Cour
+Il faut ici parler du statut pénal du chef de l'État. L'article 67 de la Constitution énonce que durant son mandat, il ne peut faire l'objet d'aucune poursuite devant une quelconque juridiction ou autorité administrative, pas plus qu'il ne peut être requis de témoigner. Il
+
+bénéficie donc d'une immunité absolue. Et ce pendant toute la durée de son mandat, même pour des faits antérieurs à sa prise de fonction. On pourrait discuter de cette immunité, mais elle trouve sa justification dans la nécessité de sauvegarder la fonction présidentielle.
+Il convient évidemment de préciser que durant toute cette durée, les délais de prescription sont suspendus. Il ne pourrait donc pas échapper à une poursuite si un délai de prescription venait arriver à terme pendant son mandat. Ce dernier étant suspendu, il peut, à l'issue de sa présidence, être poursuivi devant les juridictions de droit commun comme un citoyen ordinaire. Et ce, sans que le temps couru durant l'exercice de son mandat puisse valoir prescription. On dit que l'immunité est attachée à la fonction et non pas à la personne.
+Cependant, le président de la République peut être destitué au cours de son mandat en cas de manquement à ses devoirs manifestement incompatible avec l'exercice de son mandat. La destitution est prononcée par le Parlement, constituée en juridiction, qui prend le nom de haute cour. Elle est présidée par le président de l'Assemblée nationale. La réunion en Haute Cour peut être proposée par l'une des 2 assemblées et approuvée ensuite par chacune d'entre elles à la majorité des 2/3. Il y a bien évidemment toute une procédure à suivre et la haute Cour doit statuer Dans un délai d'un mois à bulletin secret. La destitution ne peut être prononcée qu à la majorité des 2/3. Tout cela est prévu par l'article 68 de la Constitution.
+Je vous laisse ici vous faire votre propre idée sur les questions de partialité, d'indépendance, d'impartialité de cette cour.
+
+#### La Cour de justice de la République
+La Cour de justice de la République a été instituée par la loi constitutionnelle de 1993. Elle connaît des crimes et délits dont se sont rendus coupables les membres du gouvernement dans l'exercice de leurs fonctions. Alors Rappelons ici que les membres du gouvernement n'ont pas une immunité absolue. En effet, les juridictions de droit commun demeurent compétentes pour les infractions sans rapport avec leurs fonctions.
+Un ministre peut être poursuivi en justice sans qu'il y ait nécessairement un crime de haute trahison. Une simple infraction peut justifier des poursuites. Dès lors, du moins que cette infraction a un rapport direct avec la détermination et la conduite de la nation.
+
+La Cour de justice de la République est composée de 15 juges. Il s'agit de 12 parlementaires élus, 6 par l'Assemblée nationale et 6 par le Sénat, et de 3 magistrats du siège de la Cour de cassation, dont l'un d'eux est désigné par le président de la République pour assurer la présidence de cette juridiction. Je vous laisse également ici vous faire votre propre avis sur la partialité où l'impartialité, que présume cette composition.
+C'est notamment cette Cour qui a jugé la fameuse affaire du sang contaminé dans laquelle Laurent Fabius était impliqué.
+François Hollande ainsi qu’Emmanuel Macron avaient annoncé la suppression de cette Cour, jugeant que la responsabilité pénale des membres du gouvernement relèverait intégralement des juridictions de droit commun. Mais pour l'heure, cette Cour existe toujours et d'ailleurs, elle a rendu son dernier jugement en octobre 2022. C'était une affaire qui concernait Kader Arif, ancien secrétaire d'État aux anciens combattants, dans une histoire de prise illégale d'intérêt, d'atteinte à la liberté et à l'égalité Des candidats dans les marchés publics et détournements de fonds publics pour avoir fait conclure un contrat entre le ministère de la défense et une société gérée par son frère.
+### Paragraphe 3. Les juridictions pénales de nature militaire (non traité)
