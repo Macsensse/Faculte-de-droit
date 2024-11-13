@@ -1,23 +1,23 @@
 #introduction-général-au-droit #séance3 
 il est nécessaire d’org l’ensemble des règles qui constit le droit afin d’en faciliter la compréhension et ma manip. Le droit va donc be divided en branches soit verticalement soit horizontalement.
 
-Section 1 : Les divisions « verticales » du droit
+# Section 1 : Les divisions « verticales » du droit
 
 le monde est divided en Etats et ds chacun d’eux, du droit est prod et appliqué c ce qu’on call le droit interne. Mais chacun d’eux entretient avec les autres des relations grâce aux règles de droit international et de l’UE.
 
-1. Le Droit international
+## 1. Le Droit international
 
 branche du droit chargée de réglementer les relations entre les États et est nécessaire au regard de la multiplicité des droits internes rendant impossible l’existence de relations saines et apaisées entre les États. On distingue le droit interN public et le droit interN privé.
 
 Droit interN public: se rapporte aux règles applicables
 
-▪entre les Etats
+▪Entre les Etats
 
-▪entre les Etats et les orgs interN
+▪Entre les Etats et les orgs interN
 
-▪entre les orgs interN entre elles
+▪Entre les orgs interN entre elles
 
-▪entre les individus et les États
+▪Entre les individus et les États
 
 il faut un élément d’extranéité il existe deux difficultés s’agissant du droit interN public :
 
@@ -35,7 +35,7 @@ Droit interN privé: a pour goal de déter les relations entre particuliers et l
 
 ▪(s’agissant de la condition des étrangers) tenter de régler de savoir quels sont les droits auxquels ces derniers peuvent prétendre ds un État qui n’est pas le leur. (ex:accès à la propriété/à certaines professions réglementées/accès à sécu sociale)
 
-### Le Droit de l’Union européenne
+### 2 Le Droit de l’Union européenne
 
 ce n’est pas du droit interN car il possède son propre ordre juridique et ses spécificités notamment à travers le cara contraignant de ses règles. C donc un ensemble de règles instaurées par les diffs traités constitutifs. C ce qu’on call le droit primaire ou le droit originaire ainsi que les règles adoptées par les instits euros (donc de l’UE) afin de réaliser des goals fixés par les traités et la jurisprudence de la cours de justice de l’UE, c ce qu’on call le droit dérivé. C un droit mixte (=à la fois public et privé) :
 
@@ -61,7 +61,7 @@ Donc Droit dérivé=règlements,directives et jurisprudence de la cours de justi
 
 But de la CEDH:Instituée en 1959 par le Conseil de l'Europe, la Cour européenne des droits de l'Homme (CEDH) est une juridiction internationale dont la mission est d'assurer le respect de la mise en œuvre de la Convention européenne des droits de l'Homme dans les 46 États membres du Conseil de l'Europe.
 
-### Le Droit interne:
+### 3 Le Droit interne:
 
 droit en vigueur sur le territoire d’un État et est issu des diffs organes de cet État. Le parlement, le gouv, les juridictions. La garantie de son respect et la sanction en cas de violation sont assurées par ce mme État. On dit alors que l’État constitue un ordre juridique propre donc que l’ensemble des règles juridiques qui préfigurent relèvent de ce mme système. Il existe donc autant d’ordres juridiques que d’État. Donc pour comprendre la notion d’État, dans sa globalité:
 
@@ -69,7 +69,7 @@ l’État est donc un concept, une entité juridique ce qui signifie qu’on va 
 
 de droit public et donc la juridiction le conseil d’État. A cote de ces deux ordre le conseil constit doit contrôler la répartition des pouvoirs prévue par la constit il doit s’assurer du respect par les lois des libertés fondamentales et enfin il lui revient d’opérer sa mission de contrôle de constit par la loi. Si une loi votée par le parlement est anticonstit elle sera abrogée. Se faisant, les règlements et la jurisprudence compo alors une partie essentielle du droit interne french.
 
-## Les divisions horizontales du droit
+# Section 2 : Les divisions horizontales du droit
 
 d’un pdv horizontal la RDD résulte de deux grandes branches: le droit public et le droit privé. Cette distinction des deux droits est apparue en France au 13e s et il s’agit encore ajd de la summa divisio de notre droit. C une distinction qui puise ses origines dans le droit romain et plus particulièrement dans le digeste de Justinien où il est énoncé une phrase très célèbre écrite par une jurisconsulte qui se call Ulpien « dans cette étude il y a deux positions, le public et le privé le jus publicum = droit public qui est celui qui regarde le statuum rei romane =Le statut, l’état de la chose romaine, le droit privé est celui qui intéresse l’utilité des particuliers » ces distinctions perdurent encore de nos jours, le droit public à notre époque actu correpd plus particulièrement à un ensemble de règles générales et imperso qui régissent la vie en société qui sont sanctionnées par la puissance publique et qui s’appliquent aux relations entre les personnes privées et les personnes publiques. Le droit public=ensemble des règles qui s’appliquent à l’org des pouvoirs publics et de l’admin. Le droit privé qd à lui va venir gérer les rapports entre les personnes privées=intérêts des particuliers.
 

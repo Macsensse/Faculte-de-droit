@@ -2,11 +2,11 @@
  
  Ce premier chapitre est consacré aux sources du droit objectif c’est-à-dire que nous allons étudier les autorités et les mécanismes qui ont le pouvoir de créer les règles de droit. Les sources du droit puisent leur origine soit dans les textes ($ Section 1), soit dans la coutume ($ Section 2), soit dans l’interprétation ($ Section 3).
 
-# Section 1°) : Le droit issu des textes
+# Section 1 : Le droit issu des textes
 
 Les sources du droit issu des textes sont au nombre de 5 : La Constitution (§1), les textes d’origine internationale et européenne (§2), la loi (§3), les règlements (§4) et les ordonnances (§5).
 
-## 1°) La Constitution
+## 1 La Constitution
 
 Comme vu précédemment, la Constitution est la colonne vertébrale de l’État, c’est la règle de droit qui fonde l’État et fixe son organisation. Nous allons étudier la Constitution du 4 octobre 1958 à travers sa définition formelle et sa définition matérielle.
 
@@ -56,11 +56,11 @@ Enfin, un PFRLR a été révélé par le Conseil d’État dans un arrêt que vo
 A côté de la Constitution, on trouve ensuite les textes d’origine internationale et européenne
 (§2).
 
-## 2°) Les textes d’origine internationale et européenne
+## 2 Les textes d’origine internationale et européenne
 
 Ces textes se présentent sous une triple forme : les traités internationaux (A), le droit de l’Union Européenne (B) et le droit issu de la Convention européenne des droits de l’homme (C).
 
-### A°) Les traités internationaux
+### A Les traités internationaux
 
 ***Contenu et définition :***
 Les traités internationaux sont de véritables contrats qui lient les États signataires. Ils se sont multipliés parce que les relations internationales se sont multipliées. Leur objectif est, dans un certain nombre de domaines, de fixer des règles que les États s’engagent à respecter.
@@ -96,7 +96,7 @@ de ratifier ou d’approuver l’engagement international en cause ne peut inter
 
 A côté du droit issu des traités, il y a ensuite le droit de l’Union Européenne (B).
 
-### B°) Le droit de l’Union européenne
+### B Le droit de l’Union européenne
 
 Les spécificités du droit de l’Union Européenne sont telles qu’il n’est pas considéré comme du droit international.
 Les sources du droit de l’UE sont doubles : le droit originaire et le droit dérivé.
@@ -136,7 +136,7 @@ Sur l’intégration du droit de l’UE :
 
 Après avoir vu le droit des traités, le droit de l’UE, il convient enfin d’aborder le droit issu de la Convention européenne des droits de l’Homme (C).
 
-### C°) La Convention européenne des droits de l’homme
+### C La Convention européenne des droits de l’homme
 
 Il s’agit d’une Convention internationale signée à Rome par les États fondateurs du Conseil de l’Europe le 4 novembre 1950 et entrée en vigueur le 4 novembre 1950. Elle a été ratifiée par la France en 1974. Elle lie aujourd’hui 47 États et s’insère dans une idée de protection des droits de l’homme et proclame d’une part un certain nombre de droits et libertés, et d’autre part elle institue un mécanisme de garantie de respect de ces droits et libertés par les États signataire : la Cour EDH.
 
@@ -187,7 +187,7 @@ Les arrêts de violation sont obligatoires pour les États condamnés qui sont t
 
 Après le droit international et européen, on trouve la loi (§3).
 
-## 3°) La loi
+## 3 La loi
 
 Le terme « loi » est polysémique. Au sens large, il peut être synonyme de règle de droit ou de norme. Au sens strict, il s’agit d’un produit du pouvoir législatif.
 
@@ -214,7 +214,7 @@ $ Tendant à autoriser la ratification d’un traité qui, sans être contraire 
 
 Attention, les lois référendaires ne subissent pas de contrôle de constitutionnalité. Exemple : la loi référendaire du 9 novembre 1988 portant statut de la Nouvelle Calédonie (auto-détermination).
 
-### A°) Au sens formel
+### A Au sens formel
 
 D’après le DDHC de 1789, la loi est « l’expression de la volonté générale ». Il s’agit de l’acte voté par le Parlement c’est-à-dire par l’Assemblée nationale et le Sénat qui doivent se mettre d’accord et adopter ainsi le même texte.
 La loi ordinaire ne doit pas confondue avec la loi référendaire qui est issue du Référendum
@@ -232,7 +232,7 @@ Toutefois, le texte peut lui-même peut prévoir une date d’application diffé
 
 Exemple : Lorsqu’il est prévu que la loi n’entrera en vigueur qu’à compter de la publication d’un décret à paraître.
 
-### B°) Au sens matériel
+### B Au sens matériel
 
 Article 34 de la Constitution :
 
@@ -284,7 +284,7 @@ Il existe trois catégories particulières de lois ordinaires :
 
 A côté des lois, on trouve aussi les règlements (§4).
 
-## 4°) Les règlements
+## 4 Les règlements
 
 
 Les règlements sont les actes pris par le pouvoir Exécutif plus précisément par le Gouvernement et le Chef de l’État. Le pouvoir règlementaire se concrétise par les décrets individuels (concerne une ou plusieurs personnes nominativement désignées) ou règlementaires (portée générale et s’impose ainsi à un nombre indéterminé de personnes). Il existe trois formes de décrets :
@@ -297,16 +297,16 @@ Les décrets sont tous publiés au Journal officiel.
 
 Le pouvoir réglementaire se subdivise en deux catégories : les règlements d’application (A) et les règlements autonomes (B).
 
-### A°) Les règlements d’application
+### A Les règlements d’application
 Les règlements d’application sont pris par le pouvoir exécutif afin d’exécuter les lois. Le Gouvernement n’est pas lié sur les délais et il n’est pas rare qu’il faille attendre entre 18 mois et 2 ans pour voir sortir un décret d’application. En revanche, le Gouvernement est lié quant au contenu car le décret d’application ne peut contenir des dispositions contraires à la loi sous peine d’être annulées par la juridiction administrative. Vous devez bien comprendre que la loi ne peut être appliquée sans ces décrets…
 
-### B°) Les règlements autonomes
+### B Les règlements autonomes
 Les règlements autonomes qui comme leur nom l’indique interviennent sans loi. Leur champ d’action est important puisque tout ce que la Constitution ne précise pas comme étant du domaine de la loi appartient à celui du règlement : « Les matières autres que celles qui sont du domaine de la loi ont un caractère réglementaire » : Article 37 alinéa 1er de la Constitution. L’article 41 de la Constitution prévoit pendant la discussion de la loi par les deux chambres, la possibilité de saisir le Conseil constitutionnel dès lors que le texte n’est pas du domaine de la loi.
 L’article 37 alinéa 2 de la Constitution permet après promulgation de la loi de saisir le Conseil constitutionnel afin de demander à celui-ci de légaliser tout ou partie de la loi car cette dernière est du domaine de l’article 37. Si le Conseil constitutionnel constate cet empiètement, il pourra retirer à la loi ou à la partie de la loi concernée, sa valeur législative (délégalisation) et ainsi elle aura valeur règlementaire et pourra donc être modifiée par le pouvoir exécutif.
 
 Les normes issues du pouvoir règlementaire ayant été abordées, il convient enfin de citer les ordonnances (§5).
 
-## 5°) Les ordonnances
+## 5 Les ordonnances
 
 Elles sont prévues à l’article 38 de la Constitution.
 Le Gouvernement peut, pour l’exécution de son programme, demander au Parlement l’autorisation de prendre des ordonnances. L’article 38 de la Constitution va en effet permettre au Gouvernement de légiférer c’est-à-dire qu’il va pouvoir prendre des décisions dans les domaines énumérés par l’article 34 de la Constitution. Pour se faire, il doit y être autorisé par le Parlement.
@@ -319,7 +319,7 @@ Le Gouvernement peut, pour l’exécution de son programme, demander au Parlemen
 Les ordonnances sont très souvent utilisées par les Gouvernements successifs de la Ve République afin de traiter des sujets techniques ou de procéder à des réformes délicates/ Exemple : l’Ordonnance 2014-699 du 26 juin 2014 portant simplification et adaptation du droit du travail.
 
 #séance6 
-# Section 2°) : Le droit issu de la coutume
+# Section 2 : Le droit issu de la coutume
 
 On peut également utiliser le terme « usages ». C’est une règle de droit qui naît spontanément de l’usage. C’est la source la plus ancienne du droit. Ce fut même pendant très longtemps la première source du droit puisque la France était un État de droit coutumier notamment avec les lois fondamentales du Royaume comme la primogéniture, la catholicité ou la masculinité de	la	Couronne	jusqu’à	la	fin	de	la	Révolution.
 
@@ -347,9 +347,9 @@ Il existe trois cas de figure qu’il conviendra d’envisager successivement :
 
 Mais à côté du droit issu de la coutume, on trouve le droit issu de l’interprétation ($ Section 3).
 
-# Section 3°) : Le droit issu de l’interprétation
+# Section 3 : Le droit issu de l’interprétation
 Nous évoquerons ici **1 la jurisprudence** et la **2 doctrine**.
-## 1°) La jurisprudence
+## 1 La jurisprudence
 
 Aux côtés de la coutume, elle est une des sources les plus anciennes du droit. La jurisprudence est le produit juridique des décisions des tribunaux. En effet, à côté des décisions qui sont généralement des actes d’application du droit, il existe des décisions pouvant être considérées comme source du droit. Cela signifie-t-il pour autant que les juges peuvent créer une règle de droit ? La fonction même de juger de laquelle est issue la jurisprudence lui interdit d’être une source du droit ; le juge devant se contenter d’être la source de la loi.
 
@@ -392,7 +392,7 @@ Afin de contrer cette jurisprudence, la loi du 4 mars 2002 a été adoptée : «
 
 La jurisprudence ayant été définie, il convient désormais de s’intéresser à la doctrine (§2).
 
-## 2°) La doctrine
+## 2 La doctrine
 
 
 Le terme de doctrine peut se définir de deux façons :

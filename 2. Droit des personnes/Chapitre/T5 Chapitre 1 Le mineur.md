@@ -102,4 +102,20 @@ Dans la fiche de TD, il y a un tableau que l’on retrouve en dessous de l’art
 
 ### II – La représentation et la gestion des biens du mineur 
 
+#### I – L’incapacité du mineur
+
+Par principe, le mineur a une incapacité générale, il ne peut pas accomplir d’actes juridiques seul. Son représentant doit intervenir, il s’agit de son administrateur légal, donc ses parents ou du tuteur. Le mineur émancipé, va avoir une capacité d’exercice sur certains actes. Le mineur même non émancipé, ne va pas pvr être représenter pour certains actes, c’est le cas pour les actes strictement perso où le mineur doit agir seul (ex : reconnaissance d’un enfant, exercice de l’autorité parental, consentement à partir de 13 ans pour le changement de nom/prénom, ...). Selon l’art 1148 s du c civ, le mineur se voit autoriser les actes courants (ex : achat d’une baguette de pain). Le mineur peut aussi faire des actes conservatoires.
+
+Dans la fiche de TD, il y a un tableau que l’on retrouve en dessous de l’art 496, il est issu d’un décret du 22 déc 2008, permet de savoir quel type d’actes a réalisé le mineur et si on peut l’annuler ou pas. Quand le mineur a environ 7 ans, on considère qu’il peut distinguer le bien du mal. Si le mineur n’a pas ce discernement, quelque soit l’acte, il est annulable. Si le mineur a passé un acte alors qu’il est discernant, il faudra le distinguer selon 3 types d’actes :
+
+- Les actes conservatoires : ce sont ceux qui permettent de sauvegarder le patrimoine ou de soustraire un bien à un péril imminant, ou à une dépréciation inévitable sans compromettre aucune prérogative du proprio. Ces actes ne sont par principe pas remis en cause. Si l’on peut caractériser la lésion, alors on a
+
+caractérisé une disproportion entre les presta réciproques des parties au contrat, alors lésion objective. La lésion subjective elle, s’apprécie en plus par rapport au mineur (ex : montant disproportionné par rapport à son patrimoine). Dans l’hypothèse d’une lésion on utilise l’art 1148 du c civ.
+
+- Les actes d’administration : ce sont des actes relatifs à la gestion courante du patrimoine. Lorsque qu’un enfant passe cet acte, selon l’art 1149, on peut demander la rescision pour cause de lésion (= casser le contrat, ou rééquilibrer le contrat)
+
+- Les actes de disposition : ce sont des actes qui engagent de manière durable et substantielle le patrimoine. Le mineur ne peut jamais accomplir cet acte seul. Dans ce cas-là, selon l’art 1147 du c civ, il y a une action en nullité relative de dt. Ont anéantie de manière rétroactive le contrat. Il faut saisir un juge qui doit obligatoirement prononcer la nullité.
+
+#### II – La représentation et la gestion des biens du mineur
+
 Ce sont les parents qui gèrent cela. Les arts 382 s du c civ. On doit vérifier dans les cas pratiques si on est dans un exercice conjoint ou un exercice unilatéral. Le ou les parents représentent le mineur sur la scène juridique, il exerce au nom du mineur ses dts patrimoniaux. L’art 382-1 du c civ, lorsque l’acte qui est à passer est un acte d’administration, alors la loi prévoit que l’un des 2 parents, peut le passer seul, qu’il est réputé à l’égard des tiers. Il existe une liste dans l’art 387-1, des actes qui nécessite l’autorisation du juge (JAF). Il y a des actes que l’on ne peut pas faire même avec l’autorisation du juge (art 387-2). L’admin légale prend fin par la majorité de l’enfant, ou son émancipation ou encore décès de l’enfant.

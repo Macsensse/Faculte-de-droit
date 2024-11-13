@@ -1,3 +1,4 @@
+#introduction-général-au-droit #séance6 
 # L'application de la loi dans le temps
 
 ## Application de la procédure en vigueur la loi
@@ -100,12 +101,68 @@ Par exemple, dans un arrêt du 9 octobre 2001, la Cour de cassation a clairement
 
 Ce principe est crucial pour permettre une souplesse dans l’application du droit. En effet, si la jurisprudence restait figée, le droit ne pourrait s’adapter aux nouveaux défis, notamment dans des domaines en constante mutation, tels que le numérique, la bioéthique ou encore le droit de l'environnement. Le rôle du juge est donc non seulement d’appliquer la loi, mais aussi de l’interpréter en tenant compte des nouvelles circonstances, et parfois de corriger des approches qui, bien que valables à un moment donné, ne le sont plus dans un contexte différent.
 
-doit venir d'une juridiction suprème pour avoir un impact et parlé de revirement. Les arrêt de revirement sont raredans certain cas les juges vont moduler les effet de leur revirement .
+doit venir d'une juridiction suprême pour avoir un impact et parlé de revirement. Les arrêt de revirement sont rare dans certain cas les juges vont moduler les effet de leur revirement .
 
-En effet la cours de cassation ou le conseil d etat peut décider dans leur arrêts que la nouvelle intérprétation n s'appliquera qu'a des situations juridiques et pstérieurement à leur décision
+En effet la cours de cassation ou le conseil d etat peut décider dans leur arrêts que la nouvelle interprétation n s'appliquera qu'a des situations juridiques et postérieurement à leur décision
 
 # Les conflits de normes
 Dans 2 hypothèses, dans un même ordre juridique ou dans deux ordres juridiques différents
 
-## Les conflits de norme dans un même ordre juridique
-Entre deux normes de même valeur ou entre 2 normes hierarchiques, les conflits de norme entre deux normes de meme v
+## I – Les conflits de normes dans un même ordre juridique
+#séance7 
+
+Ces conflits peuvent se poser entre 2 normes de même valeur ou entre 2 normes hiérarchisés. 
+
+### 1. Les conflits de normes entre 2 normes de mêmes valeurs  
+2 normes situés dans le même degré de la pyramide ne s’opposent pas. Ces normes ont toutes la même valeur constitutionnelle, légale, règlementaire, coutumière, ... Exception pour les lois générales et les lois spéciales qui se situent au 3e étages en partant du haut de la pyramide. S’il y a conflit entre les 2, l’une sera écartée au profit de l’autre.  
+
+La loi générale, est celle qui s’adresse à tous sans distinction (droit commun). Par exemple, selon l’art 1240 du c civ, « tout fait quelconque de l’homme qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer », c’est le principe de la sécu civile délictuelle. Ce principe est tempéré par une loi spéciale s’agissant des accidents de la circulation. La loi Badinter permet d’améliorer la situation des victimes d’accident de la circulation en prévoyant de meilleures garanties dans le cadre de l’indemnisation du fait de débiteur fautif insolvable. C’est la règle spéciale qui est prioritairement appliqué puisqu’elle régit mieux que la loi générale, et ce même si la loi spéciale déroge au principe de la loi générale (principe speciala generalibus derogante).   
+
+Pour les droits constitutionnellement garantis, il peut exister des incompatibilités, des conflits. Le juge constitutionnel va donc essayer de les concilier.  
+
+### 2. Les conflits de normes entre 2 normes hiérarchisées 
+
+#### Conflit entre la Constitution et les traités internationaux 
+
+Ce contrôle de constitutionnalité est effectué par le Conseil constitutionnel. Celui-ci est saisi par le Président de la République, par le 1er ministre, par le Président de l’une des assemblés, par 60 députés ou 60 sénateurs, afin d’effectuer son contrôle. S’il déclare qu’un engagement international comporte une clause contraire à la Constitution, l’autorisation de ratifier ou d’approuver cet engagement ne pourra intervenir qu’après révision de la Constitution (art 54). 
+
+La Constitution reste supérieure au traité car s’il contient une disposition contraire il ne peut pas est ratifier. Le traité s’insère sous la Constitution à laquelle il est conforme.  
+
+#### Conflit entre la Constitution et la loi 
+
+La conformité des lois à la Constitution est assurée en FR par le Conseil constit à travers un contrôle. Ce contrôle peut se diviser en 2 formes (à priori et à postériori) 
+
+Le contrôle a priori (art 61) : Il s’effectue avant la promulgation de la loi. Soit pendant la discussion de la loi au parlement soit après son vote, mais avant sa promulgation par le Président de la Rep. Ce contrôle n’est pas automatique, toutes les lois ne sont pas contrôlées. Le conseil constit doit être saisi par le PR, par le 1er ministre, par les Présidents des 2 assemblés ou par 60 députés/sénateurs. Si ces pers ne le saisisse pas, possibilité de loi inconstitutionnelle. Le conseil vérifie que la loi soit conforme à la constitution et au bloc de constitutionnalité. Si le conseil constit déclare une loi inconstitutionnelle, elle ne sera pas promulguée. 
+
+ Le contrôle a posteriori (art 61) : la réforme de 2008 a permis de pallier le temps de contrôle et saisine restreinte du Conseil constit. S’applique quand la loi est rentrée en vigueur. QPC = question prioritaire de constitutionnalité. La procédure de la QPC est le résultat d’un double filtre. Le 1er filtre se situe devant les juridictions du fond. Le justiciable doit produire un mémoire séparer de l’affaire dans laquelle il dvpt sa QPC. Le juge doit sursoir à statuer, il suspend les autres litiges. Il doit vérifier la QPC selon 3 critères. Il va d’abord vérifier que la disposition est applicable au litige ; ensuite il vérifie que la disposition n’a pas déjà été jugée constitutionnelle dans les motifs et dispositifs dans une précédente décision ; il va enfin vérifier qu’elle n’a pas de caractère insalubre. Le 2e filtre, se situe devant la Cour de cass ou le conseil d’Etat, qui va de nouveau opérer une vérification du caractère sérieux et va décider de oui ou non la transmettre au conseil constit (délai de 3 mois). Le conseil va soit déclarer la disposition constitutionnelle, soit il va la déclarer inconstitutionnelle et elle disparaitra de l’ordre juridique. Le conseil constit va déterminer une date ultérieure à partir de laquelle l’abrogation promulguera ses effets afin de laisser au parlement le temps de corriger l’inconstitutionnalité. Il n’est pas possible de faire appel d’une décision du conseil constit. 
+
+#### 3 – Conformité des lois aux traités internationaux 
+
+Le contrôle de conventionnalité est prévu à l’art 55 de la Constitution qui prévoit que les traités ou accords régulièrement ratifiés ou approuvés ont une autorité supérieure à celle des lois. Le 15 janv 1975 déclare sa décision de l’IVG et se déclare incompétent.  
+
+La Cour de cass, dans un arrêt du 24 mai 1975 va tirer toutes les conséquences de la décision du conseil constit et opérer le contrôle de conv. Les réticences sont importantes du côté du conseil d’Etat. Il applique sa jurisprudence dite des semoules et refuse d’opérer le contrôle. Dans un arrêt du 20 oct 1989, le conseil va accepter.  
+
+En cas de non-conformité de la loi au traité, cette dernière n’est pas abrogée par les juridictions qui n’en n’ont pas le pvr. Elle est écartée au profit de la règle issu des dts internationaux.  
+
+#### 4 – La conformité des règlements à la Constitution, aux traités internationaux et à la loi 
+
+Ce contrôle intéresse 2 types de règlement, les règlements d’application et les règlements autonomes.  
+
+Les règlements d’application doivent être conforme à la loi qu’ils sont sensés appliquer. Les règlements autonomes doivent être conforme aux étages supérieurs (à la loi, aux traités internationaux, à la Constitution et au bloc de constit).  
+
+Ces contrôles sont effectués par les juridictions ordinaires de l’ordre judiciaire et admin. Les juridictions de l’ordre admin, sont compétentes pour vérifier la conformité d’un acte règlementaire aux étages sup auquel il est soumis. Elles sont compétentes car elles sont les juges de l’admin qui émet les règlements. Les juridictions disposent de 2 types de contrôle : le recours pour excès de pvr et l’exceptions d’illégalité. 
+
+Le recours pour excès de pvr a pour but de demander l’annulation d’un règlement qui serai illégale, inconventionnel ou inconstitutionnel selon le demandeur. 
+
+L’exception d’illégalité n’est pas un recours mais est soulevé à l’occasion d’un litige par une des parties qui demande que le règlement ne lui soit pas applicable. La partie ne doit pas demander l’annulation du règlement, mais seulement la non-application du dérèglement pour sa situation. Le juge peut accepter considérant ainsi que le règlement n’est pas légal, mais cette décision ne vaut que pour le procès en cours. Risque de divergence d’application d’une juridiction à l’autre. 
+
+Les juridictions d’ordre judiciaire peuvent opérer ce contrôle lorsque les règlements intéressent le dt de propriété.  
+
+## II – Les conflits de normes appartenant à 2 ordres juridiques différents 
+
+Il s’agit ici d’aborder la question des conflits entre la Constitution nationale et les normes internationales. Opposition entre la position des juges nationaux et internationaux.  
+
+Pour les juges nationaux la primauté revient à la Constitution qui est le texte suprême, voir l’arrêt du conseil d’Etat du 30 oct 1998 Sarran. Cet arrêt dit que les engagements internationaux n’ont pas dans l’ordre interne d’autorité sup à celle des dispositions constit. Cette position est confirmée par la CC dans son arrêt du 20 juin 2000 fraisse, elle nous dit que la suprématie conférée aux engagement internationaux ne s’applique pas dans l’ordre interne aux dispositions de valeur constit.  
+
+Pour les juges internationaux, les Cours internationales font toutes primées le dt international sur l’ensemble des normes internationales même s’il s’agit de norme constit. La FR accorde la primauté à sa Constitution et fait le nécessaire en matière de respect et d’introduction des traités dans son ordre juridique. La conséquence du non-respect de la volonté des juridictions internationales conduit à l’engagement de la respons de ses Etats et conduit à des sanctions, condamnations. 
+
