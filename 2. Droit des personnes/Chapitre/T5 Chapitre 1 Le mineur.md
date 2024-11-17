@@ -60,14 +60,14 @@ Quand l’exercice est unilatéral, celui qui n’a pas l’exercice conserve un
 
 L’autorité parentale, c’est le système de principe de représentation du mineur (les parents avec l’intérêt de l’enfant présumé). Lorsque ce système est défaillant, nous sommes dans les arts 375 s du c civ. Il y a un danger pour le mineur (santé, moralité, conditions d’éducation, ...). C’est le juge des enfants qui intervient, lorsqu’il est saisit et qu’il y a la preuve d’un danger, il y a des mesures d’assistance éducative qui sont mises en place. Mesures allant de l’AEMO (=assistance éducative en milieu ouvert), on arrive à s’entendre avec les parents puisqu’un travailleur social viendra au domicile pour remettre la situation dans l’intérêt de l’enfant ; jusqu’au placement quand l’enfant ne peut plus rester à domicile (placement déterminé par le juge). Les mesures doivent être vérifier tous les ans, l’enfant devra retourner à un moment chez ses parents. Art 375-7 du c civ « les parents conservent l’exercice de l’autorité parentale dans les cas dans lesquels il y a compatibilité avec la mesure ». Cela signifie que les parents perdent la garde et la surveillance. Pour autant, le service gardien pourra exercer les actes usuels de l’autorité parentale mais pour les autres actes il doit avoir l’accord des parents.  
 
-V – La délégation de l’exercice de l’autorité parentale 
+### V – La délégation de l’exercice de l’autorité parentale 
 
-1. Les cas et les conditions de délégation 
+#### 1. Les cas et les conditions de délégation 
 Art 377 du c civ, c’est lui qui rassemble l’ensemble des situations et des conditions forcées et consenties. Cet art aborde d’abord les cas de délégation consentis. Les parents ensemble ou séparément peuvent saisir le JAF pour déléguer l’exercice de leur autorité parentale à un tiers qui soit membres de la famille ou pas. L’idée ici est de faire faire une délégation aux beaux-parents (celui qui partage la vie de l’un des 2 parents). 
 La délégation forcée (art 377 alinéa 2). On trouve ceux qui peuvent saisir le JAF, et la liste des conditions de cette délégation forcée. C’est le cas quand il y a un désintérêt manifeste des parents, quand les parents sont dans l’impossibilité d’exercer l’autorité parentale, quand il y a des violences conjugales, mais aussi quand un parent a eu des problèmes avec la justice (crime, agression, inceste) s’il est le seul titulaire. 
 Depuis la loi du 19 fev 2024 (alinéa 4 de l’art 377), l’hypothèse dans laquelle un des parents diffuse l’image de l’enfant qui porte une atteint grave à la dignité et l’intégrité morale de celui-ci.  
 
-2. Les effets de la délégation (***2 types de délégation (art 377-1 du c civ) :***)
+#### 2. Les effets de la délégation (***2 types de délégation (art 377-1 du c civ) :***)
 - La délégation transfert : le parent qui délègue s’appelle juridiquement le déléguant. Et celui à qui on délègue, s’appelle le délégataire. Dans cette situation ce qui est délégué est perdu par le déléguant. 
 - La délégation partage :  le déléguant ne perd pas ce qui fait l’objet de la délégation. Mais les parents doivent être d’accord pour le partage (souvent la situation du beau-parent).  
     

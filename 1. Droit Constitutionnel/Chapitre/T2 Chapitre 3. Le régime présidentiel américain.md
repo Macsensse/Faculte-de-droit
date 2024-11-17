@@ -1,7 +1,7 @@
 #droit-constitutionnel 
-Section 1 : Les institutions du régime 
+# Section 1 : Les institutions du régime 
 
-I – Le congrès 
+## I – Le congrès 
 
 Le bipartisme souple est important car il n’y a pas de moyen constitutionnel écrit.  
 
@@ -17,7 +17,7 @@ L’initiative des lois appartient aux 2 assemblées, elles discutent des lois e
 
 Le Congrès détient la totalité du pouvoir législatif et le bicamérisme est égalitaire en la matière 
 
-II – Le Président 
+## II – Le Président 
 
 Le Président est élu pour 4 ans au suffrage indirect, avec un processus en 2 étapes : 
 
@@ -29,22 +29,19 @@ Le Président est élu pour 4 ans au suffrage indirect, avec un processus en 2 �
 
 Le Président détient le pvr exécutif et peut ainsi négocier les traités internationaux. Il est le chef des forces armées, il nomme aux principaux emplois publics, il peut faire grâce, il promulgue la loi, il dirige l’administration fédérale, et il détient le pvr réglementaire. 
 
-III – La Cour suprême 
+## III – La Cour suprême 
 
 Séance sur la justice constitutionnelle 
 
-Section 2 : La séparation des pouvoirs 
+# Section 2 : La séparation des pouvoirs 
 
 La Congrès et le Président peuvent se contrôler mutuellement, permettant de partager leurs pvrs : 
 
 - Le Président négocie les traités, et le Sénat les ratifie à la majorité des 2/3. Le Président est donc contrôlé par le Sénat qui représente les Etats fédérés. Certains traités ne sont pas ratifiés car le Sénat ne l’a pas voté. Contrainte pour le Président car il doit trouver un moyen pour contourner la ratification par le Sénat. 
-    
 
 - Les 2 chambres du Congrès peuvent créer des commissions d’enquête. Aux US, elles ont des pvrs redoutables que le Président craint.  
-    
 
 - Le Parlement exerce seul la fonction législative (discussion et vote). Le Congrès est un très fort contre pvr face au Président. Ce dernier peut juste négocier avec les parlementaires pour essayer de les convaincre de mettre en œuvre son programme. Il n’a que quelques moyens d’interventions comme la préparation du budget.  
-    
 
 Le Président américain peut soit mettre son veto aux lois votées dans un délai de 10 jours soit promulguer la loi. Le Congrès peut surmonter le veto, mais il faut qu’il vote à la majorité qualifiée (2/3 des membres de chaque chambre), c’est rare.  
 
