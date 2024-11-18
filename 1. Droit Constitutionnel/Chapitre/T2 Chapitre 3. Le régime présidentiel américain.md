@@ -10,10 +10,8 @@ L’initiative des lois appartient aux 2 assemblées, elles discutent des lois e
 2 chambres en raison du fédéralisme, bicamérisme égalitaire : 
 
 - La chambre des représentants (chambre basse) : 435 membres élus pour 2 ans au scrutin uninominal majoritaire à 1 tour qui produit un bipartisme mais souple si bien que si la majorité est en désaccord politique avec le Président 
-    
 
 - Le Sénat (chambre haute) : 100 sénateurs (2 par État) qui représentent les États fédérés et sont élus au scrutin uninominal majoritaire à 1 tour pour 6 ans. 
-    
 
 Le Congrès détient la totalité du pouvoir législatif et le bicamérisme est égalitaire en la matière 
 
@@ -22,16 +20,14 @@ Le Congrès détient la totalité du pouvoir législatif et le bicamérisme est 
 Le Président est élu pour 4 ans au suffrage indirect, avec un processus en 2 étapes : 
 
 - Chacun des 2 grands partis désigne son représentant pour l’élection présidentielle (phase interne) 
-    
 
 - Les 2 candidats vont s’affronter lors de l’élection présidentielle. Les électeurs américains élisent des grands électeurs qui vont eux élire le Président (phase externe) 
-    
 
 Le Président détient le pvr exécutif et peut ainsi négocier les traités internationaux. Il est le chef des forces armées, il nomme aux principaux emplois publics, il peut faire grâce, il promulgue la loi, il dirige l’administration fédérale, et il détient le pvr réglementaire. 
 
 ## III – La Cour suprême 
 
-Séance sur la justice constitutionnelle 
+[[T1 Chapitre 3. La constitution]]
 
 # Section 2 : La séparation des pouvoirs 
 
