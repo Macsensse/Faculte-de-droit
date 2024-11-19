@@ -15,6 +15,8 @@ Parallèlement, une commission spéciale (« Commission des Trente », composée
 
 Suivent les trois lois constitutionnelles de 1875 qui mettent en place un régime parlementaire s’appliquant jusqu’en 1940 : loi du 25 février 1875 relative à l'organisation des pouvoirs publics ; loi du 24 février 1875 relative à l'organisation du Sénat ; loi du 16 juillet 1875 relative aux rapports entre les pouvoirs publics. 
 
+L'**amendement Wallon** est un élément clé dans l'histoire constitutionnelle française. Proposé par Henri Wallon lors des débats sur l'organisation des pouvoirs publics en 1875, il a été adopté de justesse. Son importance réside dans le fait qu'il a introduit le terme **"République"** dans le texte de loi, consacrant ainsi définitivement le régime républicain en France.
+
 # Section 2 : Le régime constitutionnel instauré par les lois constitutionnelles de 1875 
 
 ## I – La répartition des pouvoirs entre les organes 
