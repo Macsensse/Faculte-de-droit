@@ -1,3 +1,4 @@
+#droit-de-la-famille 
 La famille constitue une cellule fondamentale de la société, jouant un rôle essentiel dans l'articulation entre l'individu et l'État. Elle est à la fois le premier lieu d'appartenance sociale et un espace privilégié de transmission des valeurs, des droits, et des responsabilités. En cela, elle incarne le fondement même de la structure sociale.
 
 Historiquement, la famille a assumé certaines fonctions traditionnellement attribuées à l'État, telles que l’éducation des enfants, la solidarité entre ses membres, ou encore la transmission des biens. De manière réciproque, l’État a souvent encadré la famille par des normes juridiques, témoignant de son importance dans l’organisation sociale. Cette interdépendance illustre le caractère indissociable des deux entités.

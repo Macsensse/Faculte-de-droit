@@ -37,3 +37,8 @@ La décentralisation constitue un autre procédé d’organisation administrativ
 - **Décentralisation** : Transfert à des entités distinctes de l’État, dotées de leur propre personnalité juridique.
 
 **Exemple pratique** : Les communes, dont les conseils municipaux sont élus par les citoyens, disposent d’un pouvoir de décision sur des compétences locales comme l’urbanisme, les écoles primaires, ou encore l’entretien des infrastructures communales.
+
+---
+
+
+
