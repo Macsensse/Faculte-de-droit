@@ -7,18 +7,15 @@ L'internationalisation des droits de l'homme est un processus long et complexe, 
 
 #### I. L’Antiquité : Les premières traces de la reconnaissance des droits fondamentaux
 
-1. La Mésopotamie : Le Code d'Hammurabi et la reconnaissance de certains droits humains  
-      
+1. La Mésopotamie : Le Code d'Hammurabi et la reconnaissance de certains droits humains    
     La Mésopotamie, berceau des premières civilisations, a vu émerger des codes juridiques qui régissaient la société de manière stricte et structurée. Parmi les plus célèbres figure le Code d'Hammurabi (vers -1750 av. J.-C.), qui est l'une des premières tentatives de codification des lois. Il comptait 292 lois, dont plusieurs touchaient aux questions de justice, de propriété, et de droit à une certaine forme de protection des individus face à l'injustice, bien que ces protections fussent limitées et souvent inégalitaires.  
       
     
-2. Le Cylindre de Cyrus : Une avancée vers la reconnaissance de la liberté de culte  
-      
+2. Le Cylindre de Cyrus : Une avancée vers la reconnaissance de la liberté de culte    
     En -539 av. J.-C., le Cylindre de Cyrus, édité par le roi perse Cyrus le Grand, est l’un des premiers documents à poser des principes relatifs à la liberté de culte et à la reconnaissance des droits des peuples conquis. Il est souvent considéré comme un des premiers textes à affirmer que tous les peuples, quelle que soit leur culture ou leur religion, devaient être respectés, notamment en ce qui concerne leurs croyances. Cela marque un début de reconnaissance des droits humains à une échelle plus large que celle des cités-États.  
       
     
-3. Le Traité de Qadesh : Le premier traité de paix entre deux puissances  
-      
+3. Le Traité de Qadesh : Le premier traité de paix entre deux puissances    
     Le Traité de Qadesh, signé en -1274 av. J.-C. entre le pharaon Ramsès II d'Égypte et le roi Muwatalli II des Hittites, est l'un des premiers traités de paix de l'histoire. Bien qu'il ne concerne pas directement les droits de l'homme dans leur sens moderne, il est significatif en ce qu’il instaure une norme de respect mutuel et de non-agression entre deux États souverains, établissant un principe de relations internationales pacifiques. Ce traité est aussi un exemple de l'internationalisation des relations humaines à l'échelle des puissances de l'époque.  
       
     

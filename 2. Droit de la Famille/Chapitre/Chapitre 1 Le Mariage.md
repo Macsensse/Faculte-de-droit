@@ -1,14 +1,10 @@
 #droit-de-la-famille #séance2
-
 # Introduction
 
 Le mariage est **l'institution centrale de la société**, à l'image du droit de la famille est une notion que on retrouve de partout dans le monde (intemporelle, et partout dans l'espace), mais souvent avec différente définition.
-
-En droit romain, le concentement devait perpétuellement renouvelé. 
-En droit canonique le concentement était donné une seul fois.
-
+En droit romain, le consentement devait perpétuellement renouvelé. 
+En droit canonique le consentement était donné une seul fois.
 Historiquement, pas de divorce possible.
-
 Mariage du code Napoléon, introduit la notion de laïcité du mariage avec des officiers d'état civil qui vont célébrer le mariage, ainsi le mariage devient une institution civil qui va remplacer le mariage religieux qui n'aura plus de conséquence juridique.
 
 Le mariage civil doit être antérieur au mariage religieux => ***Code Pénal***
@@ -24,54 +20,48 @@ Le mariage est un **contrat*** mais aussi une **institution*** c'est une libert�
 > > ARTICLE 12 Droit au mariage A partir de l’âge nubile, l’homme et la femme ont le droit de se marier et de fonder une famille selon les lois nationales régissant l’exercice de ce droit.
 
 Jurisprudence Cour 13 aout 1993.
+Une personne privé ne peut pas empêcher le mariage d'une autre personne privé.
 
-Une personne privé ne peut pas empécher le mariage d'une autre personne privé,
-
+---
 # Section 1 : La formation du mariage
 
-### Les Fiançailles
-### ***Rupture*** : 
-#### Patrimonial :
-Rendre les cadeaux et les donations sauf cadeaux d'usage. (***En fonction du train de vie du donnateur***).
-##### Bague de fiançailles :
-###### Principes :
-Elle doit être rendu
-###### Exception : 
-Sauf si faute commis.
-###### Exception à l'exception  :
-Sauf si bijoux de famille.
-###### Annexe :
+## ***I. Les Fiançailles***
+### **A. Définition et Nature Juridique des Fiançailles**
+Les fiançailles sont une promesse réciproque de mariage entre deux personnes. Elles n'ont pas de valeur juridique contraignante en tant que contrat, mais leur rupture peut avoir des conséquences en droit civil.
 
-##### Responsabilité civil de la rupture :
-Rupture fautive : improbité morale ou grossierté
-### Mariage POSTHUME :
+### **B. La Rupture des Fiançailles**
+#### **1. Conséquences Patrimoniales**
+- **Restitution des cadeaux et donations** :
+    - Les cadeaux et donations doivent être restitués, sauf s'il s'agit de cadeaux d'usage.
+    - Les cadeaux d'usage sont ceux qui correspondent au train de vie du donateur et aux usages sociaux.
+- **Bague de fiançailles** :
+    - **Principe** : La bague
+## ***II. Mariage POSTHUME***
 > [!PDF|yellow] [[Code civil.pdf#page=82&color=yellow|Code civil, p.82]]
 > > 171 LOI n°2011-525 du 17 mai 2011 - art. 19 - Conseil Constit. 2011-629 DC Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf Le Président de la République peut, pour des motifs graves, autoriser la célébration du mariage en cas de décès de l'un des futurs époux, dès lors qu'une réunion suffisante de faits établit sans équivoque son consentement. Dans ce cas, les effets du mariage remontent à la date du jour précédant celui du décès de l'époux. Toutefois, ce mariage n'entraîne aucun droit de succession ab intestat au profit de l'époux survivant et aucun régime matrimonial n'est réputé avoir existé entre les époux.
 > 
 
-## Les conditions de formation du mariage :
+## ***III. Les conditions de formation du mariage :***
 
-### I. Les conditions de fond :
-
-#### A. Conditions liées aux époux :
-##### 1. L'âge :
+### A. Les conditions de fond :
+#### 1. Conditions liées aux époux :
+##### a. L'âge :
 18 ans homme/femme, ***2006***, )dérogation sous dispence du procureur de la République (***motif grave***) suivit du consentement des parents.
 Pas d'âge limite au marriage.
-##### 2. Santé :
+##### b. Santé :
 Pas de conditions liées à la santé. Avant certificat médical prénuptial.
 Av Viduité de 300 jours
-##### 3. Le sexe : 
+##### c. Le sexe : 
 Plus de condition de sexe dans la loi.
 [[Livre/Jurispridence/]]
-
 
 17 Mai 2013, aspect international, possibilité de se marier en france avec une autre personne du même sexe
 Débat de société présent
 
 #### B. Condition Sociologique
 
-##### 1. Les empèchements de parenté ou d'alliance
-Interdiction de l'inceste empèche deux candidats de s'unir entre eux.
+##### 1. Les empêchements de parenté ou d'alliance
+Interdiction de l'inceste empêche deux candidats de s'unir entre eux.
 - Raison Biologique et éviter la consanguinité.
 - Eviter les désordres au sein de la famille.
 > [!PDF|yellow] [[Code civil.pdf#page=80&color=yellow|Code civil, p.80]]
@@ -82,7 +72,7 @@ Ascendant et descendant en ligne directe et collatérale ***INTERDIT***,
 Oncle nièces et neveux, et tante nièces neveux,  ***INTERDIT NON ABSOLUT***
 BEAU PERE ***Interdit**
 
-dispense aliée en ligne directe si la personne a lo'rigine est dcd
+dispense alliée en ligne directe si la personne a l'origine est décédé
 
 Arrêt contre royaume unis contraire a la liberté matrimoniale CEDH
 !!!!CONTROLE CONVENTIONALITE INCONCRETO
@@ -109,7 +99,7 @@ Erreur dans la personne (identité de la personne), qualité essencielle de la m
 
 L'intention d'être uni par les liens du mariage est essentielle. Cette intention ne doit pas être motivée par des raisons autres que celles liées au mariage lui-même, comme la légitimation des enfants ou l'obtention d'avantages sociaux ou fiscaux.
 
-### II. Les conditions de forme
+### I. Les conditions de forme
 
 #### A. Les formalités avant la célébration
 
@@ -140,273 +130,182 @@ Les époux doivent signer l'acte de mariage.
 Aucune clause de conscience ne peut être invoquée par l'officier d'état civil pour refuser de célébrer un mariage.
 
 ---
+## ***IV. Le non-respect des conditions de formation du mariage***
 
-## Le non-respect des conditions de formation du mariage
-
-### I. L'opposition au mariage
-
+### A. L'opposition au mariage
 Les articles 172 à 179 du Code civil permettent au ministère public ou aux membres de la famille des mariés (parents, grands-parents, frères, sœurs, cousins, cousines, tantes) de faire opposition au mariage sous certaines conditions, notamment si le marié est une personne protégée ou en passe de l'être. Le tuteur ou curateur peut également faire opposition.
-
 L'opposition est formulée devant l'officier d'état civil qui saisit le procureur de la République. Ce dernier a 15 jours pour répondre avec trois options :
-
 - Annuler le mariage
-    
 - Autoriser le mariage
-    
 - Suspendre le mariage pour une enquête (durée maximale de 2 mois, renouvelable une fois)
-    
-
 En cas d'opposition, les époux peuvent saisir le tribunal judiciaire. Une opposition est valable un an sauf si elle est initiée par le ministère public.
 
-### II. La nullité du mariage
-
-#### A. Les différents empêchement
-
-Empêchement prohibitif :
-
+### B. La nullité du mariage
+#### ***1. Les différents empêchement***
+***Empêchement*** prohibitif :
 - Défaut de publication des bans
-    
 - Absence des pièces requises par l'officier d'état civil
-    
-
-Nullité relative :
-
+***Nullité relative :***
 - Vice du consentement (erreur, violence)
-    
 - Défaut d'autorisation parentale ou du conseil de famille pour les mineurs
-    
-
-Nullité absolue :
-
+***Nullité absolue :***
 - Inceste
-    
 - Non-respect de l'âge nuptial
-    
 - Bigamie
-    
 - Défaut de consentement
-    
 - Absence de comparution personnelle
-    
 - Incompétence de l'officier d'état civil
-    
-
 Les nullités absolues sont prévues par l'article 180 et suivants du Code civil.
 
-#### B. La nullité relative
-
+#### ***2. La nullité relative***
 Seul le conjoint dont le consentement est vicié peut agir. Depuis 2006, le ministère public ne peut agir qu'en cas de violence.
 
 Le délai pour agir en nullité relative est de 5 ans.
 
-#### C . Nulité Absolut
-En cas de bigamie l'autré poux peut être intéréssé 187 du Cc. Les enfants en matière de sucession si intérêt péquinier à le faire peuvent le faire 188 du CC.
-
+#### ***3. Nullité Absolut***
+En cas de bigamie l'autre poux peut être intéressé 187 du Cc. Les enfants en matière de sucession si intérêt péquinier à le faire peuvent le faire 188 du CC.
 Mariage clandestin 191 du Cc : Epoux eu même, ascendant, intérêt public,
-Ont peut demander la nulité après avoir divorcé
+Ont peut demander la nullité après avoir divorcé
 
-#### D. Conséquence de la nullité
+#### ***4. Conséquence de la nullité***
 ***NE JAMAIS CONFONDRE LE DIVORCE ET LA NULLITE***
-
 Mariage Putatif liquidation du régime matrimonial
 
-# Section 2 : Les effets du mariages
+---
+# Section 2 : Les effets du mariage
 
-Pas de solidarité par principe sauf achat à tempérament et payer en plusieurs fois sauf si besoin de vie courante.
-pour les dépenses d'agrément vous souvenez la deuxième salle de bainle truc qui est pas nécessaire sauf si vous avez une famille peut-être de cette salle de bain ça peut être une nécessité maisa priori elle a déjà salle de baindans ce cas-là on va être suron va avoir la solidarité on va être sur une dette ménagère sila dépense n'est pas déraisonnable regarde le train de vie des émotionsvoilà pour les défenses agrémentstu penses que moi je vous écoutefaut pas que ce soit des raisonnable sinon on perd la solidaritédonc ça ce sont les têtes ménagères on a aussi les défis à l'éducation des enfants mais ça vous l'avez déjà vu au premier semestrerien de vraiment spécifique là-dedansjuste ils ont bien conscience vous voulez développerpas uniquement les enfants sont finies les enfants qui vivent encoredans le dans la loyer vous voyez pasattentionparfois on va boire une tête ménagèremême il n'y aura pas de solidaritéalors à quel momentdans trois conditions quand illa dépense est manifestement excessive pour regarder le train de vieon a dépensé manifestement excessive au regard du train de vieje suis dans la maison poubelle vous avez un couple la voiture tombe en panne lol plus faut racheter une voiture ça devient nécessaire pour faire les comptes changer leur manger les enfants à l'école et bizarre non ça va être une dépense nécessaire sauf que je t'ai au lieu d'acheter une voiture qui correspondoh pourquoi tu m'envoies ça serait possible
-Mauvaise fois et tain de vie des époux !!!
+## ***I. Principe de non-solidarité et exceptions***
+En principe, chaque époux est responsable des dettes qu'il contracte personnellement. Toutefois, certaines exceptions existent, prévues par la loi pour garantir le bon fonctionnement du ménage.
+1. **Solidarité pour les achats à crédit et les paiements fractionnés**  
+    L'article 220 du Code civil stipule que les époux sont solidairement responsables des dettes contractées pour l'entretien du ménage et l'éducation des enfants. Cela inclut notamment les achats de biens et services de la vie courante (nourriture, habillement, soins de santé, scolarité des enfants).
+    Toutefois, cette solidarité ne s'applique pas si :
+    - La dépense est manifestement excessive au regard du train de vie du couple.
+    - Elle n'a pas été consentie par les deux époux pour un achat à crédit.
+    - L'époux contractant la dette agit de mauvaise foi.
+2. **Dépenses d'agrément et dettes ménagères**
+    - Une dépense est considérée comme ménagère si elle concerne le bon fonctionnement du foyer (loyer, factures, courses alimentaires, frais médicaux essentiels).
+    - Les dépenses d'agrément, quant à elles, ne sont pas automatiquement couvertes par la solidarité conjugale (ex. : voyages de luxe, achats de biens superflus).
+    - Une seconde salle de bain peut être jugée nécessaire dans une famille nombreuse, mais superflue dans un foyer de deux personnes.
+3. **Exclusions de la solidarité**  
+    Trois critères principaux permettent d'exclure la solidarité des époux dans certaines dettes :
+    - **Dépense manifestement excessive** : Si un époux achète une voiture de luxe alors qu'il pourrait se contenter d'un modèle plus modeste pour un besoin essentiel.
+    - **Dépense inutile ou non nécessaire** : Un bien qui ne contribue pas au bon fonctionnement du ménage ne peut engager l'autre conjoint.
+    - **Mauvaise foi** : Lorsqu'un époux contracte une dette sans informer l'autre ou en dépit de l'opposition de ce dernier.
+## ***II. Le logement familial***
 
-### D. Le logement familiale
-Article 215 du CC 
-concentement des 2 &époux pour le logement familiale etc vendre louer etc
+L'article 215 du Code civil prévoit que le logement familial bénéficie d'une protection spéciale. Aucun des époux ne peut seul disposer de ce bien, que ce soit par vente, location ou autre acte de disposition, sans le consentement de l'autre.
+Si l'un des époux tente de vendre ou d'hypothéquer le logement familial sans l'accord de son conjoint, la transaction peut être annulée.
+## ***III. Autonomie des époux***
+Les articles 220 et 221 du Code civil garantissent l'autonomie de chacun des époux dans la gestion de ses biens personnels. Chaque conjoint peut passer des contrats et gérer ses propres finances sans l'accord de l'autre, sauf pour certaines transactions qui impliquent les intérêts du couple.
+- **Actes de gestion courante** : Chaque époux peut librement administrer et disposer de ses biens personnels.
+- **Actes engageant le patrimoine familial** : Certains actes (vente d'un bien commun, emprunt important) nécessitent l'accord des deux époux.
+## ***IV. Obligation alimentaire***
 
-### E. Autonomie des époux
-220 et 221 du CC
+L'article 203 du Code civil impose aux époux une obligation réciproque de contribuer aux besoins du ménage, proportionnellement à leurs ressources. Cette obligation inclut :
+- Les besoins essentiels (nourriture, logement, soins médicaux, éducation des enfants).
+- L'aide à un conjoint en difficulté financière.
+## ***V. Les mesures de crise***
 
-### F Obligation alimentaire
-obligations civiles spéciales, siutation de la famille nécessiter d'aider 
-203 et s 
+En cas de crise au sein du couple, diverses mesures peuvent être mises en place pour protéger les intérêts du ménage :
 
-### G les mesures de crise
-Parfois les dispositions du mariage siffisent, des fois rien n'est cécessaire
-règle en cas de crise un des deux époux qui ne peux plus agir correctement
-Gestion d'affaires un des époux d emabnifester de la vonlonté l'autre peut géré ses affaire
-
-mandat entre époux 
-
-face a une cirs un juge peut
-autorisation judiciaire, refus non justigfier par l'intérèt de la famille pour certaine décision etc etc
-
-Le juge peut effectuer une demande de représentation judiciare 
-
-étendre pouvoir d'un époux
-
-interdire
-
-220-1 219 2017
-
+4. **Gestion des affaires du conjoint défaillant**
+    - Si un époux est dans l'incapacité de gérer ses affaires (maladie, absence prolongée), l'autre peut prendre des mesures pour assurer la continuité des obligations du ménage.
+5. **Mandat entre époux**
+    - Un conjoint peut accorder à l'autre un mandat pour gérer ses biens ou accomplir certaines démarches en son nom.
+6. **Intervention judiciaire**
+    - En cas de désaccord grave ou de comportement abusif, le juge peut :
+        - **Accorder une autorisation judiciaire** à un époux pour prendre des décisions importantes en cas d'opposition injustifiée de l'autre.
+        - **Désigner un représentant judiciaire** pour gérer les affaires de l'un des époux en cas d'incapacité.
+        - **Restreindre ou étendre les pouvoirs d'un conjoint**, notamment en cas de mauvaise gestion des biens communs.
+        - **Interdire certains actes** si un époux met en péril les intérêts de la famille.
+Les articles 219, 220-1 et 217 du Code civil permettent d'encadrer ces mesures, garantissant une protection juridique aux couples en difficulté.
+---
 # Section 3. Le divorce
-
-## Le droit au divorce
-
+## ***I. Le droit au divorce***
 Le divorce n'est pas encore reconnu comme un droit fondamental, bien qu'il existe un droit à la séparation. Cependant, un changement en la matière est possible à l'avenir.
-
-### Principes fondamentaux du divorce
+### A. Principes fondamentaux du divorce
 
 1. **Principe de libéralisation** : Facilitation des procédures de divorce.
-    
 2. **Principe de pluralisme** : Diversité des motifs et formes de divorce.
-    
 3. **Principe de dédramatisation** : Allègement des formalités pour rendre le divorce moins conflictuel.
-    
 4. **Divorce consensuel** : Possibilité pour les époux de divorcer par consentement mutuel sans passer devant un juge.
-    
-
-## Séparation de corps et dissolution du mariage
+---
+## ***II. Séparation de corps et dissolution du mariage***
 
 Selon l'article 206 et suivants du Code civil, la séparation de corps est un régime juridique permettant aux époux de rester mariés tout en relâchant le lien matrimonial, notamment en supprimant l'obligation de cohabitation.
 
-### Conditions de la séparation de corps
+### A. Conditions de la séparation de corps
 
 Les conditions pour une séparation de corps sont les mêmes que celles requises pour une demande de divorce.
 
-### Effets de la séparation de corps
+### B. Effets de la séparation de corps
 
 - Fin de l'obligation de cohabitation mais maintien du mariage.
-    
 - Instauration d'un régime de séparation de biens.
-    
 - Maintien du devoir de secours entre époux.
-    
 - Reprise de la vie commune mettant fin à la séparation de corps.
-    
 - Après deux ans de séparation, la transformation en divorce est possible de plein droit, sans condition de délai si les époux sont d'accord.
-    
+---
+## ***III. Les divorces (article 229 du CC)***
 
-### Cas de divorce (article 229 du CC)
+5. Divorce par consentement mutuel.
+6. Divorce par acceptation du principe de la rupture.
+7. Divorce par altération définitive du lien conjugal.
+8. Divorce pour faute.
 
-1. Divorce par consentement mutuel.
-    
-2. Divorce par acceptation du principe de la rupture.
-    
-3. Divorce par altération définitive du lien conjugal.
-    
-4. Divorce pour faute.
-    
-
-## Le divorce consensuel
-
+### A. Les divorce consensuel
 Dans le cadre du divorce consensuel, il n'est plus nécessaire de passer devant le juge (procédure extrajudiciaire ou judiciaire).
+#### ***1. Divorce par consentement mutuel sous signature privée contresignée par avocats (extrajudiciaire, réforme de 2016)***
 
-### Divorce par consentement mutuel sous signature privée contresignée par avocats (extrajudiciaire, réforme de 2016)
-
-#### A. Conditions
-
+##### a. Conditions
 Cas d'impossibilité (article 229-1 du CC) :
-
 - Si un enfant commun, capable de discernement, demande à être entendu par un juge.
-    
 - Si l'un des époux est sous un régime de protection juridique (article 249-4 du CC).
-    
-
 Les époux doivent être en accord sur toutes les conséquences du divorce (patrimoniales, familiales, etc.). Le consentement est vérifié par les avocats et non par un notaire. Un délai de réflexion de 15 jours est imposé pour éviter les divorces précipités. Une fois la convention déposée, elle a la même valeur qu'un jugement de divorce et est mentionnée en marge des actes de naissance.
-
-#### B. Effets
-
+#### b. Les Effets
 - Force exécutoire de la convention de divorce.
-    
 - Possibilité de fixer une autre date de prise d'effet au niveau patrimonial (article 262-1 du CC).
-    
 - Clause compensatoire possible.
-    
 - En cas d'annulation de la convention, la situation juridique des époux peut être problématique.
-    
 - Pour les tiers, la date effective du divorce est celle de l'enregistrement en marge de l'acte de naissance.
-    
-
-### Divorce par consentement mutuel judiciaire
-
+#### ***2. Divorce par consentement mutuel judiciaire***
 - Ce mode de divorce est par principe inaccessible.
-    
 - La convention de divorce est soumise à l'homologation d'un juge, qui vérifie son équilibre.
-    
 - Le juge peut homologuer ou refuser la convention, mais ne peut pas la modifier.
-    
-
-## Les divorces conflictuels
-
-### Divorce par acceptation du principe de la rupture
-
+### B. Les divorces conflictuels
+#### ***1. Divorce par acceptation du principe de la rupture***
 Ce type de divorce intervient lorsque les époux s'accordent sur le principe du divorce mais pas sur ses effets.
-
-Trois situations permettent d'initier cette procédure :
-
-1. Divorce déjà en cours pour altération définitive du lien conjugal ou pour faute.
-    
-2. Procès-verbal d'acceptation ou déclaration d'acceptation lors de l’audience.
-    
-3. Acte sous signature privée contresigné par avocat puis saisine du juge (valable 6 mois, irrévocable).
-    
-
-### Divorce pour altération définitive du lien conjugal (articles 237-238 du CC)
-
+***Trois situations permettent d'initier cette procédure :***
+9. Divorce déjà en cours pour altération définitive du lien conjugal ou pour faute.
+10. Procès-verbal d'acceptation ou déclaration d'acceptation lors de l’audience.
+11. Acte sous signature privée contresigné par avocat puis saisine du juge (valable 6 mois, irrévocable).
+#### ***2. Divorce pour altération définitive du lien conjugal (articles 237-238 du CC)***
 - Les époux doivent être séparés depuis un an au moins.
-    
 - Les raisons de la séparation n'ont pas d'importance, seul l'élément matériel et moral compte.
-    
 - Une reprise de vie commune peut suspendre ce délai, selon l'appréciation du juge.
-    
 - Si une demande pour altération du lien conjugal est formulée et qu'une autre demande de divorce existe, l'année de séparation n'est pas exigée.
-    
-
-### Divorce pour faute (articles 242-246 du CC)
-
+#### ***3. Divorce pour faute (articles 242-246 du CC)***
 - Anciennement le seul cas de divorce, il devient de plus en plus rare.
-    
 - Trois éléments doivent être réunis et appréciés par le juge :
-    
     1. Fait imputable à l'époux défendeur, commis en conscience et avec volonté.
-        
     2. Violation grave ou renouvelée des obligations du mariage (analyse factuelle).
-        
     3. Faits rendant intolérable la vie commune.
-        
 - Certains éléments de preuve ne sont pas admissibles (témoignages de descendants, enquêtes sociales).
-    
 - Changement de sexe : considéré comme une faute si les conséquences rendent la vie commune intolérable.
-    
 - La réconciliation après les faits empêche d'invoquer les faits anciens, sauf en cas de nouveaux éléments.
-    
-
-#### Divorce pour faute partagée
-
+#### ***4. Divorce pour faute partagée***
 - Si les deux époux ont commis des fautes, l'une peut neutraliser l'autre.
-    
 - Divorce pour faute partagée si les torts sont équivalents.
-    
-
-#### Les passerelles entre procédures (articles 247-1 et 247-2 du CC)
-
+#### ***5. Les passerelles entre procédures (articles 247-1 et 247-2 du CC)***
 - Passage possible d'un divorce conflictuel à un divorce moins conflictuel.
-    
 - Pas de passage vers un divorce plus conflictuel.
-    
-
-## Procédure judiciaire du divorce
-
+---
+## ***IV. Procédure judiciaire du divorce***
 ### A. Introduction de l’instance
-
 - Article 251 du CC : la demande ne doit pas nécessairement être motivée par une faute.
-    
-
 ### B. Objectifs de l'instance
-
 - Depuis le 1er janvier 2021, l'audience de conciliation a été supprimée.
-    
 - La procédure débute par une audience d’orientation pour fixer les mesures provisoires.
-    
 - Les parties peuvent renoncer à cette audience.
-    
 - Article 245 du CC : liste des mesures provisoires pouvant être ordonnées par le juge.
-    
 - Si le juge rejette la demande en divorce (article 253 du CC), il peut néanmoins prononcer le divorce pour un autre motif.

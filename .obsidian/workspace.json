@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Droit Constitutionnel/Chapitre/T3 Chapitre 2.  La IVe République ou l’échec du parlementarisme rationalisé.md",
+                "file": "1. Introduction au Droit International et Européen des Droits de l'Homme/Chapitre/Chapitre 1 L'émergence du droit international des droits de l'Homme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T3 Chapitre 2.  La IVe République ou l’échec du parlementarisme rationalisé"
+              "title": "Chapitre 1 L'émergence du droit international des droits de l'Homme"
             }
           },
           {
@@ -56,10 +56,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -170,21 +171,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Ouvre une note au hasard": false,
-      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "6df13f973ba2ad97",
   "lastOpenFiles": [
+    "1. Introduction au Droit International et Européen des Droits de l'Homme/Introduction au Droit International et Européen des Droits de l'Homme.md",
+    "2. Droit de la Famille/Chapitre/Chapitre 1 Le Mariage.md",
+    "2. Droit de la Famille/Droit de la Famille.md",
     "1. Droit Constitutionnel/Chapitre/T2 Chapitre 3. Le régime présidentiel américain.md",
     "1. Droit Constitutionnel/Chapitre/T3 Chapitre 1.  La III République.md",
     "1. Droit Constitutionnel/Chapitre/T3 Chapitre 2.  La IVe République ou l’échec du parlementarisme rationalisé.md",
@@ -209,10 +210,7 @@
     "5. Introduction Général au Droit/Chapitre/P2 Chapitre 1 Mise en perspective du droit objectif – Les sources.md",
     "5. Introduction Général au Droit/Chapitre/P2 Chapitre 2 Mise en oeuvre du droit objectif.md",
     "5. Introduction Général au Droit/Partie/P2 Le droit objectifs.md",
-    "5. Introduction Général au Droit/Partie/P1 Le droit.md",
-    "5. Introduction Général au Droit/Introduction Général Au Droit.md",
     "5. Introduction Général au Droit/Partie",
-    "2. Droit des personnes/Chapitre/T5 Chapitre 2 Le majeur.md",
     "1. Droit Constitutionnel/1. TD/Séance 6-9/TD-Séance 6-9 Fasicule.pdf",
     "Livre/France/Code civil.pdf",
     "3. Histoire du Droit/PERIODISATION HISTORIQUE.pdf",

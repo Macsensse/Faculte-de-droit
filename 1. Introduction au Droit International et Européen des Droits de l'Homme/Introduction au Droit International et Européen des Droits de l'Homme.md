@@ -40,17 +40,14 @@ Le Droit International des Droits de l'Homme est une branche du droit internatio
 En droit international, la propriété est un droit fondamental, surtout dans les cultures libérales, influencées par les idéaux de la Révolution française. Chaque individu a le droit de posséder des biens et de voir cette propriété protégée contre les atteintes injustifiées. Ce droit fait partie de l'ensemble des droits fondamentaux reconnus internationalement.
 
 ---
-
 ### Les Branches du Droit International
 
 Le droit international se divise en plusieurs branches :
 
 1. Le Droit International Public (DIP) : Ce domaine concerne les règles qui régissent les relations entre États souverains. Il n'existe pas de véritable législateur mondial, mais les États eux-mêmes créent et acceptent des normes juridiques à travers des traités internationaux, des coutumes internationales, et la jurisprudence internationale. Par exemple, la Convention de Vienne sur le droit des traités régit les accords entre États.  
       
-    
 2. Le Droit International Privé (DIPri) : Il résout les conflits de lois et de juridictions qui peuvent surgir entre les législations nationales. Par exemple, dans le cas de mariages binationaux, le droit international privé permet de déterminer quelle législation est applicable en cas de conflit.  
       
-    
 
 ---
 
@@ -79,13 +76,10 @@ Il est crucial de distinguer la Convention européenne des droits de l'homme (CE
 
 L'UE s'est construite sur plusieurs traités clés, qui ont évolué au fil du temps pour intégrer de nouveaux membres et élargir ses compétences. Voici un survol des principaux traités fondateurs :
 
-1. Le Traité de Paris (1951) : Ce traité crée la Communauté européenne du charbon et de l'acier (CECA), un projet de coopération entre six pays fondateurs (France, Allemagne, Italie, Belgique, Luxembourg, Pays-Bas), afin de gérer de manière commune la production de charbon et d'acier, essentiels à l'industrie de guerre. Ce fut le premier pas vers une intégration économique plus poussée en Europe.  
-      
+3. Le Traité de Paris (1951) : Ce traité crée la Communauté européenne du charbon et de l'acier (CECA), un projet de coopération entre six pays fondateurs (France, Allemagne, Italie, Belgique, Luxembourg, Pays-Bas), afin de gérer de manière commune la production de charbon et d'acier, essentiels à l'industrie de guerre. Ce fut le premier pas vers une intégration économique plus poussée en Europe.  
     
-2. Le Traité de Rome (1957) : Ce traité marque la création de la Communauté économique européenne (CEE), avec pour objectif la création d'un marché commun entre les États membres. Ce traité fondateur a ouvert la voie à l'intégration économique et à l'établissement des bases de la politique commerciale européenne.  
-      
+4. Le Traité de Rome (1957) : Ce traité marque la création de la Communauté économique européenne (CEE), avec pour objectif la création d'un marché commun entre les États membres. Ce traité fondateur a ouvert la voie à l'intégration économique et à l'établissement des bases de la politique commerciale européenne.    
     
-3. Le Traité de Maastricht (1992) : Ce traité fonde officiellement l'Union européenne (UE) et introduit des éléments essentiels tels que la monnaie unique (l'euro) et la politique étrangère et de sécurité commune (PESC). Il marque également l'adoption d'une citoyenneté européenne, qui permet aux citoyens des États membres de circuler et de résider librement dans l'ensemble de l'UE.  
+5. Le Traité de Maastricht (1992) : Ce traité fonde officiellement l'Union européenne (UE) et introduit des éléments essentiels tels que la monnaie unique (l'euro) et la politique étrangère et de sécurité commune (PESC). Il marque également l'adoption d'une citoyenneté européenne, qui permet aux citoyens des États membres de circuler et de résider librement dans l'ensemble de l'UE.  
 	
-	
-4. Le Traité d'Amsterdam (1997) : Ce traité vise à réformer les institutions de l'UE afin de les adapter à un nombre croissant de membres et à une politique étrangère et de défense commune. Il renforce également la protection des droits fondamentaux au sein de l'UE
+6. Le Traité d'Amsterdam (1997) : Ce traité vise à réformer les institutions de l'UE afin de les adapter à un nombre croissant de membres et à une politique étrangère et de défense commune. Il renforce également la protection des droits fondamentaux au sein de l'UE
