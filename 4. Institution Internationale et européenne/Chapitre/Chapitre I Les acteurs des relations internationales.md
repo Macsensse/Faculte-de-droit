@@ -357,9 +357,68 @@ Les organisations internationales ne sont pas souveraines et dépendent des cont
 
 - **Intervention militaire** : Les interventions armées se font par des contingents fournis par les États membres. Par exemple, les opérations de maintien de la paix de l’ONU mobilisent des troupes mises à disposition par les membres.
 - **Exemple historique :** En 2008, la France a quitté le commandement intégré de l’OTAN, montrant ainsi les limites de l’engagement automatique des États envers une organisation internationale.
+La soumission ou la non soumission d'un état par une OI dépend de la défense de ses intêret, des sanction peuvent être mis en vigueur. Les tribunaux pénaux international 
 
----
+C:
+Tribuanl international pour ex ugoslavie / liban / Cambodge
+possède plus de pouvoir tout individu pour crime de guerre l'application des sentence dépends des tribunaux du paus de l'individu cette colaboration n'est pas assuré. tel n'est pas le cas pour la CPI du statu de Rome, seul les pays ayant ratifier le status de Rome son soumi a l'autorité de la CPI. LEs états peuvent aussi contester un ordre d'extradition en arguant qu'il contrevient a leur droit interne et constiut une ingérence dans leur affaire intérieur. Dans de tel cas seul les menaces de réprésaille puvent éventuellement convaincre un pays récalcitran a se soumettre à une CPI. Exception Cour pénal européenne car c'est elle qui interprète le droit commun. Elle se pronnonce sur tout les recours en matières du droit européen, elle peut imposer des amendes et les membres on intéret à que le droit communautaire soit respecter car interdépendance entre état.
+Aucune OI ne possède une armée leur seul décision militaire ***Sont constituer par les containgent de soldat fournit par les états membres et seul l'OTAN possède une structure commandement militaire intégré constitué des représentants des états majors des états memhres***. Cela est du que les états ne veulent pas perdre leurs souveraineté militaire.
 
-### Conclusion
+D:Le pouvoirs des OI :
+Assuré une protection, jouir de privilège d'immunité et d'établir des missions dans différents pays. A l'égare de leurs états membres elles ont des pouvoir d'évocation de discussion de délibération de gestion, de contrôle juridictionnel et administratif. Une OI a plus de difficulté pour obliger un état membre à verser sa contribution à lORganisation. Les bénéfices sont minime,
 
-Les organisations internationales constituent une émanation des États, créées pour répondre à des besoins communs et réguler les relations internationales. Toutefois, elles restent limitées par leur dépendance aux États membres et par le respect des principes fondamentaux du droit international, notamment la souveraineté étatique.
+incité l'onu a augmenter le nombre et l'importance de ses opération 1988 1992 mission de rétablissement de la paix et d'imposition de la paix pour des raison humanitaire
+
+Les années 90 sont caractérisé par la transformation des OI a vocation économique OCDE, OMC, LE FMI Dans cette décénie progrès sans précédent de la libréation des échange URUGUAY replacé GAP par OMC. Traité de MAstrish
+
+# Section 2 Les acteurs privé
+## §1. Les organisations non gouvernementales. - asynchrone -
+## §2. Les acteurs économiques. - asynchrone -
+
+## 3. Les acteurs subversifs
+
+### A : Les criminels et trafiquants.
+Les ONG Transnational illégale sont des réseaux plus ou moins structuré dont les activités, les mafias ce spécialise dans des activités illégales (drogs/ prostitution / transfert de migran etc), d'autre peuvent poursuivre des objectifs politiques en ayant recours a des méthodes de lutte armée non conventionnelle terrorisme, guerria, assasinat, et traffic criminel pour se financer. Le phénomène des ONG illégales à toujours existé.
+
+Crise des subprime, en conséquence des milliers d'entreprise se sont tourner vers les banque phantôme du crime organisé qui ont acheté en majhorité economie mondiale
+détruit et transforme la grande criminalité un tueur invisible et silencieux par exemple traffics de faux médicaments tues des centaines et milliers de personnes, mexique meutre pour traffic de drogue, traffic d'annimaux 200 000 éléphants braconés en Afrique au dela de c"est chiffre de l'ONU dc ...  corrompue des élites. Le plus important n'est pas ce qui est visible mais ce qui est enfouit dissimulé à l'observation immdédiate, première pathologie l'aveuglement. Crime  = produit commercial exemple DZ mafia 
+CAMORA SACRA UNITA DE POULLE MAFIA ALBANOPHONE Répendu dans toutes l'europe
+Le plus parlant des indices le raquette 
+***Casi insubmersible*** adaptable 
+bourgeoisie criminel micro économie ASAS Jack de Saint Victor Un pouvoir invisible Mafia "" Vers le crime organisé en Cole Blanc
+
+### B : Les terroristes.
+
+#### **Terrorisme et légitimité**
+
+Le terrorisme est une forme de violence politique qui se distingue par son caractère illégitime. Des organisations telles qu'Al-Qaïda et Daesh ont marqué l'histoire contemporaine par des actes terroristes visant à instaurer un climat de peur et à exercer une pression politique ou idéologique. Toutefois, la frontière entre terrorisme et résistance est parfois floue, dépendant souvent de la perception et du contexte historique.
+
+Le terrorisme peut être défini comme un ensemble d'actions violentes menées dans le but de provoquer la terreur et d'atteindre des objectifs politiques, religieux ou idéologiques. À l'inverse, la résistance est une opposition organisée, généralement perçue comme légitime, visant à défendre une cause, une nation ou un groupe contre une oppression perçue.
+
+#### **Légitimité et perception**
+
+Ce qui différencie fondamentalement le terrorisme de la résistance, c'est la légitimité de l'action. En théorie, la résistance est un acte politique légitime lorsqu'elle s'inscrit dans un cadre légal et moralement défendable. Toutefois, l’histoire montre que cette distinction dépend souvent du point de vue adopté. Le passage à l’acte d’un individu ou d’un groupe peut être motivé par des raisons diverses : contestation politique, frustration sociale, radicalisation idéologique. Ce qui est perçu comme un acte de résistance par certains peut être vu comme du terrorisme par d'autres.
+
+Un citoyen engagé dans un acte de contestation peut être perçu de deux manières :
+
+- Soit comme un acteur politique assumant son rôle de citoyen critique,
+- Soit comme un délinquant transgressant la loi et exposé à une sanction pénale.
+    
+
+Le terrorisme se distingue par son recours à une violence politique illégitime, tandis que la résistance, lorsqu'elle est reconnue, bénéficie d'une légitimité morale et historique.
+
+#### **L’histoire écrite par les vainqueurs**
+
+La légitimité d’un mouvement est souvent déterminée par l’issue du conflit. Une maxime romaine souligne que "l’histoire est écrite par les vainqueurs", ce qui signifie que ceux qui remportent une lutte imposent leur propre version des faits et justifient leurs actions a posteriori. Ainsi, les résistants d’hier peuvent être perçus comme des terroristes aujourd’hui, et vice versa.
+
+Les institutions internationales et européennes jouent un rôle clé dans la définition des notions de terrorisme et de résistance. À travers des traités, des résolutions et des déclarations, elles établissent des critères permettant de qualifier certains actes comme terroristes et d’en condamner les auteurs. Toutefois, ces définitions restent soumises aux enjeux politiques et géopolitiques du moment.
+
+En somme, la distinction entre terrorisme et résistance demeure un sujet complexe et évolutif, influencé par le contexte historique, la perception des acteurs et les rapports de force internationaux.
+
+Résolution 1373 Du 29 Septembre 2001 Le conseil de sécurité de l'ONU décret, la chasse universelle au terrorisme.
+
+Rapport du secrétaire génrale de l'ONU intitulé dans une Liberté plus grande Mars 2005. "Le terme par terrorisme on désigne tout acte qui vise à tuer ou à blesser grièvement des civils ou non-combattants et du fait de ça nature doit avoir pour effet d'intimider une population ou de contraindre un gouvernement ou une organisation internationale à agir d'une façon quelquonque."
+
+Legislation spéciale des états en conséquence, patriote acte et coopération des états
+
+ces actes subisse un traitement particulier tant au regard de la procédure que au niveau dans les pénalités

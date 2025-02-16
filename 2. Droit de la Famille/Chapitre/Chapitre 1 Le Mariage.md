@@ -29,7 +29,7 @@ Une personne privé ne peut pas empécher le mariage d'une autre personne privé
 
 # Section 1 : La formation du mariage
 
-## Les Fiançailles
+### Les Fiançailles
 ### ***Rupture*** : 
 #### Patrimonial :
 Rendre les cadeaux et les donations sauf cadeaux d'usage. (***En fonction du train de vie du donnateur***).
@@ -44,7 +44,7 @@ Sauf si bijoux de famille.
 
 ##### Responsabilité civil de la rupture :
 Rupture fautive : improbité morale ou grossierté
-## Mariage POSTHUME :
+### Mariage POSTHUME :
 > [!PDF|yellow] [[Code civil.pdf#page=82&color=yellow|Code civil, p.82]]
 > > 171 LOI n°2011-525 du 17 mai 2011 - art. 19 - Conseil Constit. 2011-629 DC Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf Le Président de la République peut, pour des motifs graves, autoriser la célébration du mariage en cas de décès de l'un des futurs époux, dès lors qu'une réunion suffisante de faits établit sans équivoque son consentement. Dans ce cas, les effets du mariage remontent à la date du jour précédant celui du décès de l'époux. Toutefois, ce mariage n'entraîne aucun droit de succession ab intestat au profit de l'époux survivant et aucun régime matrimonial n'est réputé avoir existé entre les époux.
 > 
@@ -94,10 +94,319 @@ Arrêt contre royaume unis contraire a la liberté matrimoniale CEDH
 Interdiction absolut de la monogamie
 
 #### C. Le consentement
+> [!PDF|] [[Code civil.pdf#page=78&selection=79,0,93,63|Code civil, p.78]]
+> > 146 Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf Il n'y a pas de mariage, lorsqu'il n'y a point de consentement.
+
 Le majeur protégé est libre de se marier libre comme il l'entends, juste en informer la personne chargé de sa protection depuis 2019, qui peut s'opposer au mariage
 3 vis du concentement :
 - Dol
 - Violence (spécialement entre les époux et époux et ascendant)
 - Erreur
 
+
 Erreur dans la personne (identité de la personne), qualité essencielle de la mariage 
+#### D. Les conditions matrimoniales
+
+L'intention d'être uni par les liens du mariage est essentielle. Cette intention ne doit pas être motivée par des raisons autres que celles liées au mariage lui-même, comme la légitimation des enfants ou l'obtention d'avantages sociaux ou fiscaux.
+
+### II. Les conditions de forme
+
+#### A. Les formalités avant la célébration
+
+> **Article 165 du Code civil**  
+> _LOI n°2013-404 du 17 mai 2013 - art. 3_  
+> Le mariage sera célébré publiquement lors d'une cérémonie républicaine par l'officier de l'état civil de la commune dans laquelle l'un des époux, ou l'un de leurs parents, aura son domicile ou sa résidence à la date de la publication prévue par l'article 63, et, en cas de dispense de publication, à la date de la dispense prévue à l'article 169.
+
+Les époux doivent être auditionnés par l'officier d'état civil sauf si ce dernier estime cela inutile.
+
+> **Article 63 du Code civil**  
+> _LOI n°2021-1109 du 24 août 2021 - art. 35_  
+> Avant la célébration du mariage, l'officier de l'état civil fera une publication par voie d'affiche apposée à la porte de la maison commune. Cette publication énoncera les prénoms, noms, professions, domiciles et résidences des futurs époux, ainsi que le lieu où le mariage devra être célébré.
+
+#### B. Formalités de célébration
+
+> **Article 74 du Code civil**  
+> _LOI n°2013-404 du 17 mai 2013 - art. 3_  
+> Le mariage sera célébré, au choix des époux, dans la commune où l'un d'eux, ou l'un de leurs parents, aura son domicile ou sa résidence établie par un mois au moins d'habitation continue à la date de la publication prévue par la loi.
+
+Les époux doivent être présents. Le mariage est célébré par un officier d'état civil sous peine de nullité. Toutefois, si l'officier qui célèbre le mariage n'est pas celui du lieu du mariage, cela ne conduit pas à une nullité automatique, mais peut poser un problème juridique.
+
+Les époux doivent signer l'acte de mariage.
+
+> **Article 76 du Code civil**  
+> _LOI n°2016-1547 du 18 novembre 2016 - art. 55_  
+> L'acte de mariage énoncera : 1° Les prénoms, noms, professions, âges, dates et lieux de naissance, domiciles et résidences des époux ; 2° Les prénoms, noms, professions et domiciles des pères et mères ; 3° Le consentement des pères et mères, aïeuls ou aïeules, et celui du conseil de famille, dans le cas où ils sont requis ; 4° Les prénoms et nom du précédent conjoint de chacun des époux ; 5° La déclaration des contractants de se prendre pour époux, et le prononcé de leur union par l'officier de l'état civil ; 6° Les prénoms, noms, professions, domiciles des témoins et leur qualité de majeurs.
+
+Aucune clause de conscience ne peut être invoquée par l'officier d'état civil pour refuser de célébrer un mariage.
+
+---
+
+## Le non-respect des conditions de formation du mariage
+
+### I. L'opposition au mariage
+
+Les articles 172 à 179 du Code civil permettent au ministère public ou aux membres de la famille des mariés (parents, grands-parents, frères, sœurs, cousins, cousines, tantes) de faire opposition au mariage sous certaines conditions, notamment si le marié est une personne protégée ou en passe de l'être. Le tuteur ou curateur peut également faire opposition.
+
+L'opposition est formulée devant l'officier d'état civil qui saisit le procureur de la République. Ce dernier a 15 jours pour répondre avec trois options :
+
+- Annuler le mariage
+    
+- Autoriser le mariage
+    
+- Suspendre le mariage pour une enquête (durée maximale de 2 mois, renouvelable une fois)
+    
+
+En cas d'opposition, les époux peuvent saisir le tribunal judiciaire. Une opposition est valable un an sauf si elle est initiée par le ministère public.
+
+### II. La nullité du mariage
+
+#### A. Les différents empêchement
+
+Empêchement prohibitif :
+
+- Défaut de publication des bans
+    
+- Absence des pièces requises par l'officier d'état civil
+    
+
+Nullité relative :
+
+- Vice du consentement (erreur, violence)
+    
+- Défaut d'autorisation parentale ou du conseil de famille pour les mineurs
+    
+
+Nullité absolue :
+
+- Inceste
+    
+- Non-respect de l'âge nuptial
+    
+- Bigamie
+    
+- Défaut de consentement
+    
+- Absence de comparution personnelle
+    
+- Incompétence de l'officier d'état civil
+    
+
+Les nullités absolues sont prévues par l'article 180 et suivants du Code civil.
+
+#### B. La nullité relative
+
+Seul le conjoint dont le consentement est vicié peut agir. Depuis 2006, le ministère public ne peut agir qu'en cas de violence.
+
+Le délai pour agir en nullité relative est de 5 ans.
+
+#### C . Nulité Absolut
+En cas de bigamie l'autré poux peut être intéréssé 187 du Cc. Les enfants en matière de sucession si intérêt péquinier à le faire peuvent le faire 188 du CC.
+
+Mariage clandestin 191 du Cc : Epoux eu même, ascendant, intérêt public,
+Ont peut demander la nulité après avoir divorcé
+
+#### D. Conséquence de la nullité
+***NE JAMAIS CONFONDRE LE DIVORCE ET LA NULLITE***
+
+Mariage Putatif liquidation du régime matrimonial
+
+# Section 2 : Les effets du mariages
+
+Pas de solidarité par principe sauf achat à tempérament et payer en plusieurs fois sauf si besoin de vie courante.
+pour les dépenses d'agrément vous souvenez la deuxième salle de bainle truc qui est pas nécessaire sauf si vous avez une famille peut-être de cette salle de bain ça peut être une nécessité maisa priori elle a déjà salle de baindans ce cas-là on va être suron va avoir la solidarité on va être sur une dette ménagère sila dépense n'est pas déraisonnable regarde le train de vie des émotionsvoilà pour les défenses agrémentstu penses que moi je vous écoutefaut pas que ce soit des raisonnable sinon on perd la solidaritédonc ça ce sont les têtes ménagères on a aussi les défis à l'éducation des enfants mais ça vous l'avez déjà vu au premier semestrerien de vraiment spécifique là-dedansjuste ils ont bien conscience vous voulez développerpas uniquement les enfants sont finies les enfants qui vivent encoredans le dans la loyer vous voyez pasattentionparfois on va boire une tête ménagèremême il n'y aura pas de solidaritéalors à quel momentdans trois conditions quand illa dépense est manifestement excessive pour regarder le train de vieon a dépensé manifestement excessive au regard du train de vieje suis dans la maison poubelle vous avez un couple la voiture tombe en panne lol plus faut racheter une voiture ça devient nécessaire pour faire les comptes changer leur manger les enfants à l'école et bizarre non ça va être une dépense nécessaire sauf que je t'ai au lieu d'acheter une voiture qui correspondoh pourquoi tu m'envoies ça serait possible
+Mauvaise fois et tain de vie des époux !!!
+
+### D. Le logement familiale
+Article 215 du CC 
+concentement des 2 &époux pour le logement familiale etc vendre louer etc
+
+### E. Autonomie des époux
+220 et 221 du CC
+
+### F Obligation alimentaire
+obligations civiles spéciales, siutation de la famille nécessiter d'aider 
+203 et s 
+
+### G les mesures de crise
+Parfois les dispositions du mariage siffisent, des fois rien n'est cécessaire
+règle en cas de crise un des deux époux qui ne peux plus agir correctement
+Gestion d'affaires un des époux d emabnifester de la vonlonté l'autre peut géré ses affaire
+
+mandat entre époux 
+
+face a une cirs un juge peut
+autorisation judiciaire, refus non justigfier par l'intérèt de la famille pour certaine décision etc etc
+
+Le juge peut effectuer une demande de représentation judiciare 
+
+étendre pouvoir d'un époux
+
+interdire
+
+220-1 219 2017
+
+# Section 3. Le divorce
+
+## Le droit au divorce
+
+Le divorce n'est pas encore reconnu comme un droit fondamental, bien qu'il existe un droit à la séparation. Cependant, un changement en la matière est possible à l'avenir.
+
+### Principes fondamentaux du divorce
+
+1. **Principe de libéralisation** : Facilitation des procédures de divorce.
+    
+2. **Principe de pluralisme** : Diversité des motifs et formes de divorce.
+    
+3. **Principe de dédramatisation** : Allègement des formalités pour rendre le divorce moins conflictuel.
+    
+4. **Divorce consensuel** : Possibilité pour les époux de divorcer par consentement mutuel sans passer devant un juge.
+    
+
+## Séparation de corps et dissolution du mariage
+
+Selon l'article 206 et suivants du Code civil, la séparation de corps est un régime juridique permettant aux époux de rester mariés tout en relâchant le lien matrimonial, notamment en supprimant l'obligation de cohabitation.
+
+### Conditions de la séparation de corps
+
+Les conditions pour une séparation de corps sont les mêmes que celles requises pour une demande de divorce.
+
+### Effets de la séparation de corps
+
+- Fin de l'obligation de cohabitation mais maintien du mariage.
+    
+- Instauration d'un régime de séparation de biens.
+    
+- Maintien du devoir de secours entre époux.
+    
+- Reprise de la vie commune mettant fin à la séparation de corps.
+    
+- Après deux ans de séparation, la transformation en divorce est possible de plein droit, sans condition de délai si les époux sont d'accord.
+    
+
+### Cas de divorce (article 229 du CC)
+
+1. Divorce par consentement mutuel.
+    
+2. Divorce par acceptation du principe de la rupture.
+    
+3. Divorce par altération définitive du lien conjugal.
+    
+4. Divorce pour faute.
+    
+
+## Le divorce consensuel
+
+Dans le cadre du divorce consensuel, il n'est plus nécessaire de passer devant le juge (procédure extrajudiciaire ou judiciaire).
+
+### Divorce par consentement mutuel sous signature privée contresignée par avocats (extrajudiciaire, réforme de 2016)
+
+#### A. Conditions
+
+Cas d'impossibilité (article 229-1 du CC) :
+
+- Si un enfant commun, capable de discernement, demande à être entendu par un juge.
+    
+- Si l'un des époux est sous un régime de protection juridique (article 249-4 du CC).
+    
+
+Les époux doivent être en accord sur toutes les conséquences du divorce (patrimoniales, familiales, etc.). Le consentement est vérifié par les avocats et non par un notaire. Un délai de réflexion de 15 jours est imposé pour éviter les divorces précipités. Une fois la convention déposée, elle a la même valeur qu'un jugement de divorce et est mentionnée en marge des actes de naissance.
+
+#### B. Effets
+
+- Force exécutoire de la convention de divorce.
+    
+- Possibilité de fixer une autre date de prise d'effet au niveau patrimonial (article 262-1 du CC).
+    
+- Clause compensatoire possible.
+    
+- En cas d'annulation de la convention, la situation juridique des époux peut être problématique.
+    
+- Pour les tiers, la date effective du divorce est celle de l'enregistrement en marge de l'acte de naissance.
+    
+
+### Divorce par consentement mutuel judiciaire
+
+- Ce mode de divorce est par principe inaccessible.
+    
+- La convention de divorce est soumise à l'homologation d'un juge, qui vérifie son équilibre.
+    
+- Le juge peut homologuer ou refuser la convention, mais ne peut pas la modifier.
+    
+
+## Les divorces conflictuels
+
+### Divorce par acceptation du principe de la rupture
+
+Ce type de divorce intervient lorsque les époux s'accordent sur le principe du divorce mais pas sur ses effets.
+
+Trois situations permettent d'initier cette procédure :
+
+1. Divorce déjà en cours pour altération définitive du lien conjugal ou pour faute.
+    
+2. Procès-verbal d'acceptation ou déclaration d'acceptation lors de l’audience.
+    
+3. Acte sous signature privée contresigné par avocat puis saisine du juge (valable 6 mois, irrévocable).
+    
+
+### Divorce pour altération définitive du lien conjugal (articles 237-238 du CC)
+
+- Les époux doivent être séparés depuis un an au moins.
+    
+- Les raisons de la séparation n'ont pas d'importance, seul l'élément matériel et moral compte.
+    
+- Une reprise de vie commune peut suspendre ce délai, selon l'appréciation du juge.
+    
+- Si une demande pour altération du lien conjugal est formulée et qu'une autre demande de divorce existe, l'année de séparation n'est pas exigée.
+    
+
+### Divorce pour faute (articles 242-246 du CC)
+
+- Anciennement le seul cas de divorce, il devient de plus en plus rare.
+    
+- Trois éléments doivent être réunis et appréciés par le juge :
+    
+    1. Fait imputable à l'époux défendeur, commis en conscience et avec volonté.
+        
+    2. Violation grave ou renouvelée des obligations du mariage (analyse factuelle).
+        
+    3. Faits rendant intolérable la vie commune.
+        
+- Certains éléments de preuve ne sont pas admissibles (témoignages de descendants, enquêtes sociales).
+    
+- Changement de sexe : considéré comme une faute si les conséquences rendent la vie commune intolérable.
+    
+- La réconciliation après les faits empêche d'invoquer les faits anciens, sauf en cas de nouveaux éléments.
+    
+
+#### Divorce pour faute partagée
+
+- Si les deux époux ont commis des fautes, l'une peut neutraliser l'autre.
+    
+- Divorce pour faute partagée si les torts sont équivalents.
+    
+
+#### Les passerelles entre procédures (articles 247-1 et 247-2 du CC)
+
+- Passage possible d'un divorce conflictuel à un divorce moins conflictuel.
+    
+- Pas de passage vers un divorce plus conflictuel.
+    
+
+## Procédure judiciaire du divorce
+
+### A. Introduction de l’instance
+
+- Article 251 du CC : la demande ne doit pas nécessairement être motivée par une faute.
+    
+
+### B. Objectifs de l'instance
+
+- Depuis le 1er janvier 2021, l'audience de conciliation a été supprimée.
+    
+- La procédure débute par une audience d’orientation pour fixer les mesures provisoires.
+    
+- Les parties peuvent renoncer à cette audience.
+    
+- Article 245 du CC : liste des mesures provisoires pouvant être ordonnées par le juge.
+    
+- Si le juge rejette la demande en divorce (article 253 du CC), il peut néanmoins prononcer le divorce pour un autre motif.

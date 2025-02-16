@@ -1,5 +1,4 @@
-#Institution-internationale-et-européenne
-
+#Institution-internationale-et-européenne #séance1 
 ## Introduction générale : L’institutionnalisation des relations internationales
 
 ### A : Pourquoi des organisations internationales ?
