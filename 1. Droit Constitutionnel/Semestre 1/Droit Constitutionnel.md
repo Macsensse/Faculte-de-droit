@@ -1,3 +1,4 @@
+#droit-constitutionnel #semestre1
 ***Le droit : Ensemble des règles qui organisent la vie des membres d'une société.***
 
 ***Branche du droit publique : c'est l'étude d'une partie des règles liées au pouvoir politique et de l'Etat. et des relations entre les membres de la société et l'État***

@@ -1,10 +1,11 @@
-### Introduction : Les origines de la Ve République
+#droit-constitutionnel #semestre2
+# Introduction : Les origines de la Ve République
 
 Le droit constitutionnel français, marqué par une riche histoire politique, trouve ses racines dans une succession de régimes et constitutions qui ont façonné les institutions de la République. La Ve République, établie le 4 octobre 1958, est souvent présentée comme une réponse aux crises institutionnelles et politiques de la IVe République. Cette introduction revient sur les origines de ce régime en explorant les dynamiques politiques, les échecs institutionnels, et les contextes historiques qui ont conduit à sa naissance.
 
 ---
 
-#### I. **Les héritages constitutionnels français avant la Ve République**
+## I. **Les héritages constitutionnels français avant la Ve République**
 
 La France a connu une série de constitutions, chacune reflétant les luttes idéologiques et les aspirations politiques de son époque :
 
@@ -15,7 +16,7 @@ La France a connu une série de constitutions, chacune reflétant les luttes id�
 
 ---
 
-#### II. **La naissance et les limites de la IVe République**
+## II. **La naissance et les limites de la IVe République**
 
 La IVe République, proclamée avec la Constitution du 27 octobre 1946, repose sur un compromis entre les principales forces politiques de l’époque : le Parti communiste français (PCF), la Section française de l’internationale ouvrière (SFIO, socialistes), et le Mouvement républicain populaire (MRP, centre-droit). Cependant, cette république est rapidement critiquée pour son instabilité et ses dysfonctionnements institutionnels :
 
@@ -25,7 +26,7 @@ La IVe République, proclamée avec la Constitution du 27 octobre 1946, repose s
 
 ---
 
-#### III. **La montée en puissance des idées de De Gaulle**
+## III. **La montée en puissance des idées de De Gaulle**
 
 Face aux dysfonctionnements de la IVe République, Charles de Gaulle critique vigoureusement ses institutions. Dès 1946, il expose sa vision d’un régime politique stable dans des discours fondateurs :
 
@@ -36,7 +37,7 @@ De Gaulle crée en 1947 le **Rassemblement du peuple français (RPF)**, un mouve
 
 ---
 
-#### IV. **La crise de 1958 et la transition vers la Ve République**
+## IV. **La crise de 1958 et la transition vers la Ve République**
 
 La crise algérienne joue un rôle déterminant dans la chute de la IVe République. L’incapacité des institutions à gérer ce conflit conduit à un effondrement politique en mai 1958, marqué par :
 

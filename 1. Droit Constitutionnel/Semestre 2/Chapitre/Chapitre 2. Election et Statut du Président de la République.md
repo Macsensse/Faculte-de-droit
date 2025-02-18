@@ -1,3 +1,4 @@
+#droit-constitutionnel 
 Le président de la République fait l’objet du titre 2 de la constitution. Le président apparait
 donc avant les autres institutions. Cela montre l’importance que les rédacteurs de la
 Constitution ont voulu donner au Président de la République.
