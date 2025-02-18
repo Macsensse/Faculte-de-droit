@@ -11,14 +11,10 @@
             "id": "6df13f973ba2ad97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/0. La V République.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. La V République"
+              "title": "New tab"
             }
           }
         ]
@@ -167,6 +163,23 @@
   },
   "active": "3808da1c569404c4",
   "lastOpenFiles": [
+    "Templates/Fiche.model.md",
+    "Templates/TD.model.md",
+    "Templates/Cas Pratique.model.md",
+    "B. Agenda/2025-02-19.md",
+    "Procédeutique/TD Procédeutique.md",
+    "B. Agenda/2024-09-16 Evaluation sur la méthodologie -BIEN REVISER-.md",
+    "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md",
+    "A. Exercice & Devoir rendu/QRC Méthodologie séance 1.md",
+    "A. Exercice & Devoir rendu/Promotion1_Frontières_CAMPAGNE.Maxence.md",
+    "A. Exercice & Devoir rendu/Promotion 1_Ressources_CAMPAGNE.Maxence.md",
+    "A. Exercice & Devoir rendu/Plan sur la notion de souveraineté.md",
+    "A. Exercice & Devoir rendu/Fiche d'arrêt entrainement.md",
+    "A. Exercice & Devoir rendu/Devoir Introduction Commentaire.md",
+    "A. Exercice & Devoir rendu/CAS PRATIQUE NOM.md",
+    "A. Exercice & Devoir rendu/CAS PRATIQUE DRONE.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/0. La V République.md",
+    "3. Droit Mixtes",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 6 à 9 (IDIEDH, 24_25).pdf",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 6 à 9 (IDIEDH, 24_25).pdf.crdownload",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 1 à 4 (IDIEDH, 24_25).pdf",
@@ -176,8 +189,6 @@
     "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/DDP fiche de TD SEANCE 8 ET 9 2024-25.pdf.crdownload",
     "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/fiche de TD séance 7.pdf",
     "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/fiche de TD séance 7.pdf.crdownload",
-    "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/DDP fascicule de TD séance 6 - 2024-25 - MAJ (003) (002).pdf",
-    "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/DDP fascicule de TD séance 6 - 2024-25 - MAJ (003) (002).pdf.crdownload",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/0. Droit Constitutionnel.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 3. L’histoire constitutionnelle française (1870-1958).md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 2. La répartition des pouvoirs dans les régimes politiques contemporains.md",
@@ -188,25 +199,10 @@
     "0. Documents/2. Média/Images/Pasted image 20240904105550.png",
     "0. Documents/2. Média/Images/Pasted image 20240904112423.png",
     "0. Documents/2. Média/Images/Pasted image 20240907175958.png",
-    "Procédeutique/TD Procédeutique.md",
     "Cour de cassation, chambre civil 1.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 3. Les pouvoirs du président de la République.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 2. Election et Statut du Président de la République.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 1 Les origines de la V République.md",
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/0. La V République.md",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/3. Asynchrone/Schéma Asynchrone 1.canvas",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/3. Asynchrone/Séance Asynchrone 1.md",
-    "1. Droit Public/3. Institution Internationale et européenne/Asynchrone/Cours asynchrone n°1.md",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/0. Introduction au Droit International et Européen des Droits de l'Homme.md",
-    "2. Droit Privé/2. Droit de la famille/1. Chapitre/Chapitre 1. Le Mariage.md",
-    "2. Droit Privé/2. Droit de la famille/3. Asynchrone/Le PACS.md",
-    "B. Agenda/2025-02-19.md",
-    "B. Agenda/2024-09-16 Evaluation sur la méthodologie -BIEN REVISER-.md",
-    "B. Agenda/Untitled.md",
-    "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/Chapitre 1 L'émergence du droit international des droits de l'Homme.md",
-    "1. Droit Public/5. Institutions Administratives/0. Institutions Administratives.md",
-    "1. Droit Public/5. Institutions Administratives/1. Chapitres/Chapitre 2. Les Services déconcentrés.md",
-    "1. Droit Public/5. Institutions Administratives/1. Chapitres/Chapitre 1. Les institutions décisionnelles.md"
+    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/3. Asynchrone/Schéma Asynchrone 1.canvas"
   ]
 }
