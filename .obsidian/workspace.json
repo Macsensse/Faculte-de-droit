@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "47386a5d0e9682bd",
+        "id": "88eb0abacb5272ea",
         "type": "tabs",
         "children": [
           {
-            "id": "6df13f973ba2ad97",
+            "id": "89969b05e3b7ac2b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf"
+                "file": "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code des douanes.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "fichier-TD-24-25"
+              "title": "Code des douanes"
             }
           }
         ]
@@ -163,48 +163,48 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6df13f973ba2ad97",
+  "active": "89969b05e3b7ac2b",
   "lastOpenFiles": [
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf",
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf.crdownload",
-    "Templates/Fiche.model.md",
-    "Templates/TD.model.md",
-    "Templates/Cas Pratique.model.md",
-    "B. Agenda/2025-02-19.md",
-    "Procédeutique/TD Procédeutique.md",
-    "B. Agenda/2024-09-16 Evaluation sur la méthodologie -BIEN REVISER-.md",
-    "B. Agenda/2024-09-12 Faire 1 CAS PRATIQUE DRONE + 2 COMMENTAIRE D'ARRÊTS.md",
-    "A. Exercice & Devoir rendu/QRC Méthodologie séance 1.md",
-    "A. Exercice & Devoir rendu/Promotion1_Frontières_CAMPAGNE.Maxence.md",
-    "A. Exercice & Devoir rendu/Promotion 1_Ressources_CAMPAGNE.Maxence.md",
-    "A. Exercice & Devoir rendu/Plan sur la notion de souveraineté.md",
-    "A. Exercice & Devoir rendu/Fiche d'arrêt entrainement.md",
-    "A. Exercice & Devoir rendu/Devoir Introduction Commentaire.md",
-    "A. Exercice & Devoir rendu/CAS PRATIQUE NOM.md",
-    "A. Exercice & Devoir rendu/CAS PRATIQUE DRONE.md",
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/0. La V République.md",
-    "3. Droit Mixtes",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 6 à 9 (IDIEDH, 24_25).pdf",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 6 à 9 (IDIEDH, 24_25).pdf.crdownload",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 1 à 4 (IDIEDH, 24_25).pdf",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 1 à 4 (IDIEDH, 24_25).pdf.crdownload",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés",
-    "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/DDP fiche de TD SEANCE 8 ET 9 2024-25.pdf",
-    "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/DDP fiche de TD SEANCE 8 ET 9 2024-25.pdf.crdownload",
-    "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/fiche de TD séance 7.pdf",
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/0. Droit Constitutionnel.md",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de l'urbanisme.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de l'urbanisme.pdf.crdownload",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code Civil, LégifranceGouv.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code des douanes.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code des procédures civiles d'exécution.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code du cinéma et de l'image animée.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code général des collectivités territoriales.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de justice administrative.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de déontologie des architectes.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de la commande publique.pdf",
+    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de l'action sociale et des familles.pdf",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/Brouillon Séance 2.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 3. L’histoire constitutionnelle française (1870-1958).md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T3 Chapitre 1.  La III République.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 2. La répartition des pouvoirs dans les régimes politiques contemporains.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 1. Les fondements théoriques.md",
-    "2. Droit Privé/2. Droit de la famille/0. Droit de la Famille.md",
-    "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/1. TD/Séance 2/DM-2/DM Droit des personnes Séance 2.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T2 Chapitre 3. Le régime présidentiel américain.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T2 Chapitre 2. Les régimes parlementaires applications.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T2 Chapitre 1. La séparation des pouvoirs.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T1 Chapitre 3. La constitution.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T1 Chapitre 2. La démocratie.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T1 CHAPITRE 1 L'Etat.md",
+    "1. Droit Public/3. Institution Internationale et européenne/Institution Internationale et Européenne.md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/Chapitre I Les acteurs des relations internationales.md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/Chapitre II. L’organisation des relations  internationales..md",
+    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/Chapitre 1 L'émergence du droit international des droits de l'Homme.md",
+    "2. Droit Privé/1. Droit des personnes/1. Chapitre/T5 Chapitre 2 Le majeur.md",
+    "2. Droit Privé/1. Droit des personnes/1. Chapitre/T5 Chapitre 1 Le mineur.md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 8 LA PROTECTION DES BIENS DU MINEUR (2T2) -Incapacité et représentation du mineur.md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 5  LES PERSONNES VULNERABLE.md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 4 LA PROTECTION DE L’INTEGRITE MORALE DE LA PERSONNE PHYSIQUE.md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 9 LA PROTECTION DU MAJEUR (1T2).md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 10 LA PROTECTION DU MAJEUR (2T2).md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 3 LA PROTECTION DU CORPS HUMAIN DE LA PERSONNE PHYSIQUE.md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 2 L’IDENTIFICATION DE LA PERSONNE PHYSIQUE.md",
+    "2. Droit Privé/1. Droit des personnes/Thème/THEME 1 LA PERSONNALITE JURIDIQUE.md",
     "0. Documents/2. Média/Images/Pasted image 20240903220751.png",
     "0. Documents/2. Média/Images/Pasted image 20240904105550.png",
     "0. Documents/2. Média/Images/Pasted image 20240904112423.png",
     "0. Documents/2. Média/Images/Pasted image 20240907175958.png",
-    "Cour de cassation, chambre civil 1.md",
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 3. Les pouvoirs du président de la République.md",
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 2. Election et Statut du Président de la République.md",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/3. Asynchrone/Schéma Asynchrone 1.canvas"
   ]
 }

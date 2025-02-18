@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "tag:#méthodologie  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
       "query": "tag:#en-jeux-de-la-transition-écologique  ",
       "color": {
         "a": 1,
@@ -55,6 +48,34 @@
         "a": 1,
         "rgb": 16776960
       }
+    },
+    {
+      "query": "tag:#droit-de-la-famille  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#institutions-administratives  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#Institution-internationale-et-européenne  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#introduction-au-droit-international-et-européen-des-droits-de-l-homme  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -63,10 +84,10 @@
   "nodeSizeMultiplier": 0.840104166666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.197916666666667,
-  "repelStrength": 5.41666666666667,
-  "linkStrength": 0.0498993204127863,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0.244791666666667,
   "linkDistance": 30,
-  "scale": 0.4505081176757836,
+  "scale": 0.4505081176757892,
   "close": true
 }
