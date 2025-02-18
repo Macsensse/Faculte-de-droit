@@ -1,5 +1,5 @@
+#institutions-administratives 
 Administrations centrales :  Ensemble des institutions qui forme le pouvoir exécutif, et qui exerce leur compétence sur l’ensemble du territoire national, (ministère). 
-
 
 ---
 

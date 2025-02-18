@@ -177,7 +177,7 @@ Mariage Putatif liquidation du régime matrimonial
 ## ***I. Principe de non-solidarité et exceptions***
 En principe, chaque époux est responsable des dettes qu'il contracte personnellement. Toutefois, certaines exceptions existent, prévues par la loi pour garantir le bon fonctionnement du ménage.
 1. **Solidarité pour les achats à crédit et les paiements fractionnés**  
-    L'article 220 du Code civil stipule que les époux sont solidairement responsables des dettes contractées pour l'entretien du ménage et l'éducation des enfants. Cela inclut notamment les achats de biens et services de la vie courante (nourriture, habillement, soins de santé, scolarité des enfants).
+    L'article 220 du Code civil dispose que les époux sont solidairement responsables des dettes contractées pour l'entretien du ménage et l'éducation des enfants. Cela inclut notamment les achats de biens et services de la vie courante (nourriture, habillement, soins de santé, scolarité des enfants).
     Toutefois, cette solidarité ne s'applique pas si :
     - La dépense est manifestement excessive au regard du train de vie du couple.
     - Elle n'a pas été consentie par les deux époux pour un achat à crédit.

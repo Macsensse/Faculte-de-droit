@@ -168,5 +168,5 @@ PIEC
 PICP
 Droit créance obligé l'état a fournir une prestation
 
-émergence d'une IV générations développement des nouvlles technologie et bio ethique
+émergence d'une IV générations développement des nouvelles technologie et bio éthique
 #### III. Les Sources juridiques des droits de l'Homme

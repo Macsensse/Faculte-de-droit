@@ -1,6 +1,6 @@
-Les pouvoirs lui permette d'exercer sa mission constitutionnelle déninit à l'article 5 de la Constitution de 1958.
+Les pouvoirs lui permette d'exercer sa mission constitutionnelle définit à l'article 5 de la Constitution de 1958.
 . Ne peut pas avoir un rôle uniquement institutionnel
-Arbitre au dessud es parties et ddes jeux politique représente l'intérêt nationale
+Arbitre au dessus es parties et des jeux politique représente l'intérêt nationale
 Juge suprême de l'intérêt national.
 Le PR est un régulateur
 

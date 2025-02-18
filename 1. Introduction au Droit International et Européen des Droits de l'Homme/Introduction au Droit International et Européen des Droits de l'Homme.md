@@ -1,3 +1,4 @@
+#introduction-au-droit-international-et-européen-des-droits-de-l-homme #séance1 
 Le 29 décembre 2024, l'Afrique du Sud a introduit une requête contre Israël devant la Cour internationale de Justice (CIJ) concernant des manquements graves aux droits humains, qualifiés de génocide. Cette action visait à obtenir des mesures conservatoires, conformément au statut de la Cour. La CIJ, l'un des principaux organes judiciaires des Nations Unies, a été établie par la Charte des Nations Unies et a commencé ses activités en avril 1946. Elle est composée de 15 juges, élus pour un mandat de neuf ans par l'Assemblée générale et le Conseil de sécurité des Nations Unies, et siège à La Haye, aux Pays-Bas. Sa mission est de régler les différends juridiques entre États ou de rendre des avis consultatifs.
 
 ### La Particularité de la Saisine et la Question de la Souveraineté

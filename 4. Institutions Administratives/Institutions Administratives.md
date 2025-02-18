@@ -1,3 +1,4 @@
+#institutions-administratives #séance1 
 Le terme _institution_ dérive du latin _instituere_, signifiant « disposer, établir, mettre en place ». Les institutions se définissent comme tout ce qui est créé par l’Homme, en opposition à ce qui relève de la nature.
 
 L’administration, dans son sens général, ne se limite pas aux affaires publiques. Même les activités quotidiennes des ménages peuvent être qualifiées d’administratives. Cependant, dans ce cours, nous nous concentrons exclusivement sur l’administration publique, qui concerne la gestion des affaires publiques et la mise en œuvre des politiques de l’État.

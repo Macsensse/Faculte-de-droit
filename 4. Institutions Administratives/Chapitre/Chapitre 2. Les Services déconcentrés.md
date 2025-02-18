@@ -1,3 +1,4 @@
+#institutions-administratives
 Les services déconcentrés sont une déclinaison de l’administration centrale au niveau local. Ils permettent à l’État d’assurer une présence territoriale tout en adaptant ses actions aux spécificités locales. Relevant du pouvoir hiérarchique des ministères, ces services sont placés sous l’autorité des préfets et des directeurs régionaux ou départementaux. Leur mission est d’appliquer les politiques publiques décidées au niveau national, en garantissant une gestion plus efficace et proche des citoyens. Ainsi, ils constituent un prolongement de l’État, renforçant son unité tout en tenant compte des réalités locales.
 Plusieurs découpage :
 - ***Département***
