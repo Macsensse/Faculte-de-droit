@@ -1,1 +1,0 @@
-***Crée sous le régime de Vichy***
