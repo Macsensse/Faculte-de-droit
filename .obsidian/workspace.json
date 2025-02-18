@@ -11,10 +11,12 @@
             "id": "6df13f973ba2ad97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "fichier-TD-24-25"
             }
           }
         ]
@@ -161,8 +163,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3808da1c569404c4",
+  "active": "6df13f973ba2ad97",
   "lastOpenFiles": [
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf.crdownload",
     "Templates/Fiche.model.md",
     "Templates/TD.model.md",
     "Templates/Cas Pratique.model.md",
@@ -188,7 +192,6 @@
     "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/DDP fiche de TD SEANCE 8 ET 9 2024-25.pdf",
     "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/DDP fiche de TD SEANCE 8 ET 9 2024-25.pdf.crdownload",
     "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/fiche de TD séance 7.pdf",
-    "2. Droit Privé/1. Droit des personnes/2. Fascicules & Travaux dirigés/fiche de TD séance 7.pdf.crdownload",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/0. Droit Constitutionnel.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 3. L’histoire constitutionnelle française (1870-1958).md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 2. La répartition des pouvoirs dans les régimes politiques contemporains.md",
@@ -202,7 +205,6 @@
     "Cour de cassation, chambre civil 1.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 3. Les pouvoirs du président de la République.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 2. Election et Statut du Président de la République.md",
-    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/1. Chapitres/Chapitre 1 Les origines de la V République.md",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/3. Asynchrone/Schéma Asynchrone 1.canvas"
   ]
 }
