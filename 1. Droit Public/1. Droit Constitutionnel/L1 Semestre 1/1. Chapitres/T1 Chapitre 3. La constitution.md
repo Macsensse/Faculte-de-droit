@@ -64,7 +64,7 @@ En quelque point :
 - **Contrôle exercé par voie d’action** : le juge constitutionnel est saisi d’un litige dont l’objet est de trancher la question de la constitutionnalité d’une loi. 
 - **Déclarations d’inconstitutionnalité** du juge constitutionnel dotées de l’autorité absolue de chose jugée : la loi disparaît de l’ordonnancement juridique (effets erga omnes). 
 - Contrôle soit abstrait et exercé a priori ou a posteriori soit concret (et alors le juge ordinaire saisi de la question de la constitutionnalité de la loi doit la renvoyer au juge constitutionnel : il s’agit pour lui d’une question préjudicielle) (**surtoir à statuer**).
- related : [[Conseil Constituitionnel]]
+ related : [[Conseil Constitutionnel]]
 La cour constituionnel règles les conflits de juridictions, les juges sont rarement professionnel, décider par le pouvoir politique. Le choix des juges sont nommé avec l'intervention du pouvoir politique, mais les conditions son encadré n'est jamais discrétionnaire, dans les constitutions il y a des critères pour encadré le choix des autorités politiques et des fois très précis. 
 
 Il arrive que les modèles européen et américain se combine, surtout dans les constitutions récentes.

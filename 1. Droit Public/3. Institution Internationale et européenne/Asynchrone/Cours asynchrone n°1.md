@@ -1,4 +1,4 @@
-#asynchrone 
+#asynchrone #Institution-internationale-et-européenne 
 Quel est le véritable pouvoir d’une organisation non gouvernementale -
 ONG - et en quoi sont-elles indépendantes ou dépendantes d’Etats ? 
 
@@ -18,7 +18,7 @@ Les ONG jouent un rôle essentiel dans la mise à l’agenda politique de certai
 
 ### **b) Un pouvoir opérationnel sur le terrain**
 
-Les ONG sont souvent les premières à intervenir lors de crises humanitaires ou de catastrophes naturelles. Des organisations comme Médecins Sans Frontières (MSF) ou la Croix-Rouge agissent là où les États sont défaillants ou absents. Elles assurent des missions de secours, de reconstruction et de développement durable.
+Les ONG sont souvent les premières à intervenir lors de crises humanitaires ou de catastrophes naturelles. Des organisations comme Médecins Sans Frontières (MSF) ou la Croix-Rouge agissent là où les États sont défaillants ou absents. Elles assurent des missions de secours, de reconstruction et de sdéveloppement durable.
 
 ### **c) Un pouvoir normatif et de veille**
 

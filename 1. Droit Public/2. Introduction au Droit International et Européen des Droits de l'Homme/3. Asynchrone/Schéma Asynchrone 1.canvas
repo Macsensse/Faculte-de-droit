@@ -1,1 +1,14 @@
-{}
+{
+	"nodes":[
+		{"id":"10602894206d5a24","x":-580,"y":60,"width":404,"height":80,"type":"text","text":"***3. Le Conseil économique et social***"},
+		{"id":"4021017fd1bd0072","type":"text","text":"***2. Le Conseil de sécurité (CS)***\n","x":240,"y":-240,"width":380,"height":100},
+		{"id":"d1fa8ac4514243a8","type":"text","text":"***1. L'Assemblée Générale (AG) :***\n","x":-280,"y":-240,"width":360,"height":100},
+		{"id":"04829bff440ef863","x":328,"y":60,"width":292,"height":88,"type":"text","text":"***4. La Cour de Justice Internationale***"},
+		{"id":"d49195d857fc698a","x":-52,"y":320,"width":292,"height":88,"type":"text","text":"***5. Le secrétariat***"}
+	],
+	"edges":[
+		{"id":"0bf481bfa820b135","fromNode":"d1fa8ac4514243a8","fromSide":"bottom","toNode":"4021017fd1bd0072","toSide":"bottom"},
+		{"id":"2cbcb9fa6ba1c922","fromNode":"4021017fd1bd0072","fromSide":"left","toNode":"d1fa8ac4514243a8","toSide":"right"},
+		{"id":"e89c200c678248be","fromNode":"10602894206d5a24","fromSide":"top","toNode":"d1fa8ac4514243a8","toSide":"left"}
+	]
+}

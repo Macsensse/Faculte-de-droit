@@ -123,14 +123,14 @@ Règle relative à la dévolution du pouvoir et à son exercice qui va intérés
 
 Le droit constitutionnel en france par l'odre judiciaire et l'odre administratif.
 
-Juridiction spécialisée chargé du respect de la constitution => [[Conseil Constituitionnel]]
+Juridiction spécialisée chargé du respect de la constitution => [[Conseil Constitutionnel]]
 
 #### Droit administratif :
 C'est l'ensemble des règles relatives à l'organisation de l'appareil étatique, qu'est l'administration. AInsi que les règles relative au relation de l'administration avec les particuliers. Entre personne publique et personne privé. Cet branche du droit couvre donc l'organsiation territorial de l'état français en gérant les différentes abilité territoriales tels que les communes les départements les régions, les collectivité à statut particulier.
 
 Elle prévoit aussi l'aménagement du territoire français, la gestion d'urbanisme, gestion des expropriation.
 
-Le droit administratif viens régler le satut et les compétences des fonctionnaires et agents publics, en fixant les règles en matière de contrat administratif, de travaux public mais aussi de responsabilité de l'administration. Le respect des règles applicables est confié au juridiction de l'ordre administratif avec à sa tête le conseil d'état => [[Conseil d ETat]] 
+Le droit administratif viens régler le satut et les compétences des fonctionnaires et agents publics, en fixant les règles en matière de contrat administratif, de travaux public mais aussi de responsabilité de l'administration. Le respect des règles applicables est confié au juridiction de l'ordre administratif avec à sa tête le conseil d'état => [[Conseil d'Etat]] 
 
 On ne peut pas faire jugé cet état par le juge compétent par les particuliers autres ordre de juridiction : ordre administratif voir [[P1 CHAPITRE II. LES PRINCIPES PROPRES AU SERVICE PUBLIC DE LA JUSTICE]]
 

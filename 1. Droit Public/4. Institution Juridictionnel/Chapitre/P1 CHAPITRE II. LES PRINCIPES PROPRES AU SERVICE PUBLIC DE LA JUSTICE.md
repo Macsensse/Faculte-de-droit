@@ -64,7 +64,7 @@ Le gouvernement, y compris les ministres, ne doit **jamais** faire pression sur 
 Ce principe est fondamental dans l’organisation de la justice en France, où il existe deux ordres juridictionnels distincts : l’ordre judiciaire (qui traite des litiges entre particuliers) et l’ordre administratif (qui traite des litiges impliquant l’administration).
 Les juridictions suprèmes de ces deux ordres sont :
 [[Cour de Cassation]]
-[[Conseil d ETat]]
+[[Conseil d'Etat]]
 
 ---
 
