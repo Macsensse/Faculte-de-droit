@@ -11,12 +11,28 @@
             "id": "89969b05e3b7ac2b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code des douanes.pdf"
+                "file": "2. Droit Privé/2. Droit de la famille/2. Fascicule & Travaux dirigés/Séance 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Code des douanes"
+              "icon": "lucide-file",
+              "title": "Séance 3"
+            }
+          },
+          {
+            "id": "55e63a8ee5bab320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Droit Privé/2. Droit de la famille/1. Chapitre/Chapitre 1. Le Mariage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapitre 1. Le Mariage"
             }
           }
         ]
@@ -165,17 +181,23 @@
   },
   "active": "89969b05e3b7ac2b",
   "lastOpenFiles": [
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de l'urbanisme.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de l'urbanisme.pdf.crdownload",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code Civil, LégifranceGouv.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code des douanes.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code des procédures civiles d'exécution.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code du cinéma et de l'image animée.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code général des collectivités territoriales.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de justice administrative.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de déontologie des architectes.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de la commande publique.pdf",
-    "0. Documents/1. Textes juridiques/Codes & Collections/Codes/Légifrance/Code de l'action sociale et des familles.pdf",
+    "2. Droit Privé/2. Droit de la famille/2. Fascicule & Travaux dirigés/fascicule COUPLE 24 25.pdf",
+    "2. Droit Privé/2. Droit de la famille/2. Fascicule & Travaux dirigés/Séance 3.md",
+    "2. Droit Privé/2. Droit de la famille/1. Chapitre/Chapitre 1. Le Mariage.md",
+    "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf",
+    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T1. Chapitre II.- L’ONU et les droits de l’homme.md",
+    "6. Agenda/2027/5. Janvier",
+    "6. Agenda/2027/4. Décembre",
+    "6. Agenda/2027/3. Avril",
+    "6. Agenda/2027/2. Novembre",
+    "6. Agenda/2027/1. Octobre",
+    "6. Agenda/2027/0. Septembre",
+    "6. Agenda/2027/8. Mai",
+    "6. Agenda/2027/7. Mars",
+    "6. Agenda/2025/6. Février/2025-02-19.md",
+    "6. Agenda/2025/Février/2025-02-19.md",
+    "B. Agenda/2025/Février/2025-02-19.md",
+    "B. Agenda/2025/2025-02-19.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/Brouillon Séance 2.md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/Titre/Titre 3. L’histoire constitutionnelle française (1870-1958).md",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T3 Chapitre 1.  La III République.md",
@@ -194,13 +216,6 @@
     "2. Droit Privé/1. Droit des personnes/1. Chapitre/T5 Chapitre 2 Le majeur.md",
     "2. Droit Privé/1. Droit des personnes/1. Chapitre/T5 Chapitre 1 Le mineur.md",
     "2. Droit Privé/1. Droit des personnes/Thème/THEME 8 LA PROTECTION DES BIENS DU MINEUR (2T2) -Incapacité et représentation du mineur.md",
-    "2. Droit Privé/1. Droit des personnes/Thème/THEME 5  LES PERSONNES VULNERABLE.md",
-    "2. Droit Privé/1. Droit des personnes/Thème/THEME 4 LA PROTECTION DE L’INTEGRITE MORALE DE LA PERSONNE PHYSIQUE.md",
-    "2. Droit Privé/1. Droit des personnes/Thème/THEME 9 LA PROTECTION DU MAJEUR (1T2).md",
-    "2. Droit Privé/1. Droit des personnes/Thème/THEME 10 LA PROTECTION DU MAJEUR (2T2).md",
-    "2. Droit Privé/1. Droit des personnes/Thème/THEME 3 LA PROTECTION DU CORPS HUMAIN DE LA PERSONNE PHYSIQUE.md",
-    "2. Droit Privé/1. Droit des personnes/Thème/THEME 2 L’IDENTIFICATION DE LA PERSONNE PHYSIQUE.md",
-    "2. Droit Privé/1. Droit des personnes/Thème/THEME 1 LA PERSONNALITE JURIDIQUE.md",
     "0. Documents/2. Média/Images/Pasted image 20240903220751.png",
     "0. Documents/2. Média/Images/Pasted image 20240904105550.png",
     "0. Documents/2. Média/Images/Pasted image 20240904112423.png",
