@@ -248,10 +248,11 @@ Les conditions pour une séparation de corps sont les mêmes que celles requises
 ---
 ## ***III. Les divorces (article 229 du CC)***
 
-5. Divorce par consentement mutuel.
-6. Divorce par acceptation du principe de la rupture.
-7. Divorce par altération définitive du lien conjugal.
-8. Divorce pour faute.
+1. Divorce par consentement mutuel contre signé par avocat.
+2. Divorce par consentement mutuel judiciaire
+3. Divorce par acceptation du principe de la rupture.
+4. Divorce par altération définitive du lien conjugal.
+5. Divorce pour faute.
 
 ### A. Les divorce consensuel
 Dans le cadre du divorce consensuel, il n'est plus nécessaire de passer devant le juge (procédure extrajudiciaire ou judiciaire).
