@@ -1,22 +1,8 @@
 #droit-constitutionnel 
 # Section 1. La naissance de la Ve République : les événements de 1958
-Il y a une problématique majeure à la fin des années 50 qui est celle de l’évolution des
-rapports entre la métropole et les territoires d’outre-mer. Du fait de l’instabilité de la doctrine
-en matière de politique étrangère et de politique coloniale varie sans cesse ce qui créer une
-grande incohérence dans la position de la France vis à vis de ses colonies.
-L’Indochine française va être une question très mal traité du fait des incohérences des
-gouvernements successifs. Tantôt on négocie, tantôt on fait la guerre et cela va mal finir
-pour l’armée française avec la défaite de Dien Bien Phu. Cela fait que la France se retrouve
-dans une situation compliquée de perdante et va être précisée par Pierre Mendes France et
-les accords de Genève.
-En Tunisie, tantôt on enferme le nouveau président, tantôt on le surveille. Il s’agit de la
-même chose au Maroc avec la Roi Mohamed V.
-Chaque gouvernement fait l’inverse du gouvernement précédent.
-En Algérie, l’indécision du régime est totalement catastrophique. Il y a un problème avec
-l’Algérie du fait de la proximité et parce que l’Algérie n’était pas une colonie mais un territoire
-français a part entière divisé en département et peuplés de citoyens français. Certains
-étaient musulmans, d’autres juifs, arabes et les français d’origine européenne nés en Algérie
-(pieds noirs). En 1947, avait été adopté un statut de l’Algérie qui créât une Assemblée élue
+Il y a une problématique majeure à la fin des années 50 qui est celle de l’évolution des rapports entre la métropole et les territoires d’outre-mer. Du fait de l’instabilité de la doctrine en matière de politique étrangère et de politique coloniale varie sans cesse ce qui créer une grande incohérence dans la position de la France vis à vis de ses colonies. L’Indochine française va être une question très mal traité du fait des incohérences des gouvernements successifs. Tantôt on négocie, tantôt on fait la guerre et cela va mal finir pour l’armée française avec la défaite de Dien Bien Phu. Cela fait que la France se retrouve dans une situation compliquée de perdante et va être précisée par Pierre Mendes France et les accords de Genève.
+En Tunisie, tantôt on enferme le nouveau président, tantôt on le surveille. Il s’agit de la même chose au Maroc avec la Roi Mohamed V. Chaque gouvernement fait l’inverse du gouvernement précédent. En Algérie, l’indécision du régime est totalement catastrophique. Il y a un problème avec l’Algérie du fait de la proximité et parce que l’Algérie n’était pas une colonie mais un territoire français a part entière divisé en département et peuplés de citoyens français. Certains étaient musulmans, d’autres juifs, arabes et les français d’origine européenne nés en Algérie (pieds noirs).
+En 1947, avait été adopté un statut de l’Algérie qui créât une Assemblée élue
 au suffrage universel direct et élues par tous les citoyens français en Algérie. Mais depuis la
 création de cette Assemblée, il ne s’y passe rien par peur de l’indépendance que les pieds
 noirs ne veulent pas. Le problème est qu’il y a deux collèges électoraux (européens, juifs et
@@ -72,31 +58,20 @@ sénateurs, maires, conseillers généraux, conseillers municipaux des grandes v
 C’est la première fois que le Général De Gaulle fait acte de candidature à une élection. Le 9
 janvier 1959, il rentre en fonction. Le même jour il nomme un premier ministre Michel Debré.
 # Section 2. La procédure d’adoption de la nouvelle Constitution
-Le général est obsédé par son personnage historique et va accepter d’être limité dans son
-action. Le processus constituant de déroule durant l’été jusqu’au début de l’automne.
+Le général est obsédé par son personnage historique et va accepter d’être limité dans son action. Le processus constituant de déroule durant l’été jusqu’au début de l’automne.
 ## I. Les dispositions de la loi constitutionnelle du 3 juin 1958
 Elle va venir contraindre le pouvoir constituant sur le fond et la forme. Le gouvernement est
 obligé à placer les cinq principes énoncés dans la Constitution. De plus, les parlementaires
 veulent éviter le parallèle avec ce qu’avait fait le Parlement avec le Maréchal Pétain. Il fixe
-donc les conditions. La loi constitutionnelle du 3 juin fixe une procédure obligatoire selon
-
-laquelle la nouvelle Constitution doit être établie. Le gouvernement rédige donc un avant-
-projet. Le gouvernement va récolter les avis d’une organisation ad-hoc qui s’appelle le
-comité consultatif constitutionnel. Le gouvernement adopte le projet définitif de la constitution
-puis soumet ce projet définitif au peuple par référendum.
+donc les conditions. La loi constitutionnelle du 3 juin fixe une procédure obligatoire selon laquelle la nouvelle Constitution doit être établie. Le gouvernement rédige donc un avant-projet. Le gouvernement va récolter les avis d’une organisation ad-hoc qui s’appelle le comité consultatif constitutionnel. Le gouvernement adopte le projet définitif de la constitution puis soumet ce projet définitif au peuple par référendum.
 
 ## II. L’élaboration de la nouvelle Constitution
-Au sein du gouvernement un groupe de travail, dirigé par Michel Debré va être crée. A cette
-époque, il est ministre de la Justice et Garde des Sceaux. Ce groupe de travail va présenter
-l’ébauche de cette nouvelle Constitution et un comité interministériel et va arrêter les
-grandes lignes du projet qui va être adopté en Conseil des ministres. Cela va être transmis
-au comité législatif constitutionnel suite tel
+Au sein du gouvernement un groupe de travail, dirigé par Michel Debré va être crée. A cette époque, il est ministre de la Justice et Garde des Sceaux. Ce groupe de travail va présenter l’ébauche de cette nouvelle Constitution et un comité interministériel et va arrêter les grandes lignes du projet qui va être adopté en Conseil des ministres. Cela va être transmis au comité législatif constitutionnel suite tel
 Le gouvernement est le rédacteur de la Constitution avec certains membres plus que
 d’autres. C’est le peuple qui exerce le pouvoir constituant originaire et sa souveraineté.
 # Section 3. Les sources et les principes de la nouvelle Constitution
 ## I. Les principales+ sources de la nouvelle Constitution
-La constitution de 1958 met en place un régime parlementaire rénové comportant une
-présidence arbitrale. Certes, c’est une constitution qui répond aux souhaits d’une
+La constitution de 1958 met en place un régime parlementaire rénové comportant une présidence arbitrale. Certes, c’est une constitution qui répond aux souhaits d’une
 personnalité exceptionnelle. Il s’agit d’une constitution sur mesure selon CDG. Cette
 constitution répond à une société moderne à savoir la rep doit être un gouvernement.
 Autrement dit, elle relève d’un effort de synthèse et vient consacrer un mouvement d’idées
@@ -140,15 +115,12 @@ le système à deux tours.
 ## II. Les principes de la nouvelle Constitution
 La loi constitutionnelle de 1958 pose 5 principes qui devaient être mis en œuvre dans la
 constitution par le gouvernement :
-- Principe démocratique : Seul le suffrage universel est la source du pouvoir (article 3 de la
-Constitution)
-- Principe de séparation des pouvoirs : le pouvoir exécutif et législatif doivent être séparés
+- ***Principe démocratique*** : Seul le suffrage universel est la source du pouvoir (article 3 de laConstitution)
+- ***Principe de séparation des pouvoirs*** : le pouvoir exécutif et législatif doivent être séparés
 de façon à ce que le gouvernement et le Parlement assume chacun pour sa part et sous
 sa responsabilité la plénitude de leurs attribution
-- Principe du régime parlementaire : le gouvernement doit être responsable devant la
-Parlement (article 20 de la Constitution)
-- Principe de l’indépendance de l’autorité judiciaire : doit être garantie tout comme le
-respect des libertés publiques (dans la DDHC et le préambule de la Constitution de 1946
+- ***Principe du régime parlementaire*** : le gouvernement doit être responsable devant le Parlement (article 20 de la Constitution)
+- ***Principe de l’indépendance de l’autorité judiciaire*** : doit être garantie tout comme le respect des libertés publiques (dans la DDHC et le préambule de la Constitution de 1946
 dans l’article 64)
 - Principe : la constitution doit permettre l’organisation les rapports de la République avec
 les peuples qui lui sont associés.

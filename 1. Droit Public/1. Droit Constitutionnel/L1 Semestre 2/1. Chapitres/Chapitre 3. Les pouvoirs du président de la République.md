@@ -6,13 +6,9 @@ La Constitution de la Ve République, adoptée en 1958, opère une rupture majeu
 Les pouvoirs propres désignent les prérogatives exercées **sans contreseing ministériel** (art. 19 C)[1](https://www.elections.interieur.gouv.fr/comprendre-elections/pour-qui-je-vote/president-de-republique)[3](https://www.elysee.fr/la-presidence/le-role-du-president)[4](https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_R%C3%A9publique_\(France\)). Cette autonomie décisionnelle constitue une révolution juridique par rapport aux IIIe et IVe Républiques où le chef de l'État n'était qu'un arbitre symbolique.
 
 **Caractéristiques essentielles** :
-
 - Dispense de contreseing (art. 19)
-    
 - Énumération limitative par la Constitution
-    
 - Exercice discrétionnaire sous contrôle _a posteriori_ du Conseil constitutionnel[2](https://supconcours.com/non-classe/pouvoirs-president-republique/)
-    
 
 ## 1.2 Typologie des pouvoirs propres
 
@@ -31,26 +27,18 @@ Le titre II de la Constitution détaille sept compétences exclusives :
 ## 1.3 L'encadrement juridictionnel
 
 Le Conseil constitutionnel exerce un contrôle _a posteriori_ via :
-
 - L'exigence de consultation obligatoire pour l'art.16[5](https://lessurligneurs.eu/larticle-16-de-la-constitution-les-pleins-pouvoirs-au-president/)
-    
 - La vérification des conditions de mise en œuvre des pouvoirs exceptionnels[5](https://lessurligneurs.eu/larticle-16-de-la-constitution-les-pleins-pouvoirs-au-president/)
-    
 - L'interprétation restrictive des conditions d'application (décision 61-5 DC)[4](https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_R%C3%A9publique_\(France\))
-    
 
 **Exemple historique** : L'utilisation de l'art.16 par De Gaulle en 1961 lors du putsch d'Alger illustre à la fois l'efficacité et les risques d'un pouvoir discrétionnaire étendu. Le Conseil constitutionnel avait alors validé le maintien des mesures pendant 5 mois malgré la fin de la crise[1](https://www.elections.interieur.gouv.fr/comprendre-elections/pour-qui-je-vote/president-de-republique)[5](https://lessurligneurs.eu/larticle-16-de-la-constitution-les-pleins-pouvoirs-au-president/).
 
 ## 1.4 Impact institutionnel
 
 Cette innovation constitutionnelle a permis :
-
 - La rationalisation du parlementarisme[4](https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_R%C3%A9publique_\(France\))
-    
 - L'émergence d'un exécutif bicéphale asymétrique
-    
 - Une présidentialisation accrue du régime, notamment après l'instauration du suffrage universel direct en 1962[4](https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_R%C3%A9publique_\(France\))
-    
 
 Cette architecture institutionnelle originale fait du Président français un acteur central du jeu politique, tout en maintenant des garde-fous juridiques contre les dérives autoritaires[2](https://supconcours.com/non-classe/pouvoirs-president-republique/)[5](https://lessurligneurs.eu/larticle-16-de-la-constitution-les-pleins-pouvoirs-au-president/). La pratique républicaine montre cependant que l'équilibre dépend largement de la personnalité des titulaires et du contexte politique[4](https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_R%C3%A9publique_\(France\)).
 # Section 2. L'interprétation présidentialiste des pouvoirs contresignés

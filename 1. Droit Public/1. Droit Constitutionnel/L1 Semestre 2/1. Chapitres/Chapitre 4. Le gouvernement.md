@@ -10,7 +10,6 @@ En cas d'alignement des majorités présidentielle et parlementaire, le Préside
 
 1. **Subordination organique du Premier ministre**  
     Le chef du gouvernement devient un exécutant des orientations présidentielles, comme l'illustre l'article 20 de la Constitution interprété restrictivement[7](https://www.doc-du-juriste.com/blog/conseils-juridiques/gouvernement-execute-politique-president-republique-14-02-2018.html). La pratique révèle une concentration des pouvoirs à l'Élysée au détriment de Matignon.
-    
 2. **Détournement des mécanismes constitutionnels**
 - Le contreseing ministériel (art. 19) se transforme en simple formalité protocolaire
 - Le gouvernement assume une fonction d'**exécution technique** plutôt que décisionnelle[7](https://www.doc-du-juriste.com/blog/conseils-juridiques/gouvernement-execute-politique-president-republique-14-02-2018.html)

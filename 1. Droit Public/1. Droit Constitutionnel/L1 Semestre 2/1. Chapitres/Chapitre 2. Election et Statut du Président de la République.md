@@ -1,95 +1,90 @@
 #droit-constitutionnel 
-Le président de la République fait l’objet du titre 2 de la constitution. Le président apparait
-donc avant les autres institutions. Cela montre l’importance que les rédacteurs de la
-Constitution ont voulu donner au Président de la République.
-Le mode d’élection et le statut du Président de la République sont le reflet da sa mission
-constitutionnelle (article 5 de la constitution). C’est une mission d’arbitrage. Elle se décline
-en 3 fonctions :
-- Président gardien : Le président veille au respect de la Constitution
-- Régulateur : Il assure le fonctionnement régulier des pouvoirs publics et la continuité de
-l’Etat.
-- Garant de l’indépendance nationale, de l’intégrité du territoire e du respect des traités.
+### **Le Président de la République**
 
+#### **I. L'importance du Président dans la Constitution**
+
+- Le Président de la République est traité dans le **Titre II** de la Constitution.
+- Il est placé avant les autres institutions, ce qui témoigne de son importance.
+- Cette mise en avant reflète la volonté des rédacteurs de souligner son rôle central.
+
+#### **II. L’élection et le statut du Président**
+
+- Son mode d’élection et son statut sont **liés à sa mission constitutionnelle** (article 5 de la Constitution).
+- Sa mission principale : **l’arbitrage**.
+
+#### **III. Les trois fonctions du Président de la République**
+
+1. **Président gardien** :
+    - Veille au respect de la Constitution.
+2. **Président régulateur** :
+    - Assure le fonctionnement régulier des pouvoirs publics.
+    - Garantit la continuité de l’État.
+3. **Président garant** :
+    - Garantit l’indépendance nationale.
+    - Assure l’intégrité du territoire.
+    - Veille au respect des traités.
+    
 # Section 1. L’élection directe du président de la République, facteur clé de sa
-prééminence
-L’élection présidentielle est la seule qui est organisée par la Constitution. Elle donne la
-mesure du régime parce qu’elle est directement à l’origine de sa mutation. En 1962, il est
-devenu le seul élu du peuple tout entier.
+L’élection présidentielle est la seule organisée par la Constitution. Elle donne la **mesure du régime** et a été à l’origine de sa transformation majeure. En **1962**, le Président est devenu **le seul élu du peuple tout entier**, ce qui a renforcé sa légitimité et son autorité.
 ## I. Les modalités de l’élection
-A l’origine, l’article 6 de la constitution confie la désignation du Prédisent à un collège
-électoral élargi. A la base, le collège électoral était composé d’élus (maires, parlementaires,
-membres des territoires d’outre-mer,..). C’est 80 000 grands électeurs qui avait élu … ce
-n’est pas une élection directe).
-En 1958, il y a un rejet de l’élection parlementaire du Président qui était en vigueur sous la
-IIème et IVème République en raison du principe de séparation des pouvoirs.
-En 1958, l’élection populaire n’est pas possible puisqu’il existe une Communauté française
-formée par la France et ses anciennes colonies. Le Président de la République possède
+### **1. L’élection indirecte avant 1962**
 
-deux casquettes. S’il est élu seulement par le peuple français, il y a une inégalité créée entre
-les citoyens de la Communauté française. A contrario, si le Président de la République était
-désigné par l’ensemble de la communauté française, cela aurait rendu les citoyens français
-minoritaires dans le corps électoral et cela revenait à les priver du choix de leur Président.
-L’autre argument est politique, craignant que le PCF se retrouve dans une position d’arbitre
-présidentiel. Enfin, il y a une crainte d’une dérive plébiscitaire. Avant la Vème République, le
-seul Président élu au suffrage universel direct était Napoléon Bonaparte. Il va rentrer en
-conflit avec le Parlement car le Parlement est élu par le peuple mais aussi par le Président.
-Cela se termine en 1951 avec un coup d’Etat de Louis Napoléon Bonaparte. Un an plus tard
-après un plébiscite, il rétablit l’empire ce qui entraine un traumatisme.
-En 1962, on va réviser les articles 6 et 7 de la Constitution ce qui va marquer la consécration
-de l’élection du Président de la République au suffrage universel direct.
-DG avait pour mission de léguer la nation avec des institutions stables et efficaces mais le
-Président de la République n’avait pas la même représentation et responsabilité que les
-députés. Cependant, les députés avaient plus de légitimité ce qui aurait pu affaiblir la
-fonction présidentielle. Afin d’incarner la nation il fallait donc que le Président de la
-République soit élu par le peuple entier. On évoque une monarchie républicaine.
-De gaulle sait que les successeurs n’auront pas la même légitimité que lui donc il va vouloir
-leur donner une légitimité personnelle qui va passer par le suffrage.
-Lors de la fin du conflit en Algérie en 1962 avec les accords d’Evian, les partis politiques de
-la IVème République n’avaient plus de raison de toujours le soutenir. Cela a entrainé des
-tensions entre la classe politique et De Gaulle.
-L’attentat du 22 août 1968, l’Algérie est devenue indépendante mais l’OAS continue ses
-actions en voulant détruire et tuer le Général comme l’attentat du Petit Clamart. C’est le
-colonel Bastien Thierry qui va organiser cet attentat où 187 balles vont être tirées. C’est le
-dernier fusillé de l’histoire.
-Le 20 septembre 1962, CDG annonce qu’il va réformer la Constitution en utilisant l’article 11,
-c’est-à-dire le référendum. Il sait qu’il n’a pas la majorité au Parlement e que donc le projet
-sera refusé. Il sait que l’article 11 permet au Président de soumettre un projet de loi. Il va
-donc saisir cette occasion. Néanmoins, cela va faire débat et fait toujours débat chez les
-parlementaires et les juristes.
-Le 2 octobre, il fait un message aux Chambres pour annoncer son référendum et le 4
-octobre, il lie son sort au référendum et engage sa responsabilité envers le peuple. Le 5
-octobre, l’Assemblée Nationale qui ne peut pas toucher le GDG, censure le Gouvernement
-de Pompidou. Le 9 octobre, répond en dissolvant l’Assemblée Nationale. Le 28 octobre, il y
-a le référendum. Le OUI l’emporte avec 62% des suffrages exprimés. Le 6 novembre, le
-Conseil Constitutionnel qui avait été saisit par le Sénat, décline sa compétence. Enfin les 18
-et 25 novembre, les élections législatives anticipées ont lieu. Les partisans du Général De
-Gaulle remportent ces élections avec ses alliés (Républicains indépendants).
-Il y a deux phénomènes qui vont expliquer le fonctionnement de la Vème République :
-- Le fait majoritaire : l’existence d’une majorité absolue stable et cohérente à l’Assemblée
-Nationale ce qui explique la stabilité de la Vème République jusqu’en 2024.
-- Naissance des concordances des majorités : la situation dans laquelle il y a une majorité
-au Parlement qui soutient le Président de la République.
+- **Article 6 de la Constitution (1958)** : le Président était désigné par un **collège électoral élargi** composé d'élus (maires, parlementaires, membres des territoires d’outre-mer, etc.).
+- **Environ 80 000 grands électeurs** participaient à cette élection.
+- Ce **n’était pas une élection directe** et rappelait les pratiques des **IIe et IVe Républiques**, où le Président était élu par le Parlement.
 
-L’article 7 va fixer le mode de scrutin. : Scrutin uninominal majoritaire à deux tours.
-Uninominal : on élu une seule personne, majoritaire : le candidat qui arrive en tête gagne, à
-deux tours : un deuxième si personne n’obtient la majorité absolue au premier.
+### **2. Le rejet du suffrage universel direct en 1958**
+
+- **Principe de séparation des pouvoirs** :
+    - L’élection du Président par le peuple risquait de créer un **conflit** avec le Parlement, lui aussi élu au suffrage universel.
+- **Problème lié à la Communauté française** :
+    - Une élection seulement par le peuple français aurait **créé une inégalité** avec les citoyens de la Communauté.
+    - Une élection impliquant toute la Communauté aurait **diminué le poids des électeurs français**.
+- **Crainte d’une dérive plébiscitaire** :
+    - **Précédent historique** : Napoléon Bonaparte, élu au suffrage universel direct, s'était ensuite opposé au Parlement avant de **prendre le pouvoir absolu**.
+    - **Risque** que le Président élu par le peuple entre en **conflit avec l’Assemblée nationale**, ce qui pourrait entraîner une instabilité.
+- **Contexte politique** :
+    - La IVe République avait souffert d’une **instabilité chronique** due aux changements de gouvernement fréquents.
+    - De Gaulle voulait éviter que le **PCF** joue un rôle d’arbitre dans l’élection présidentielle.
+
+### **3. La réforme constitutionnelle de 1962 : instauration du suffrage universel direct**
+
+- **Révision des articles 6 et 7 de la Constitution** → instauration du **suffrage universel direct** pour élire le Président.
+- **Objectifs de De Gaulle** :
+    - **Stabiliser les institutions** et renforcer l'exécutif.
+    - **Donner une légitimité populaire forte au Président** face aux députés.
+    - Instaurer une **"monarchie républicaine"**, où le Président incarne la Nation tout entière.
+- **Un enjeu de succession** :
+    - De Gaulle savait que ses successeurs **n’auraient pas sa légitimité historique**.
+    - Le suffrage universel leur assurerait **une légitimité personnelle** et renforcerait leur autorité.
 
 #séance3 
 ## II. Le processus de désignation
 
-***Article 7 de la Constitution dispose :***
-L'éléction devra avoir lieu entre 20 et 35 jours avant l'expiration du mandat actuel. 
+### **1. Les règles de l’élection présidentielle**
 
-En cas de vacance, ou d'empêchement de la Présidence constater par le conseil constitutionnel, le président du sénat devra provisoirement exercer la présidence.
-Cette mesure a été utilisé en :
-**1969** : Démission du général de Gaule
-**1974** : Décès de Pompidou 
-Si cette empêchement est déclaré définitif par le Conseil Constitutionnel une éléction dans un délai 20 à 35 jours devra avoir lieu. 
+L'**article 7 de la Constitution** fixe les modalités de l'élection présidentielle :
+- Elle doit avoir lieu entre **20 et 35 jours avant l'expiration du mandat** du Président en exercice.
+- En cas de **vacance** ou d'**empêchement définitif** du Président, le **Président du Sénat** assure **l’intérim**.
+- Une **élection présidentielle anticipée** doit être organisée dans un délai de **20 à 35 jours**.
 
-Si un candidat officiel meurt pendant l'éléction, l'éléction est obligatoirement reporté tandis que si un candidat avant le premier tour le Conseil Constitutionnel décidera ou non de reporté en fonction des "sondages etc" (et peux prolonger temporairement le mandat du président).
+#### **Cas d’application de la vacance présidentielle :**
 
-***Les nécessités :***
-Article 3 de la loi 6 novembre 1962 : 500 parainages / signatures.
+- **1969** : Démission du **Général de Gaulle** après l’échec du référendum sur la régionalisation.
+- **1974** : Décès du **Président Pompidou**, entraînant l’élection anticipée de Valéry Giscard d’Estaing.
+
+### **2. L’impact d’un décès ou d’un empêchement d’un candidat**
+
+- Si un **candidat officiel** meurt **pendant l’élection**, celle-ci est **automatiquement reportée**.
+- Si un **candidat décède avant le premier tour**, le **Conseil constitutionnel** décide de reporter ou non l’élection en fonction de critères comme les sondages et l’état de la campagne.
+- En cas de report, le **Conseil constitutionnel peut prolonger temporairement le mandat du Président en exercice**.
+
+### **3. Les conditions de candidature**
+
+L’**article 3 de la loi du 6 novembre 1962** impose aux candidats de réunir :
+
+- **500 parrainages** d’élus (maires, parlementaires, conseillers régionaux, etc.).
+- Ces signatures doivent provenir **d’au moins 30 départements différents**, avec un maximum de **50 signatures par département** pour éviter une surreprésentation locale.
 
 # Section 2. Le statut du président de la République, garantie de sa primauté
 
