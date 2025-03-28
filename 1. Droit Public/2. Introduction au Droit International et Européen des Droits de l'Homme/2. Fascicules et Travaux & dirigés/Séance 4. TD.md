@@ -1,3 +1,13 @@
+Comment la CDHD pou rreliégitimer son action et se rends indispensable dans la promaotion des droits de l'homme en afrique.
+
+i le role pédagogique du rapport
+A les DH, moyen indispensable pour l'avenement de l'afrique que nous voulons 
+la souverainet"é des état et principe de volontarisme frein habituel et dommageable de la CADHI
+II le Rôle promotionelle du rapport montré les fonction diplomatique et politique de la CADH
+A' mission de diplomatie judiciaire pour incité à la ratification du protocole
+	B' les premissie d'un contrôle non contencieux
+
+
 « L’Afrique que nous appelons de tous nos vœux ne peut être bâtie sur la seule base de l’intégration politique. Elle nécessite la bonne gouvernance et le respect des droits de l’homme » (Cour africaine des droits de l’homme et des peuples, rapport 2024). Cette extrait illustre parfaitement les enjeux auxquels fait face la Cour africaine des droits de l’homme et des peuples (CADHP), une institution essentielle mais confrontée à de nombreux défis. Créée en 2006 à Arusha, Tanzanie, cette juridiction continentale vise à protéger les droits humains en complément de la Commission africaine des droits de l’homme et des peuples. L’auteur du texte, Mme Sègnonna H. Adjolohoun, est une experte reconnue en justice pénale transnationale et droits humains en Afrique. Son analyse met en lumière les obstacles rencontrés par la Cour ainsi que les mesures adoptées pour y remédier. Ce texte s’inscrit dans un contexte marqué par une faible adhésion des États africains aux mécanismes juridiques internationaux, un recul démocratique dans plusieurs pays, et une pression croissante sur les défenseurs des droits humains.  
   
 La problématique abordée est la suivante : _Quelles sont les entraves rencontrées par la Cour africaine des droits de l'homme et des peuples dans l'exercice de sa compétence en matière de protection des droits humains et quelles mesures adoptées par cette instance permettent d'atténuer ces difficultés ?_  

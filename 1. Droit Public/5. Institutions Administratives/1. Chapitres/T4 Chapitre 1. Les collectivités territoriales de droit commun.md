@@ -189,4 +189,4 @@ Les régions font face à plusieurs défis, notamment :
 2. Le développement de l'e-administration[1](https://at.ambafrance.org/IMG/pdf/la_decentralisation_et_les_collectivites_territoriales.pdf?6532%2F27d7c2b5c7da6254ea102dc33b279e92b2373189).
 3. L'adaptation aux transferts de compétences successifs.
 4. La coordination avec les autres échelons territoriaux pour éviter les doublons et optimiser l'action publique.
-    
+## L'exécutif régional
