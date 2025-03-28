@@ -3,7 +3,7 @@
 ***Définition :***
 ***Filiation :*** Le lien juridique qui unit l'enfant à ses parents ou à l'un d'eux.
 
-***3 principes ont progressivement menés le droit de la filiaiton :***
+***3 principes ont progressivement menés le droit de la filiation :***
 - vérité
 - égalité
 - stabilité
@@ -55,16 +55,16 @@ Lorsque l'acte de naissance ne précise par le marie en qualité de père.
 > > 14 LOI n°2009-61 du 16 janvier 2009 - art. 1 Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf Si elle a été écartée en application de l'article 313, la présomption de paternité se trouve rétablie de plein droit si l'enfant a la possession d'état à l'égard du mari et s'il n'a pas une filiation paternelle déjà établie à l'égard d'un tiers. Dictionnaire du Droit privé > Acte de Notoriété > Possession
 
 ## II. La Reconnaissance
-Lorque non établit par effet de la loi, elle peut l'être par une reconnaissance de paternité ou maternité
+Lorsque non établit par effet de la loi, elle peut l'être par une reconnaissance de paternité ou maternité
 ### A. L'acte de reconnaissance
-Il à pour effet d'établir le lien de filiation depuis la naissance, il ne doit pas être confondu avec la déclaration de naissance. Doit être fait dans un acte notarié, inscrite soit dans l'acte de naissance si faite en même temps que la déclaration de naissance soit plus tard en marge de l'acte de naissance. Acte personnel irrévoquable, verracité peut être contester en justice.
+Il à pour effet d'établir le lien de filiation depuis la naissance, il ne doit pas être confondu avec la déclaration de naissance. Doit être fait dans un acte notarié, inscrite soit dans l'acte de naissance si faite en même temps que la déclaration de naissance soit plus tard en marge de l'acte de naissance. Acte personnel irrévocable, véracité peut être contester en justice.
 ### B. L'enfant reconnut
-Peut être reconnu si aucune filiation déja établit, dans la même branche voir cas d'impossibilité d'un second lien de filiation en cas d'inceste à l'égard du tiers donneur dans la PMA. Peut être reconnut quelque soit son âge, même après son décès et avant sa naissance du moment qu'il est déja conçut, reconnaissance pré natale
+Peut être reconnu si aucune filiation déjà établit, dans la même branche voir cas d'impossibilité d'un second lien de filiation en cas d'inceste à l'égard du tiers donneur dans la PMA. Peut être reconnut quelque soit son âge, même après son décès et avant sa naissance du moment qu'il est déjà conçut, reconnaissance pré natale
 ## III. Possession d'état
 
 ### B. L’acte de notoriété
 
-Un acte de notoriété est nécessaire pour faire la preuve non contentieuse (art 317). Il peut être demander par le père et/ou la ère du vivante de l’enfant quelque soit son âge (même après un éventuel décès). La possession prénatale peut être prise en compte. Il faut prouver l’implication du parent dans la grossesse, dans le choix du nom et prénom, … Il peut aussi être demander par l’enfant, du vivant du parent ou après le décès du parent. Cela permet d’avoir la qualité d’héritier.Cet acte est délivré par le notaire, depuis 2019. Cet acte peut être demandé dans un délai de 5 ans à partir de la sécession de la possession d’état, ou à partir du décès du parent prétendu. L’acte de notoriété va être établi à partir de la déclaration de 3 témoins, et ni nécessaire des documents attestants une réunion suffisante de fait qui établissent les éléments constitutifs et les caractères de la possession d’état. Une fois délivrer par le notaire, l’acte défini la possession d’état jusqu’à preuve du contraire (dans le cadre d’une action en contestation de la filiation établie par possession d’état). Cet acte est mentionné en marge de l’acte de naissance de l’enfant. 
+Un acte de notoriété est nécessaire pour faire la preuve non contentieuse (art 317). Il peut être demander par le père et/ou la ère du vivante de l’enfant quelque soit son âge (même après un éventuel décès). La possession prénatale peut être prise en compte. Il faut prouver l’implication du parent dans la grossesse, dans le choix du nom et prénom, … Il peut aussi être demander par l’enfant, du vivant du parent ou après le décès du parent. Cela permet d’avoir la qualité d’héritier. Cet acte est délivré par le notaire, depuis 2019. Cet acte peut être demandé dans un délai de 5 ans à partir de la sécession de la possession d’état, ou à partir du décès du parent prétendu. L’acte de notoriété va être établi à partir de la déclaration de 3 témoins, et ni nécessaire des documents attestant une réunion suffisante de fait qui établissent les éléments constitutifs et les caractères de la possession d’état. Une fois délivrer par le notaire, l’acte défini la possession d’état jusqu’à preuve du contraire (dans le cadre d’une action en contestation de la filiation établie par possession d’état). Cet acte est mentionné en marge de l’acte de naissance de l’enfant. 
 # Section 2 : Les actions en justice relatives à la filiation 
 L’ordonnance du 5 juillet 2005 a transformé et simplifié les actions relatives à la filiation. Cela permet d’introduire plus d’égalité entre les enfants, et de sécuriser la filiation. 
 ## I. Les règles générales applicables à toutes les actions
