@@ -93,13 +93,57 @@ Ici, la preuve est fondée sur la paternité biologique par tous moyens.
 
 ### C. L’action en rétablissement des effets de la présomption de paternité du mari
 Art 329 C.civ Quand la présomption de paternité est écartée (art 313), et n’est pas rétablie de plein droit (art 314 C.civ), ces effets peuvent être rétablis par un jugement (art 315). 
-Cette action est faite quand la mère a voulu privé le mari d’un enfant qui est le sien en le déclarant à l’état civil sans y informer le nom du mari.Le rétablissement de la présomption de paternité par jugement est plus solide que la reconnaissance car la filiation issu du jugement ne pourra pas être remise en cause. La reconnaissance du mari n’est pas tjrs possible, notamment quand l’enfant a déjà été reconnu par un tiers. Les demandeurs à l’action sont d’abord les époux en leurs noms propres ensemble ou séparément, dans le délai de la minorité de l’enfant. Et ensuite, c’est l’enfant majeur, qui devient à compter de sa majorité, le seul titulaire de l’action (délai de 10 ans).
+Cette action est faite quand la mère a voulu privé le mari d’un enfant qui est le sien en le déclarant à l’état civil sans y informer le nom du mari. Le rétablissement de la présomption de paternité par jugement est plus solide que la reconnaissance car la filiation issu du jugement ne pourra pas être remise en cause. La reconnaissance du mari n’est pas tjrs possible, notamment quand l’enfant a déjà été reconnu par un tiers. Les demandeurs à l’action sont d’abord les époux en leurs noms propres ensemble ou séparément, dans le délai de la minorité de l’enfant. Et ensuite, c’est l’enfant majeur, qui devient à compter de sa majorité, le seul titulaire de l’action (délai de 10 ans).
 
 ### D. L’action en constatation de la possession d’état
 Art 330 C.civ
 Cette action concerne généralement la filiation paternelle hors mariage. Elle permet de faire constater rétroactivement un lien de filiation qui existe par l’effet de la possession d’état. 
 Tout intéressé (pers qui a un intérêt légitime à agir) peut engager l’action du vivant du parent prétendu, ou après son décès, dans le délai de 10 ans à partir du jour où la possession d’état s’est arrêtée ou à partir décès du parent prétendu. L’objet de la preuve porte sur la vérité sociologique, donc sur les éléments constitutifs et les caractères de la possession d’état. Elle correspond à une réalité affective, matérielle et sociologique. 
+
 La preuve peut se faire pas tous moyens, mais il ne peut pas y avoir une expertise biologique.
 
 ## III. Les actions relatives à la contestation de la filiation 
+
+### A. L’action en contestation de maternité
+
+L'article 336 du Code civil prévoit que l'action en contestation de maternité peut être engagée lorsque la filiation maternelle établie par l'acte de naissance, la reconnaissance ou la possession d'état est remise en cause. Cette action vise à démontrer que la femme désignée comme mère dans l'acte de naissance ou par reconnaissance n'est pas la mère biologique de l'enfant.
+
+Les demandeurs peuvent être :
+
+- La mère elle-même, si elle conteste sa propre maternité.
+- L'enfant, lorsqu'il souhaite établir qu'une autre femme est sa mère biologique.
+- Toute personne ayant un intérêt légitime à agir.
+
+Le délai pour agir est de **10 ans** à compter du jour où la filiation contestée a été établie ou du jour où le demandeur a eu connaissance des faits permettant de contester cette filiation. La preuve peut être apportée par tous moyens, y compris une expertise biologique.
+
+### B. L’action en contestation de paternité
+
+L'article 337 du Code civil régit cette action, qui permet de contester la filiation paternelle établie par présomption (mariage), reconnaissance ou possession d'état. L'objectif est de démontrer que l'homme désigné comme père n'est pas le père biologique.
+
+Les demandeurs peuvent inclure :
+- Le père lui-même, pour contester sa paternité.
+- La mère, lorsqu'elle souhaite établir qu'un autre homme est le père biologique.
+- L'enfant ou toute personne ayant un intérêt légitime à agir.
+
+
+Le délai pour agir est également de **10 ans**, à compter du jour où la filiation contestée a été établie ou du jour où les faits permettant de contester cette filiation ont été découverts. La preuve repose principalement sur des expertises biologiques.
+
+***5 ans*** si la filiation déja établit est conforme à la possession d'état
+
+### C. L’action en contestation de possession d’état
+
+Cette action est prévue à l'article 338 du Code civil et vise à remettre en cause une possession d'état qui aurait permis d'établir un lien de filiation. La possession d'état correspond à une situation dans laquelle une personne est considérée comme le parent d'un enfant en raison des faits et comportements observés (vie commune, soins, etc.).
+
+Les demandeurs peuvent être :
+- Toute personne ayant un intérêt légitime à agir (par exemple, un parent biologique ou l’enfant lui-même).
+- Le ministère public dans certains cas.
+
+Le délai pour agir est fixé à **10 ans** à compter du jour où la possession d'état a cessé ou du décès du parent prétendu. La preuve porte sur les éléments constitutifs et caractères de la possession d'état, mais elle ne peut pas inclure des expertises biologiques.
+
+### D. Les effets des actions en contestation
+
+Si une action en contestation est recevable et aboutit, elle entraîne 
+- La suppression rétroactive du lien de filiation contesté.
+- La possibilité d'établir un autre lien de filiation si les conditions légales sont réunies.
+
 # Section 3 : Les dispositions propre à la procréation médicalement assistée
