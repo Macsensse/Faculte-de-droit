@@ -58,6 +58,7 @@ sénateurs, maires, conseillers généraux, conseillers municipaux des grandes v
 C’est la première fois que le Général De Gaulle fait acte de candidature à une élection. Le 9
 janvier 1959, il rentre en fonction. Le même jour il nomme un premier ministre Michel Debré.
 # Section 2. La procédure d’adoption de la nouvelle Constitution
+
 Le général est obsédé par son personnage historique et va accepter d’être limité dans son action. Le processus constituant de déroule durant l’été jusqu’au début de l’automne.
 ## I. Les dispositions de la loi constitutionnelle du 3 juin 1958
 Elle va venir contraindre le pouvoir constituant sur le fond et la forme. Le gouvernement est
@@ -70,7 +71,7 @@ Au sein du gouvernement un groupe de travail, dirigé par Michel Debré va être
 Le gouvernement est le rédacteur de la Constitution avec certains membres plus que
 d’autres. C’est le peuple qui exerce le pouvoir constituant originaire et sa souveraineté.
 # Section 3. Les sources et les principes de la nouvelle Constitution
-## I. Les principales+ sources de la nouvelle Constitution
+## I. Les principales + sources de la nouvelle Constitution
 La constitution de 1958 met en place un régime parlementaire rénové comportant une présidence arbitrale. Certes, c’est une constitution qui répond aux souhaits d’une
 personnalité exceptionnelle. Il s’agit d’une constitution sur mesure selon CDG. Cette
 constitution répond à une société moderne à savoir la rep doit être un gouvernement.
@@ -98,9 +99,9 @@ s’analyse comme une anti-constitution parce qu’ils sont contre la IVème rep
 de création et un pré-constitution car cette série de discours annonce l’arrivée de la Vème
 rep et reprend les idées présentes dans la constitution de 1958.
 La constitution de 1958 est la continuité du régime parlementaire. Il y a un apport
-considérable des idées de Michel Debré. C’est lui qui va proner la nationalisation du régime
+considérable des idées de Michel Debré. C’est lui qui va proner la nationalisation du régime parlementaire. 
 
-parlementaire. Par exemple, la manière dont le travail des assemblées va être organisée.
+Par exemple, la manière dont le travail des assemblées va être organisée.
 Jusqu’en 2008, le gouvernement imposait totalement l’ordre du jour. Du point de vue
 normatif, il y a la volonté de remettre de l’ordre et va être à l’origine de la distinction entre le
 domaine de la loi et le domaine des règlements : article 34 et 37 de la Constitution.
@@ -115,26 +116,32 @@ le système à deux tours.
 ## II. Les principes de la nouvelle Constitution
 La loi constitutionnelle de 1958 pose 5 principes qui devaient être mis en œuvre dans la
 constitution par le gouvernement :
-- ***Principe démocratique*** : Seul le suffrage universel est la source du pouvoir (article 3 de laConstitution)
-- ***Principe de séparation des pouvoirs*** : le pouvoir exécutif et législatif doivent être séparés
-de façon à ce que le gouvernement et le Parlement assume chacun pour sa part et sous
-sa responsabilité la plénitude de leurs attribution
+
+- ***Principe démocratique*** : Seul le suffrage universel est la source du pouvoir (article 3 de la Constitution)
+
+- ***Principe de séparation des pouvoirs*** : le pouvoir exécutif et législatif doivent être séparés de façon à ce que le gouvernement et le Parlement assume chacun pour sa part et sous sa responsabilité la plénitude de leurs attribution
+
 - ***Principe du régime parlementaire*** : le gouvernement doit être responsable devant le Parlement (article 20 de la Constitution)
-- ***Principe de l’indépendance de l’autorité judiciaire*** : doit être garantie tout comme le respect des libertés publiques (dans la DDHC et le préambule de la Constitution de 1946
-dans l’article 64)
+
+- ***Principe de l’indépendance de l’autorité judiciaire*** : doit être garantie tout comme le respect des libertés publiques (dans la DDHC et le préambule de la Constitution de 1946 dans l’article 64)
+
 - Principe : la constitution doit permettre l’organisation les rapports de la République avec
 les peuples qui lui sont associés.
+
 Dans le texte d’origine, va être créé une structure fédérative qui s’appelle « la communauté
 française » qui est une structure de type fédérale avec la République française + états
 associés (anciennes colonies de la France qui sont devenues indépendantes  Etats
 d’Afrique + Madagascar).
+
 Le chef de l’Etat est donc le Président de l’Etat français en ayant une double dimension
 nationale et fédérale (il est Président de la communauté). Le Président est le nouvel organe
 de la Vème République.
+
 La Vème République est un régime parlementaire à correctif présidentiel ou régime
 parlementaire présidentialiste. Jusqu’en 2024, la logique majoritaire jouait en faveur du
 Président de la République. De plus il bénéficie d’une légitimité pleine avec le suffrage
 universel direct.
+
 D’une part, l’élection présidentielle est déterminante, elle définit qui va gouverner, la politique
 qui va être menée à la différence de certains pays européens. Cette prédominance de
 l’élection présidentielle permet d’assurer sa prédominance sur nos institutions, le
@@ -150,7 +157,9 @@ La cohabitation, en cette période, le chef de l’Etat doit faire face à une m
 hostile. Cette majorité soutient non plus le Président mais le Premier Ministre. Le Président
 garde ses pouvoirs mais le Premier Ministre redevient la pièce centrale. Il passe du
 présidentialisme au gouvernementalisme.
-Il y a eu 3 cohabitations durant la Vème République :
+
+***Il y a eu 3 cohabitations durant la Vème République :***
 - François Mitterrand avec Jacques Chirac entre 1986 et 1988
 - François Mitterrand avec Edouard Balladur entre 1993 et 1995
 - Jacques Chirac avec Lionel Jospin entre 1997 et 2002
+- Emmanuel Macron

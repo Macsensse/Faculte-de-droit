@@ -22,13 +22,13 @@ Le système électoral combine :
 2. **Surreprésentation rurale** (critères démographiques assouplis)
 3. **Parité imposée** (loi n°2000-493) pour les candidatures
 
-### B) Prérogatives institutionnelles
+### ***B. Prérogatives institutionnelles***
 L'Assemblée nationale dispose d'une **primauté décisionnelle** :
 - Vote définitif des lois financières (art.47 C)
 - Dernier mot en cas de désaccord avec le Sénat (art.45 C)[7](https://www.conseil-constitutionnel.fr/la-constitution)
 - Responsabilité politique du gouvernement (art.49 C)[5](https://www.doc-du-juriste.com/blog/conseils-juridiques/conditions-exercice-mandats-parlementaires-25-09-2020.html)
 
-### C. Les éléctions législatives
+### ***C. Les éléctions législatives***
 #### 1. Périodicité
 Les élections législatives pour l'Assemblée nationale se tiennent tous les cinq ans[1](https://www.aisne.gouv.fr/Actions-de-l-Etat/Elections/Elections-Legislatives-2024/Mode-de-scrutin)[2](https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_\(France\)). Ce mandat de cinq ans peut être interrompu en cas de dissolution de l'Assemblée nationale par le Président de la République, conformément à l'article 12 de la Constitution.
 
@@ -51,7 +51,9 @@ L'élection des députés à l'Assemblée nationale se fait selon un **scrutin u
 - Au second tour, la majorité relative suffit pour être élu[1](https://www.aisne.gouv.fr/Actions-de-l-Etat/Elections/Elections-Legislatives-2024/Mode-de-scrutin)
 
 #### 3. Particularités
+
 - Le système permet des "triangulaires" voire des "quadrangulaires" au second tour si plusieurs candidats dépassent le seuil de 12,5% des inscrits[2](https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_\(France\))
+
 - En cas d'égalité des suffrages au second tour, le candidat le plus âgé est élu[1](https://www.aisne.gouv.fr/Actions-de-l-Etat/Elections/Elections-Legislatives-2024/Mode-de-scrutin)
 
 Ce mode de scrutin, en vigueur depuis 1958 avec quelques modifications, vise à dégager une majorité parlementaire stable tout en permettant une certaine représentation des différentes forces politiques.

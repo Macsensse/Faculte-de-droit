@@ -220,8 +220,6 @@ Respecter les critères de Copenhague de 1993 :
 
 - Kosovo
 
-  
-
 ### ***D. 2004 - 2007 - 2013***
 2004 : **Tchéquie, Estonie, Hongrie, Lettonie, Lituanie, Pologne, Slovaquie et Slovénie**
 

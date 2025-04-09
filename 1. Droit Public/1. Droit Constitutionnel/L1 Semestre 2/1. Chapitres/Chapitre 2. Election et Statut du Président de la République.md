@@ -27,18 +27,23 @@ L’élection présidentielle est la seule organisée par la Constitution. Elle 
 ### **1. L’élection indirecte avant 1962**
 
 - **Article 6 de la Constitution (1958)** : le Président était désigné par un **collège électoral élargi** composé d'élus (maires, parlementaires, membres des territoires d’outre-mer, etc.).
+
 - **Environ 80 000 grands électeurs** participaient à cette élection.
+
 - Ce **n’était pas une élection directe** et rappelait les pratiques des **IIe et IVe Républiques**, où le Président était élu par le Parlement.
 
 ### **2. Le rejet du suffrage universel direct en 1958**
 - **Principe de séparation des pouvoirs** :
     - L’élection du Président par le peuple risquait de créer un **conflit** avec le Parlement, lui aussi élu au suffrage universel.
+
 - **Problème lié à la Communauté française** :
     - Une élection seulement par le peuple français aurait **créé une inégalité** avec les citoyens de la Communauté.
     - Une élection impliquant toute la Communauté aurait **diminué le poids des électeurs français**.
+
 - **Crainte d’une dérive plébiscitaire** :
     - **Précédent historique** : Napoléon Bonaparte, élu au suffrage universel direct, s'était ensuite opposé au Parlement avant de **prendre le pouvoir absolu**.
     - **Risque** que le Président élu par le peuple entre en **conflit avec l’Assemblée nationale**, ce qui pourrait entraîner une instabilité.
+
 - **Contexte politique** :
     - La IVe République avait souffert d’une **instabilité chronique** due aux changements de gouvernement fréquents.
     - De Gaulle voulait éviter que le **PCF** joue un rôle d’arbitre dans l’élection présidentielle.

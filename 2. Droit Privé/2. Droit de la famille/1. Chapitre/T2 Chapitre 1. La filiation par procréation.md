@@ -147,3 +147,12 @@ Si une action en contestation est recevable et aboutit, elle entraîne
 - La possibilité d'établir un autre lien de filiation si les conditions légales sont réunies.
 
 # Section 3 : Les dispositions propre à la procréation médicalement assistée
+******
+---
+
+### C. La contestation à l'égard des receveurs.
+***Aricle 342-10 :*** Le consentement d'une PMA avec don interdit tout action en contestation de la filiation établit à l'égard des receveurs.
+***Exception :***
+Sauf si consentement à été privé des faits ou que l'enfant n'est pas issus de la PMA
+Le droit est écarté. 
+Lorsque un des membres du couples révoque son consentement par écrit avant réalisation de l'assistance médicale à la procréation 
