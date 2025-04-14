@@ -1,3 +1,4 @@
+#institutions-administratives 
 # Section 1. En métropole
 ## ***Paris***
 Statut particulier, en raison de ca centralité (capitale), ville et département sans exécutif indépendant.

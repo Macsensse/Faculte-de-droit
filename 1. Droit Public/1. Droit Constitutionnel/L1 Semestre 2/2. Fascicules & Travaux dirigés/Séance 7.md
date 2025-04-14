@@ -27,3 +27,8 @@ Parlement système romanogermanique. Pas de COMMON LAW, principe juridique du l�
 
 Législation concurrente si à un impact direct.
 Domaine parlementaire
+grave cruelle et intent
+
+usage execssive d ela force en garde à vue
+
+la charge est inversé

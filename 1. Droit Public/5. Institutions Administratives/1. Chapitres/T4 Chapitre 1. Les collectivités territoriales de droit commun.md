@@ -1,3 +1,4 @@
+#institutions-administratives 
 Le nation de décentralisation est apparue dans les années 1830. Aujourd’hui, on parle de transfert des compétences de l’Etat vers les collec terr. 
 
 ### **Décentralisation**
