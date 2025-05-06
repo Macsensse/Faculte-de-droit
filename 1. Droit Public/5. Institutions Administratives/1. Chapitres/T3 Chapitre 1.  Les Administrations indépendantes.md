@@ -3,14 +3,13 @@
 Les  autorités administratives indépendantes (AAI) et les autorités publiques indépendantes (API) sont des institutions en charge de la régulation d'un secteur d'activité. Elles peuvent aussi être chargées de protéger les droits des citoyens.
 
 Les AAI et API peuvent, selon leur fonction, détenir : 
-
 - un pouvoir de recommandation (conseiller sur une pratique, par exemple) ;
 - un pouvoir de décision individuelle (nommer à des postes, par exemple) ;
 - un pouvoir de règlementation et de sanction.
 
-# Section 1. Le rôle et fontionnement des administration indépendante
+# ***Section 1. Le rôle et fontionnement des administration indépendante***
 
-### I. Une institution de l'État pour réguler ou protéger
+## I. Une institution de l'État pour réguler ou protéger
 
 Une [autorité administrative indépendante (AAI)](https://www.vie-publique.fr/fiches/20242-quest-ce-quune-aai-quest-ce-quune-api#) est une institution de l'État, chargée d'assurer la **régulation de secteurs considérés comme essentiels** et pour lesquels le [Gouvernement](https://www.vie-publique.fr/fiches/20242-quest-ce-quune-aai-quest-ce-quune-api#) n'entend pas intervenir trop directement.
 
@@ -28,7 +27,7 @@ Depuis la création de l'Autorité des marchés financiers (AMF) en 2003, certai
 
 Depuis la [loi du 20 janvier 2017](https://www.vie-publique.fr/loi/20972-statut-general-des-autorites-administratives-independantes-aai), la création d'une AAI ou d'une API passe nécessairement par l'adoption d'une loi. La loi fixe "_les règles relatives à la composition et aux attributions ainsi que les principes fondamentaux relatifs à l'organisation et au fonctionnement_" de ces autorités. La loi de 2017 liste les [24 autorités indépendantes](https://www.vie-publique.fr/fiches/20238-quelles-sont-les-differentes-aai-et-api).
 
-### 2. Les pouvoirs d'une AAI ou d'une API ?
+## ***II. Les pouvoirs d'une AAI ou d'une API ?***
 
 Les AAI et les API peuvent détenir un **pouvoir d’avis** ou de **recommandation**, qui leur permet de :
 

@@ -9,11 +9,11 @@ Deux manières n'ayant pas les mêmes tactiques, structures et moyens financiers
 
 # Section 1. Les groupements intercommunaux sans fiscalité propre
 
-Le syndicats de commune est un EPCI, il est un principe de spécialité constituté dans un but précis.
+Le syndicats de commune est un EPCI, il est un principe de spécialité constitué dans un but précis.
 ## I. Les syndicats de commune
 ***Les organes du syndicats de commune***
 - Président de l'exécutif
-- Organe de délibaration
+- Organe de délibération
 
 Un **syndicat de communes** peut être :
 - un **syndicat intercommunal à vocation unique (SIVU)** qui se limite à l'exercice d'une seule compétence (4600 en France)
@@ -29,7 +29,6 @@ Cette baisse s’explique notamment par le transfert de compétences (eau, assai
 Ces syndicats sont des établissements publics de coopération intercommunale ([EPCI](https://www.vie-publique.fr/fiches/20123-quest-ce-quun-syndicat-de-communes#)) **sans fiscalité propre** et dépendent des contributions des communes membres.
 
 ## II. Les syndicats mixtes (pas des EPCI)
-
 - Les syndicats mixtes sont des établissement publics de coopération locale et non des établissement publics de coopération intercommunale (EPCI).
 - Il peuvent associer des collectivités territoriales et des groupements de collectivités (au besoin, avec d’autres personnes morales de droit public) et mettre des moyens en commun afin d’exercer ensemble une ou plusieurs activités d’intérêt général.
 - Ils sont qualifiés de mixtes car ils peuvent regrouper des collectivités de différentes natures.
@@ -52,3 +51,5 @@ Un [syndicat](https://www.vie-publique.fr/fiches/20121-cooperation-locale-quest
 **Il doit comprendre au moins une collectivité territoriale ou un groupement de ces collectivités**.
 
 # Section 2. Les groupements intercommunaux avec une fiscalité propre
+## I. La métropole
+

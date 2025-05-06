@@ -4,25 +4,25 @@ Les personnes publiques spécialisées regroupent des personnes morales de droit
 
 ---
 
-### **Section 1 : Les établissements publics**
+# **Section 1 : Les établissements publics**
 Les établissements publics sont des "services publics personnalisés" dotés de la personnalité morale. Ils sont créés pour accomplir une mission particulière définie par leurs statuts et sont soumis à un régime juridique spécifique.
 
-#### **1. Autorité compétente pour leur création**
+## **I. Autorité compétente pour leur création**
 En vertu de l'article 34 de la Constitution, le législateur est compétent pour définir les catégories d'établissements publics, mais pas pour créer chaque établissement individuel. Par exemple :
 - La catégorie "lycée" est définie par la loi. Lorsqu'un lycée est créé dans une région donnée, cela relève d'un acte administratif sans nécessiter une nouvelle loi.
 
-#### **2. Rattachement et spécialité**
+## **II. Rattachement et spécialité**
 Les établissements publics sont rattachés à une collectivité à compétence générale (État, commune, département ou région). Ils doivent respecter deux critères :
 - **Tutelle administrative** : L'autorité publique contrôle leur fonctionnement.
 - **Spécialité analogue** : Leur mission doit être similaire à celle d'autres établissements de la même catégorie.
 
-#### **3. Typologie des établissements publics**
+## **III. Typologie des établissements publics**
 - **Établissements publics administratifs (EPA)** : Missions de service public administratif (exemple : universités).
 - **Établissements publics industriels et commerciaux (EPIC)** : Missions de service public industriel ou commercial (exemple : SNCF).
 
 ---
 
-### **Section 2 : Les personnes publiques *sui generis***
+# **Section 2 : Les personnes publiques *sui generis***
 Les personnes publiques *sui generis* désignent des organismes qui ne relèvent pas des catégories classiques d'établissements publics. Elles ont été créées pour répondre à des besoins spécifiques et disposent d'un statut particulier.
 
 #### **1. Définition**
@@ -34,7 +34,7 @@ Ces entités bénéficient de la personnalité morale sans être qualifiées com
 
 ---
 
-### **Section 3 : Les autorités administratives indépendantes (AAI)**
+# **Section 3 : Les autorités administratives indépendantes (AAI)**
 Les AAI constituent une autre catégorie importante de personnes publiques spécialisées. Elles jouent un rôle clé dans la régulation et le contrôle de certains secteurs économiques ou sociaux.
 
 #### **1. Définition**

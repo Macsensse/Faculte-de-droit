@@ -1,5 +1,4 @@
 #institutions-administratives 
-## Cours : Les Établissements Publics (EP)
 
 ### **Définition et cadre général**
 Un établissement public (EP) est une personne morale de droit public créée pour exercer une mission d’intérêt général. Il est soumis à un régime juridique spécifique et bénéficie d’une autonomie administrative et financière. Contrairement à l’État, qui a une compétence générale, les EP sont régis par le principe de spécialité : ils ne peuvent agir que dans les limites des missions prévues par leurs statuts[1][4].
