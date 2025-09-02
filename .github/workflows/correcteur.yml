@@ -1,4 +1,4 @@
-name: correcteur
+name: Correcteur de fautes
 
 on:
   push:
@@ -23,21 +23,37 @@ jobs:
         with:
           node-version: "18"
 
-      # 3️⃣ Installer cspell et LanguageTool
-      - name: Installer outils
-        run: |
-          npm install -g cspell
-          echo "LanguageTool sera utilisé via action GitHub"
+      # 3️⃣ Installer cspell
+      - name: Installer cspell
+        run: npm install -g cspell
 
-      # 4️⃣ Rapport orthographe avec cspell
+      # 4️⃣ Configurer cspell pour le français et vocabulaire juridique
+      - name: Configurer cspell
+        run: |
+          if [ ! -f cspell.json ]; then
+            cat > cspell.json <<'JSON'
+            {
+              "version": "0.2",
+              "language": "fr",
+              "dictionaries": ["fr","en"],
+              "ignorePaths": [".git","node_modules","**/*.pdf","**/*.png","**/*.jpg"],
+              "words": [
+                "jurisprudence","pourvoi","cass.","C.civ.","alinéa",
+                "L3","TD","UE","droit","arrêt","cons.","CodeCivil","art."
+              ]
+            }
+JSON
+          fi
+
+      # 5️⃣ Rapport orthographe avec cspell
       - name: Rapport orthographe (cspell)
         run: |
           echo "=== Rapport cspell ==="
           cspell "**/*.{md,txt}" --no-progress --gitignore --unique || true
 
-      # 5️⃣ Rapport grammaire/conjugaison avec LanguageTool
+      # 6️⃣ Rapport grammaire/conjugaison avec LanguageTool via Docker
       - name: Rapport grammaire/conjugaison (LanguageTool)
-        uses: languagetool-org/languagetool-github-action@v1
-        with:
-          files: "**/*.md"
-          language: "fr"
+        run: |
+          echo "=== Rapport LanguageTool ==="
+          docker run --rm -v $PWD:/data silviof/docker-languagetool languagetool /data/**/*.md -l fr
+
