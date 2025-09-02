@@ -1,0 +1,43 @@
+name: correcteur
+
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - "**/*.md"
+      - "**/*.txt"
+      - "docs/**"
+
+jobs:
+  rapport:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Récupérer le dépôt
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
+
+      # 2️⃣ Installer Node.js pour cspell
+      - name: Installer Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      # 3️⃣ Installer cspell et LanguageTool
+      - name: Installer outils
+        run: |
+          npm install -g cspell
+          echo "LanguageTool sera utilisé via action GitHub"
+
+      # 4️⃣ Rapport orthographe avec cspell
+      - name: Rapport orthographe (cspell)
+        run: |
+          echo "=== Rapport cspell ==="
+          cspell "**/*.{md,txt}" --no-progress --gitignore --unique || true
+
+      # 5️⃣ Rapport grammaire/conjugaison avec LanguageTool
+      - name: Rapport grammaire/conjugaison (LanguageTool)
+        uses: languagetool-org/languagetool-github-action@v1
+        with:
+          files: "**/*.md"
+          language: "fr"
