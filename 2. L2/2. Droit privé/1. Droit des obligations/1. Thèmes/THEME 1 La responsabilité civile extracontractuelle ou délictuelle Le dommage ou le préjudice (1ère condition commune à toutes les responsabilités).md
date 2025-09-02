@@ -46,3 +46,5 @@ Il doit être direct, certain, légitime, personnel
 victime directe mais aussi victime par ricochet
 
 
+
+[[THEME 2 La responsabilité civile extracontractuelle ou délictuelle Le lien de causalité (2ème condition commune à toutes les responsabilités)]]
