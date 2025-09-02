@@ -8,31 +8,48 @@ on:
 jobs:
   discord_notification:
     runs-on: ubuntu-latest
-    env:
-      WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
     steps:
       - name: Send Discord Embed Message
-        shell: bash
         run: |
-          MESSAGE=$(cat <<'EOF'
+          # Crée un fichier JSON temporaire avec des variables
+          cat <<EOF > message.json
 {
   "username": "GitHub Bot",
   "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
   "embeds": [
     {
-      "title": "Nouveau commit sur '"${GITHUB_REPOSITORY}"'",
-      "url": "https://github.com/'"${GITHUB_REPOSITORY}"'/commit/'"${GITHUB_SHA}"'",
+      "title": "Nouveau commit sur \$GITHUB_REPOSITORY",
+      "url": "https://github.com/\$GITHUB_REPOSITORY/commit/\$GITHUB_SHA",
       "color": 5814783,
       "author": {
-        "name": "'"${GITHUB_ACTOR}"'",
-        "icon_url": "https://github.com/'"${GITHUB_ACTOR}"'.png"
+        "name": "\$GITHUB_ACTOR",
+        "icon_url": "https://github.com/\$GITHUB_ACTOR.png"
       },
-      "description": "**Message du commit:** '"${GITHUB_EVENT_HEAD_COMMIT_MESSAGE}"'",
+      "description": "**Message du commit:** \$GITHUB_EVENT_HEAD_COMMIT_MESSAGE",
       "fields": [
         {
           "name": "Branch",
-          "value": "'"${GITHUB_REF##*/}"'",
+          "value": "\${GITHUB_REF##*/}",
           "inline": true
         },
         {
           "name": "Commit SHA",
+          "value": "[\${GITHUB_SHA:0:7}](https://github.com/\$GITHUB_REPOSITORY/commit/\$GITHUB_SHA)",
+          "inline": true
+        }
+      ],
+      "footer": {
+        "text": "GitHub Actions",
+        "icon_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      },
+      "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+    }
+  ]
+}
+EOF
+
+          # Remplace les variables avec envsubst
+          envsubst < message.json > message_resolved.json
+
+          # Envoie le message sur Discord
+          curl -H "Content-Type: application/json" -X POST -d @message_resolved.json ${{ secrets.DISCORD_WEBHOOK_URL }}
