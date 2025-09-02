@@ -29,7 +29,7 @@ https://discord.gg/9hxtdc8rCQ
 ---
 
 ## 🔗 Ressources utiles
-
+*voir dans 0.documents*
 - [Légifrance](https://www.legifrance.gouv.fr)  
 - [Vie Publique](https://www.vie-publique.fr)  
 - [Cour de cassation](https://www.courdecassation.fr)  
