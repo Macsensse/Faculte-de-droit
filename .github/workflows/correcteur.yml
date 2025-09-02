@@ -20,13 +20,28 @@ jobs:
       - name: Vérification orthographe/grammaire
         run: |
           REPORT="rapport_languagetool.md"
-          echo "# Rapport LanguageTool" > $REPORT
+          echo "# Rapport LanguageTool" > "$REPORT"
+
           for file in $(find . -name "*.md"); do
-            echo "## Fichier: $file" >> $REPORT
+            echo "## Fichier: $file" >> "$REPORT"
+
+            # Encodage sécurisé du texte
+            TEXT=$(cat "$file" | sed 's/"/\\"/g' | tr '\n' ' ')
+
             RESPONSE=$(curl -s -X POST "https://api.languagetool.org/v2/check" \
               -H "Content-Type: application/x-www-form-urlencoded" \
-              --data-urlencode "text=$(cat $file)" \
+              --data-urlencode "text=$TEXT" \
               --data-urlencode "language=fr")
-            MATCHES=$(echo $RESPONSE | jq -r '.matches[] | "- [\(.message)](offset: \(.offset), length: \(.length)), Suggestions: \(.replacements[].value // "aucune")"')
+
+            MATCHES=$(echo "$RESPONSE" | jq -r '.matches[] | "- [\(.message)] (offset: \(.offset), length: \(.length)), Suggestions: \(.replacements[].value // "aucune")"')
+
             if [ -z "$MATCHES" ]; then
+              echo "Aucune faute détectée ✅" >> "$REPORT"
+            else
+              echo "$MATCHES" >> "$REPORT"
+            fi
+          done
+
+          # Afficher le rapport dans les logs
+          cat "$REPORT"
 
