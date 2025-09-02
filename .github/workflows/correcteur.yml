@@ -13,26 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Récupérer le dépôt
       - name: Checkout du dépôt
         uses: actions/checkout@v4
 
-      # 2️⃣ Installer Node.js pour cspell
       - name: Installer Node.js
         uses: actions/setup-node@v3
         with:
           node-version: "18"
 
-      # 3️⃣ Installer cspell
       - name: Installer cspell
         run: npm install -g cspell
 
-      # 4️⃣ Configurer cspell pour le français et vocabulaire juridique
       - name: Configurer cspell
         run: |
           if [ ! -f cspell.json ]; then
-            cat > cspell.json <<'JSON'
-            {
+            echo '{
               "version": "0.2",
               "language": "fr",
               "dictionaries": ["fr","en"],
@@ -41,17 +36,13 @@ jobs:
                 "jurisprudence","pourvoi","cass.","C.civ.","alinéa",
                 "L3","TD","UE","droit","arrêt","cons.","CodeCivil","art."
               ]
-            }
-JSON
-          fi
+            }' > cspell.json
 
-      # 5️⃣ Rapport orthographe avec cspell
       - name: Rapport orthographe (cspell)
         run: |
           echo "=== Rapport cspell ==="
           cspell "**/*.{md,txt}" --no-progress --gitignore --unique || true
 
-      # 6️⃣ Rapport grammaire/conjugaison avec LanguageTool via Docker
       - name: Rapport grammaire/conjugaison (LanguageTool)
         run: |
           echo "=== Rapport LanguageTool ==="
