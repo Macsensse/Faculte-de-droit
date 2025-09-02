@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. L1/1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T1 CHAPITRE 1 L'Etat.md",
+                "file": "2. L2/2. Droit privé/1. Droit des obligations/1. Thèmes/THEME 1 La responsabilité civile extracontractuelle ou délictuelle Le dommage ou le préjudice (1ère condition commune à toutes les responsabilités).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T1 CHAPITRE 1 L'Etat"
+              "title": "THEME 1 La responsabilité civile extracontractuelle ou délictuelle Le dommage ou le préjudice (1ère condition commune à toutes les responsabilités)"
             }
           }
         ],
@@ -103,7 +103,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -214,15 +214,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "random-note:Ouvre une note au hasard": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
@@ -230,6 +230,7 @@
   },
   "active": "796093f7f44f20bf",
   "lastOpenFiles": [
+    "1. L1/1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T1 CHAPITRE 1 L'Etat.md",
     "2. L2/1. Droit public/1. Droit administratif/0. Droit administratif.md",
     "Nouveau Document texte.txt",
     "1. Droit Public/5. Institutions Administratives/1. Chapitres/T3 Chapitre 1.  Les administrations indépendantes.md",
@@ -256,7 +257,6 @@
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T2. Chapitre I.- Le Conseil de l’Europe et la Convention de sauvegarde européenne des droits de l’homme.md",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T1. Chapitre V.- La protection régionale des droits de l’homme .. exemples interaméricain et africain.md",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T1. Chapitre IV.- Les mécanisme onusiens de protection des droits l’homme .. mécanismes contentieux.md",
-    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T1. Chapitre I.- L’émergence du droit international des droits de l’homme.md",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 6 à 9 (IDIEDH, 24_25).pdf",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf",
     "2. Droit Privé/2. Droit de la famille/2. Fascicule & Travaux dirigés/Fascicule FILIATION 24-25.pdf",
