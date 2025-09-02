@@ -1,1 +1,0 @@
-***Présomption*** : on part d'un fait connu, pour en déduire l'existence d'un fait inconnu
