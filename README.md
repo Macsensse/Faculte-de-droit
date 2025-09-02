@@ -3,6 +3,9 @@
 Bienvenue dans mes notes et ressources pour mes cours de **Licence 2 en Droit**.  
 Ce dépôt regroupe l’ensemble des matières étudiées.
 
+Pour connaitre les mises à jours :
+https://discord.gg/9hxtdc8rCQ
+
 ---
 
 ## 🗂️ Organisation des matières
