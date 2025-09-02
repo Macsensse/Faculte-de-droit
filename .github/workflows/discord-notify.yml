@@ -3,47 +3,50 @@ name: Notify Discord with Embed
 on:
   push:
     branches:
-      - main  # ou la branche que tu veux surveiller
+      - main
 
 jobs:
   discord_notification:
     runs-on: ubuntu-latest
-
+    env:
+      WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
     steps:
       - name: Send Discord Embed Message
         run: |
-          curl -H "Content-Type: application/json" \
-          -X POST \
-          -d "{
-            \"username\": \"GitHub Bot\",
-            \"avatar_url\": \"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\",
-            \"embeds\": [
-              {
-                \"title\": \"Nouveau commit sur \${GITHUB_REPOSITORY}\",
-                \"url\": \"https://github.com/\${GITHUB_REPOSITORY}/commit/\${GITHUB_SHA}\",
-                \"color\": 5814783,
-                \"author\": {
-                  \"name\": \"\${GITHUB_ACTOR}\",
-                  \"icon_url\": \"https://github.com/\${GITHUB_ACTOR}.png\"
-                },
-                \"description\": \"**Message du commit:** \${GITHUB_EVENT_HEAD_COMMIT_MESSAGE}\",
-                \"fields\": [
-                  {
-                    \"name\": \"Branch\",
-                    \"value\": \"\${GITHUB_REF##*/}\",
-                    \"inline\": true
-                  },
-                  {
-                    \"name\": \"Commit SHA\",
-                    \"value\": \"[\${GITHUB_SHA:0:7}](https://github.com/\${GITHUB_REPOSITORY}/commit/\${GITHUB_SHA})\",
-                    \"inline\": true
-                  }
-                ],
-                \"footer\": {
-                  \"text\": \"GitHub Actions\",
-                  \"icon_url\": \"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\"
-                },
-                \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
-              }
-            ]
-          }" ${{ secrets.DISCORD_WEBHOOK_URL }}
+          MESSAGE=$(cat <<EOF
+{
+  "username": "GitHub Bot",
+  "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "embeds": [
+    {
+      "title": "Nouveau commit sur ${GITHUB_REPOSITORY}",
+      "url": "https://github.com/${GITHUB_REPOSITORY}/commit/${GITHUB_SHA}",
+      "color": 5814783,
+      "author": {
+        "name": "${GITHUB_ACTOR}",
+        "icon_url": "https://github.com/${GITHUB_ACTOR}.png"
+      },
+      "description": "**Message du commit:** ${GITHUB_EVENT_HEAD_COMMIT_MESSAGE}",
+      "fields": [
+        {
+          "name": "Branch",
+          "value": "${GITHUB_REF##*/}",
+          "inline": true
+        },
+        {
+          "name": "Commit SHA",
+          "value": "[${GITHUB_SHA:0:7}](https://github.com/${GITHUB_REPOSITORY}/commit/${GITHUB_SHA})",
+          "inline": true
+        }
+      ],
+      "footer": {
+        "text": "GitHub Actions",
+        "icon_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      },
+      "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+    }
+  ]
+}
+EOF
+)
+          curl -H "Content-Type: application/json" -X POST -d "$MESSAGE" $WEBHOOK_URL
