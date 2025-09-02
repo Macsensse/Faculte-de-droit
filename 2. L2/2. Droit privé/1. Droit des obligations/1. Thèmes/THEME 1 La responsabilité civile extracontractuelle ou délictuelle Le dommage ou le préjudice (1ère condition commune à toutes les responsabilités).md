@@ -44,3 +44,5 @@ Il doit être direct, certain, légitime, personnel
 ***Préjudice certain*** : il doit être indubitable, ne peut pas être mit en doute exception perte de chance.
 ***Préjudice légitime*** : On ne répare pas le préjudice qui résulte d'une situation inégale
 victime directe mais aussi victime par ricochet
+
+
