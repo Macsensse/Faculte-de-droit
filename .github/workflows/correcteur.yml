@@ -1,38 +1,39 @@
-name: Correcteur LanguageTool
+name: Correcteur Orthographe/Grammaire
 
 on:
   push:
-    branches: ["main"]
-    paths:
-      - "**/*.md"
-  workflow_dispatch:
+    branches: [ main ]
+  pull_request:
 
 jobs:
-  grammatique:
+  check-spelling:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout du dépôt
-        uses: actions/checkout@v4
+      - name: Checkout du code
+        uses: actions/checkout@v3
 
       - name: Installer jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Vérification orthographe/grammaire
         run: |
-          REPORT="rapport_languagetool.md"
+          REPORT=".github/workflows/rapport_languagetool.md"
           echo "# Rapport LanguageTool" > "$REPORT"
 
-          for file in $(find . -name "*.md"); do
+          # Parcourir tous les fichiers .md sans casser les chemins
+          find . -name "*.md" -print0 | while IFS= read -r -d '' file; do
             echo "## Fichier: $file" >> "$REPORT"
 
-            # Encodage sécurisé du texte
+            # Lire le contenu et échapper les guillemets pour curl
             TEXT=$(cat "$file" | sed 's/"/\\"/g' | tr '\n' ' ')
 
+            # Appel API LanguageTool
             RESPONSE=$(curl -s -X POST "https://api.languagetool.org/v2/check" \
               -H "Content-Type: application/x-www-form-urlencoded" \
               --data-urlencode "text=$TEXT" \
               --data-urlencode "language=fr")
 
+            # Extraire les fautes avec jq
             MATCHES=$(echo "$RESPONSE" | jq -r '.matches[] | "- [\(.message)] (offset: \(.offset), length: \(.length)), Suggestions: \(.replacements[].value // "aucune")"')
 
             if [ -z "$MATCHES" ]; then
