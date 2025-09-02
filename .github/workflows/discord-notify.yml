@@ -1,0 +1,22 @@
+name: Notify Discord on Push
+
+on:
+  push:
+    branches:
+      - main   # Remplace par la branche que tu veux surveiller
+
+jobs:
+  discord_notification:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send Discord message
+        uses: actions/http-client@v1
+        with:
+          url: ${{ secrets.https://discord.com/api/webhooks/1412559390082601020/sIlyIG8QEjD-DdSJDHzjct6Q8KdKTNN-f4W_lgz8sptec96EG8KZhSMfUBQI0f8T3LLH }}
+          method: POST
+          headers: '{"Content-Type":"application/json"}'
+          body: |
+            {
+              "content": "Le repo a été mis à jour ! Commit: ${{ github.sha }} par ${{ github.actor }}. Voir les détails : ${{ github.event.head_commit.url }}"
+            }
