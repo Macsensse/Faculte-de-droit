@@ -37,6 +37,7 @@ jobs:
                 "L3","TD","UE","droit","arrêt","cons.","CodeCivil","art."
               ]
             }' > cspell.json
+          fi
 
       - name: Rapport orthographe (cspell)
         run: |
