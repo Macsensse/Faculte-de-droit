@@ -4,11 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "95ff2603bb2cb8d1",
+        "id": "88eb0abacb5272ea",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c1a499605ec64f",
+            "id": "89969b05e3b7ac2b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf",
+                "page": 87,
+                "left": 44,
+                "top": 313,
+                "zoom": 1.1
+              },
+              "icon": "lucide-file-text",
+              "title": "fichier-TD-24-25"
+            }
+          },
+          {
+            "id": "55e63a8ee5bab320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Droit Privé/2. Droit de la famille/1. Chapitre/T2 Chapitre 1. La filiation par procréation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T2 Chapitre 1. La filiation par procréation"
+            }
+          },
+          {
+            "id": "2a10b560093a6c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Droit Privé/2. Droit de la famille/1. Chapitre/T1 Chapitre 1. Le Mariage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T1 Chapitre 1. Le Mariage"
+            }
+          },
+          {
+            "id": "c727bc62bfbaa035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T2. Chapitre I.- Le Conseil de l’Europe et la Convention de sauvegarde européenne des droits de l’homme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T2. Chapitre I.- Le Conseil de l’Europe et la Convention de sauvegarde européenne des droits de l’homme"
+            }
+          },
+          {
+            "id": "796093f7f44f20bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +79,8 @@
               "title": "0. L3"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,7 +103,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -61,7 +120,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -155,41 +214,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "random-note:Ouvre une note au hasard": false,
-      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
       "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e8c1a499605ec64f",
+  "active": "796093f7f44f20bf",
   "lastOpenFiles": [
-    "Sans titre.canvas",
-    "2. L2/2. Droit privé/1. Droit des obligations/0. Introduction droit des obligations.md",
     "2. L2/2. Droit privé/1. Droit des obligations/1. Thèmes/THEME 2 La responsabilité civile extracontractuelle ou délictuelle Le lien de causalité (2ème condition commune à toutes les responsabilités).md",
     "2. L2/2. Droit privé/1. Droit des obligations/1. Thèmes/THEME 1 La responsabilité civile extracontractuelle ou délictuelle Le dommage ou le préjudice (1ère condition commune à toutes les responsabilités).md",
-    "1. L1/7. Révisions et Fiches/Fiche Vocabulaire/Juridictionnaire.pdf",
-    "1. L1/7. Révisions et Fiches/Fiche Vocabulaire/Définiton.md",
-    "1. L1/2. Droit Privé/1. Droit des personnes/Thème/THEME 4 LA PROTECTION DE L’INTEGRITE MORALE DE LA PERSONNE PHYSIQUE.md",
-    "2. L2/2. Droit privé/2. Droit commercial/0. Droit commercial.md",
-    "1. L1/3. Droit Mixtes/2.. Introduction Général au Droit/Chapitre/P3 Chapitre 1  La classification des droits subjectifs.md",
-    "1. L1/1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T1. Chapitre I.- L’émergence du droit international des droits de l’homme.md",
-    "1. L1/2. Droit Privé/2. Droit de la famille/0. Droit de la Famille.md",
-    "1. L1/2. Droit Privé/1. Droit des personnes/Thème/THEME 10 LA PROTECTION DU MAJEUR (2T2).md",
-    "1. L1/2. Droit Privé/1. Droit des personnes/1. Chapitre/T2 Chapitre 3 Le sexe.md",
-    "1. L1/2. Droit Privé/1. Droit des personnes/1. Chapitre/T2 Chapitre 4 Le Domicile.md",
-    "1. L1/7. Révisions et Fiches/Fiches de révision/Cour suprème Américain.md",
-    "1. L1/2. Droit Privé/2. Droit de la famille/3. Asynchrone/Le PACS.md",
-    "1. L1/2. Droit Privé/2. Droit de la famille/1. Chapitre/T1 Chapitre 1. Le Mariage.md",
-    "1. L1/3. Droit Mixtes/2.. Introduction Général au Droit/Chapitre/P1 Chapitre 1 Les spécifités du droit.md",
-    "1. L1/7. Révisions et Fiches/Fiche Citation.md",
+    "1. L1/1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T1 Chapitre 2. La démocratie.md",
     "1. L1/1. Droit Public/1. Droit Constitutionnel/L1 Semestre 1/1. Chapitres/T1 CHAPITRE 1 L'Etat.md",
     "2. L2/1. Droit public/1. Droit administratif/0. Droit administratif.md",
     "Nouveau Document texte.txt",
@@ -199,6 +242,21 @@
     "1. Droit Public/5. Institutions Administratives/1. Chapitres/T4 Chapitre 1. Les collectivités territoriales de droit commun.md",
     "1. Droit Public/5. Institutions Administratives/1. Chapitres/T4 Chapitre 3. La coopération intercommunale.md",
     "1. Droit Public/5. Institutions Administratives/1. Chapitres/T4 Chapitre 2. Les collectivités territoriales à statut particulier.md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/T2 Chapitre I La naissance et le développement de l’intégration communautaire..md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/T2 Chapitre II. Le Conseil de l’Europe et la Convention européenne de sauvegarde des  droits de l’Homme et des libertés fondamentales..md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/T2. Chapitre III. L'OTAN.md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/T1 Chapitre II. L’organisation des relations  internationales..md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/T1 Chapitre I Les acteurs des relations internationales.md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/T1 Chapitre 0 Les institutions internationales acteurs et système..md",
+    "1. Droit Public/5. Institutions Administratives/1. Chapitres/T2 Chapitre 1. Les administrations informatrices.md",
+    "1. Droit Public/5. Institutions Administratives/1. Chapitres/T1 Chapitre 2. Les services déconcentrés.md",
+    "1. Droit Public/5. Institutions Administratives/1. Chapitres/T1 Chapitre 1. Les institutions décisionnelles.md",
+    "1. Droit Public/3. Institution Internationale et européenne/Chapitre/T2 Chapitre 0 Les institutions européennes  Union  européenne et institutions de coopération..md",
+    "1. Droit Public/5. Institutions Administratives/1. Chapitres/T2 Chapitre 3. Les administrations d’inspection et de contrôle.md",
+    "1. Droit Public/5. Institutions Administratives/1. Chapitres/T2 Chapitre 2. Les administration Consultative.md",
+    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T2. Chapitre III.- Le régime juridique général des droits .. droits indérogeables et droits négociables.md",
+    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T2. Chapitre IV.- L’Union européenne et les droits de l’homme.md",
+    "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/1. Chapitre/T2. Chapitre II.- La Cour européenne des droits de l’homme.md",
     "1. Droit Public/2. Introduction au Droit International et Européen des Droits de l'Homme/2. Fascicules et Travaux & dirigés/Plaquette Séance 6 à 9 (IDIEDH, 24_25).pdf",
     "1. Droit Public/1. Droit Constitutionnel/L1 Semestre 2/2. Fascicules & Travaux dirigés/fichier-TD-24-25.pdf",
     "2. Droit Privé/2. Droit de la famille/2. Fascicule & Travaux dirigés/Fascicule FILIATION 24-25.pdf",
@@ -207,6 +265,7 @@
     "0. Documents/1. Textes juridiques/Codes & Collections/Codes/droit.org/Code civil.pdf",
     "0. Documents/1. Textes juridiques/Jurisprudences/2. Civiles/Cour de Cassation, Assemblée plénière, du 31 mai 1991, 90-20.105, Publié au bulletin - Légifrance.pdf",
     "0. Documents/1. Textes juridiques/Jurisprudences/2. Civiles/Ccontrôle In concreto Cour Cassation 1 Civ 1.03.2017.16-13.441.pdf",
+    "0. Documents/1. Textes juridiques/Jurisprudences/2. Civiles/CEDH AFFAIRE SCHALK ET KOPF c. AUTRICHE.pdf",
     "0. Documents/2. Média/Images/Pasted image 20240903220751.png",
     "0. Documents/2. Média/Images/Pasted image 20240904105550.png",
     "0. Documents/2. Média/Images/Pasted image 20240904112423.png",
