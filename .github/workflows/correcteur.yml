@@ -1,4 +1,4 @@
-name: Correcteur de fautes
+name: Correcteur d'orthographe
 
 on:
   push:
@@ -7,10 +7,10 @@ on:
       - "**/*.md"
       - "**/*.txt"
       - "docs/**"
-  workflow_dispatch: # permet de lancer manuellement
+  workflow_dispatch:  # permet de lancer manuellement
 
 jobs:
-  rapport:
+  orthographe:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,13 +24,11 @@ jobs:
         with:
           node-version: "18"
 
-      # 3️⃣ Installer cspell et LanguageTool CLI
-      - name: Installer outils
-        run: |
-          npm install -g cspell
-          npm install -g languagetool
+      # 3️⃣ Installer cspell
+      - name: Installer cspell
+        run: npm install -g cspell
 
-      # 4️⃣ Configurer cspell pour le français et vocabulaire juridique
+      # 4️⃣ Configurer cspell pour français et vocabulaire juridique
       - name: Configurer cspell
         run: |
           if [ ! -f cspell.json ]; then
@@ -46,15 +44,9 @@ jobs:
             }' > cspell.json
           fi
 
-      # 5️⃣ Rapport orthographe avec cspell
+      # 5️⃣ Rapport orthographe
       - name: Rapport orthographe (cspell)
         run: |
           echo "=== Rapport cspell ==="
           cspell "**/*.{md,txt}" --no-progress --gitignore --unique || true
-
-      # 6️⃣ Rapport grammaire/conjugaison avec LanguageTool CLI
-      - name: Rapport grammaire/conjugaison (LanguageTool)
-        run: |
-          echo "=== Rapport LanguageTool ==="
-          languagetool "**/*.md" -l fr || true
 
