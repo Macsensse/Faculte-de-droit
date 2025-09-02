@@ -19,13 +19,13 @@ L'**amendement Wallon** est un élément clé dans l'histoire constitutionnelle 
 
 # Section 2 : Le régime constitutionnel instauré par les lois constitutionnelles de 1875 
 
-## I – La répartition des pouvoirs entre les organes 
+## I. La répartition des pouvoirs entre les organes 
 
 L’Exécutif bicéphale se compose du président de la République, élu par les Chambres, politiquement irresponsable, et du Gouvernement, politiquement responsable devant le Parlement. Un chef de Gouv., non prévu par la Const., est apparu en pratique (président du Conseil). Dans la Const, le Président a de nombreux pouvoirs (ex : dissolution de la Chambre des députés, initiative des lois, pouvoir réglementaire), qui, en pratique étaient largement formels (le Gouv décidait en réalité). 
 
 Le Parlement bicaméral se compose de la Chambre des députés (scrutin uninominal majoritaire à 2 tours) et du Sénat (SUI) aux pouvoirs équivalents. Elles maîtrisent largement la fonction législative (l’Exécutif a peu de moyens d’intervenir) et peuvent toutes deux renverser le Gouv. Pourtant, le Parlement, divisé, se montre largement incapable d’exercer efficacement sa fonction législative au point de déléguer régulièrement au gouv le droit d’agir à sa place par des décrets-lois. 
 
-## II – Le glissement vers un régime d’assemblée 
+## II. Le glissement vers un régime d’assemblée 
 
 Le fonctionnement dualiste du régime parlementaire dans les toutes premières années a provoqué la crise du 16 mai 1877 et finalement l’effacement du chef de l’État, symbolisé par le message adressé par le Président Jules Grévy aux chambres le 6 févr. 1879, dit « Constitution Grévy ». 
 

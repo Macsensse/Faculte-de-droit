@@ -1,12 +1,12 @@
 #droit-constitutionnel #séance7
 
-## Les diverses modalité du régime parlementaire
+# I. Les diverses modalité du régime parlementaire
 
-### Du régime parlementaire dualiste au régime parlementaire moniste
+## A. Du régime parlementaire dualiste au régime parlementaire moniste
 
 Le passage du régime parlementaire **dualisme** au régime parlementaire **moniste** marque une évolution importante dans les systèmes politiques parlementaires. Cette transition reflète l'évolution du rôle du chef de l'État et la manière dont les rapports de pouvoir s'organisent entre les différents organes du gouvernement, en particulier entre le chef de l'État, le gouvernement et le Parlement.
 
-#### 1. **Le régime parlementaire dualiste**
+### 1. Le régime parlementaire dualiste
 
 Le régime parlementaire dualiste, également appelé régime orléaniste (du nom de la monarchie de Juillet sous Louis-Philippe d’Orléans en France), est caractérisé par une **double responsabilité** du gouvernement. Dans ce système, le gouvernement est responsable à la fois :
 - **Devant le Parlement**, qui peut le censurer, le renverser ou le soutenir ;
@@ -14,23 +14,20 @@ Le régime parlementaire dualiste, également appelé régime orléaniste (du no
 
 Ainsi, dans un régime dualiste, le gouvernement doit obtenir à la fois la confiance du Parlement et celle du chef de l'État pour rester en fonction.
 
-##### **Caractéristiques principales du régime dualiste** :
+#### a. Caractéristiques principales du régime dualiste :
 
 1. **Double légitimité du gouvernement** : Le gouvernement est une sorte de pont entre le chef de l'État et le Parlement, devant satisfaire les attentes des deux parties. Le chef de l'État a une influence politique directe et peut, dans certains cas, révoquer le gouvernement s'il ne correspond plus à ses attentes ou à celles du Parlement.
-
 2. **Chef de l'État actif** : Le chef de l'État (monarque ou président) n’est pas un simple garant de l’unité nationale ou de l’ordre constitutionnel, il joue un rôle politique déterminant. Il participe activement à la gestion des affaires de l'État et peut avoir un droit de regard et de décision sur les nominations ministérielles, voire sur la définition des grandes orientations politiques.
-
 3. **Équilibre délicat des pouvoirs** : Le régime dualiste est marqué par une **équilibre fragile** entre le chef de l'État et le Parlement. En cas de divergence entre ces deux institutions, le gouvernement se trouve dans une situation complexe, devant concilier les attentes des deux. Cela peut entraîner des périodes d’instabilité gouvernementale ou des tensions institutionnelles.
 
-##### **Exemple historique** : 
+#### b. Exemple historique : 
 Un exemple classique de régime parlementaire dualiste est celui de la **monarchie de Juillet** (1830-1848) en France, sous Louis-Philippe. Dans ce système, le roi nommait le gouvernement et exerçait une influence importante, mais ce dernier devait aussi répondre devant le Parlement. Le roi pouvait révoquer un ministre, mais le Parlement pouvait aussi renverser le gouvernement par un vote de défiance.
 
-##### **Inconvénients du dualisme** :
+#### c. Inconvénients du dualisme :
 - **Instabilité politique** : La double dépendance du gouvernement peut entraîner des crises fréquentes, car il est difficile de maintenir simultanément la confiance du chef de l'État et celle du Parlement.
 - **Conflits institutionnels** : Le régime dualiste peut conduire à des tensions entre le chef de l'État et le Parlement, surtout en cas de désaccord politique majeur. Le gouvernement peut se retrouver en position de « balle de ping-pong », sans véritable marge de manœuvre.
   
-#### 2. **Le régime parlementaire moniste**
-
+## 2. Le régime parlementaire moniste
 Le régime parlementaire moniste, en revanche, repose sur une évolution où la **responsabilité du gouvernement est uniquement envers le Parlement**, et non plus envers le chef de l'État. Ce modèle traduit un affaiblissement progressif du rôle politique du chef de l'État, qui devient principalement une figure symbolique ou honorifique, tandis que le véritable pouvoir exécutif est concentré entre les mains du gouvernement dirigé par un Premier ministre ou un chef de gouvernement.
 
 ##### **Caractéristiques principales du régime moniste** :
@@ -163,7 +160,7 @@ En somme, si le chef de l’État peut intervenir, c’est de manière **ponctue
 
 La séparation des pouvoirs dans un régime parlementaire repose sur l’équilibre entre un exécutif bicéphale et un Parlement. Le chef de l’État joue un rôle symbolique, de représentation, et intervient rarement dans les décisions politiques. Le Premier ministre, soutenu par la majorité parlementaire, détient le véritable pouvoir exécutif et est responsable de la conduite des affaires politiques et des choix gouvernementaux. L'interaction entre ces deux figures de l'exécutif assure le bon fonctionnement du régime parlementaire, tout en maintenant le contrôle du gouvernement par le Parlement.
 
-## II – Le Parlement
+# II. Le Parlement
 #séance8
 
 Le mode de scrutin choisi pour l’élection des parlementaires détermine largement l’organisation des partis politiques et contribue ainsi à faciliter ou compliquer la constitution d’un système majoritaire. 

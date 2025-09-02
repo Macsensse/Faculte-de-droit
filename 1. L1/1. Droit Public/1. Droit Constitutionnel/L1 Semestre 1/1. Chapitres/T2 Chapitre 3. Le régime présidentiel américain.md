@@ -1,7 +1,7 @@
 #droit-constitutionnel 
 # Section 1 : Les institutions du régime 
 
-## I – Le congrès 
+## I. Le congrès 
 
 Le bipartisme souple est important car il n’y a pas de moyen constitutionnel écrit.  
 
@@ -15,7 +15,7 @@ L’initiative des lois appartient aux 2 assemblées, elles discutent des lois e
 
 Le Congrès détient la totalité du pouvoir législatif et le bicamérisme est égalitaire en la matière 
 
-## II – Le Président 
+## II. Le Président 
 
 Le Président est élu pour 4 ans au suffrage indirect, avec un processus en 2 étapes : 
 
@@ -25,12 +25,11 @@ Le Président est élu pour 4 ans au suffrage indirect, avec un processus en 2 �
 
 Le Président détient le pvr exécutif et peut ainsi négocier les traités internationaux. Il est le chef des forces armées, il nomme aux principaux emplois publics, il peut faire grâce, il promulgue la loi, il dirige l’administration fédérale, et il détient le pvr réglementaire. 
 
-## III – La Cour suprême 
+## III. La Cour suprême 
 
 [[T1 Chapitre 3. La constitution]]
 
 # Section 2 : La séparation des pouvoirs 
-
 La Congrès et le Président peuvent se contrôler mutuellement, permettant de partager leurs pvrs : 
 
 - Le Président négocie les traités, et le Sénat les ratifie à la majorité des 2/3. Le Président est donc contrôlé par le Sénat qui représente les Etats fédérés. Certains traités ne sont pas ratifiés car le Sénat ne l’a pas voté. Contrainte pour le Président car il doit trouver un moyen pour contourner la ratification par le Sénat. 

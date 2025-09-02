@@ -7,13 +7,13 @@ Ce dépôt regroupe l’ensemble des matières étudiées.
 
 ## 🗂️ Organisation des matières
 
-- ⚖️ **Droit Civil**
-- 🏛️ **Droit Constitutionnel**
-- 📜 **Histoire du Droit**
-- 💼 **Droit Commercial**
-- 🌍 **Droit International Public**
-- 👩‍⚖️ **Droit Administratif**
-- 📖 **Méthodologie juridique**
+- ⚖️ **Droit Civil**
+- 🏛️ Droit Constitutionnel
+- 📜 **Histoire du Droit**
+- 💼 **Droit Commercial**
+- 🌍 **Droit International Public**
+- 👩‍⚖️ **Droit Administratif**
+- 📖 **Méthodologie juridique**
 
 ---
 
@@ -39,4 +39,7 @@ Ce dépôt regroupe l’ensemble des matières étudiées.
 © 2025 - Tous droits réservés.  
 Ces cours sont destinés à un usage **pédagogique et personnel**.  
 Toute reproduction ou diffusion sans autorisation est interdite. 
-Maxence et Nicolas <3333
+
+---
+
+***CAMPAGNE Maxence*** et ***LEFEVRE Nicolas*** 

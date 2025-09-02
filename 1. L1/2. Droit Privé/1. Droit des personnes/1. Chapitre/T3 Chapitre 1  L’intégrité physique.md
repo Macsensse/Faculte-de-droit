@@ -2,7 +2,7 @@ Protéger le corps humain signifie protéger l’enveloppe charnelle de l’indi
 
 La question du dt à la mort se pose (euthanasie = mort douce, suicide assisté). Pas possible en FR car meurtre avec préméditation. A partir de 1994, ces lois bioéthiques devaient être revues tous les 10 ans. En 2004, on s’est aperçu que la science avance trop vite donc les règles sont revues tous les 7 ans (dernière révision avec la loi du 2 août 2021)
 
-## Section 1 : L’intégrité de l’espèce humaine
+# Section 1 : L’intégrité de l’espèce humaine
 ###### Article 16-4 du Code CIvil :
 > [!PDF|] [[Code civil.pdf#page=16|Code civil, p.16]]
 > > 16-4 LOI n°2021-1017 du 2 août 2021 - art. 23 Legif. Plan Jp.C.Cass. Jp.Appel Jp.Admin. Juricaf Nul ne peut porter atteinte à l'intégrité de l'espèce humaine. Toute pratique eugénique tendant à l'organisation de la sélection des personnes est interdite.

@@ -9,6 +9,6 @@ Retour à un régime de concentration des pvrs avec la Constitution de 1799, et 
 
 Charte octroyée de 1814, retour à la monarchie absolue avec Louis XVIII. En pratique, on a des mécanismes de contrôle de l’exécutif par le Parlement. A l’ouverture de la session parlementaire, le roi prononce le discours du trône. Louis-Philippe d’Orléans a fait voter la charte de 1830, qui a été accepté. Elle contient des évolutions avec une séparation souple des pvrs, mécanismes de régime parlementaire. 
 
-IIe République avec la Constitution de 1848 (révolution de 1848), retour au régime de séparation rigide des pvrs (régime présidentiel). La chambre et le président n’arrivent pas à collaborer. Coup d’Etat de Louis-Napoléon Bonaparte (chef d’Etat) instaurant le 2nd Empire en 1852, régime de forte concentration des pvrs. 
+IIe République avec la Constitution de 1848 (révolution de 1848), retour au régime de séparation rigide des pvrs (régime présidentiel). La chambre et le président n’arrivent pas à collaborer. Coup d’Etat de Louis Napoléon Bonaparte (chef d’Etat) instaurant le 2nd Empire en 1852, régime de forte concentration des pvrs. 
 
 La séparation rigide des pvrs ne fonctionne pas bien en FR. En 1870, la séparation des pvrs et la démocratie sont encore fragiles.
