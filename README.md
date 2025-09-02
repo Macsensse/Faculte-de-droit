@@ -39,4 +39,4 @@ Ce dépôt regroupe l’ensemble des matières étudiées.
 © 2025 - Tous droits réservés.  
 Ces cours sont destinés à un usage **pédagogique et personnel**.  
 Toute reproduction ou diffusion sans autorisation est interdite. 
-Maxence et Nicolas <3
+Maxence et Nicolas <3 <3
