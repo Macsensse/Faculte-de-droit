@@ -16,7 +16,7 @@ https://discord.gg/9hxtdc8rCQ
 - 💼 **Droit Commercial**
 - 🌍 **Droit International Public**
 - 👩‍⚖️ **Droit Administratif**
-- 📖 **Méthodologie juridique**
+- 📖 **Méthodologie juridique**.
 
 ---
 
