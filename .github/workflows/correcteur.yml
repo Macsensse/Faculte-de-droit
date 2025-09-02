@@ -7,23 +7,30 @@ on:
       - "**/*.md"
       - "**/*.txt"
       - "docs/**"
+  workflow_dispatch: # permet de lancer manuellement
 
 jobs:
   rapport:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Récupérer le dépôt
       - name: Checkout du dépôt
         uses: actions/checkout@v4
 
+      # 2️⃣ Installer Node.js
       - name: Installer Node.js
         uses: actions/setup-node@v3
         with:
           node-version: "18"
 
-      - name: Installer cspell
-        run: npm install -g cspell
+      # 3️⃣ Installer cspell et LanguageTool CLI
+      - name: Installer outils
+        run: |
+          npm install -g cspell
+          npm install -g languagetool
 
+      # 4️⃣ Configurer cspell pour le français et vocabulaire juridique
       - name: Configurer cspell
         run: |
           if [ ! -f cspell.json ]; then
@@ -39,13 +46,15 @@ jobs:
             }' > cspell.json
           fi
 
+      # 5️⃣ Rapport orthographe avec cspell
       - name: Rapport orthographe (cspell)
         run: |
           echo "=== Rapport cspell ==="
           cspell "**/*.{md,txt}" --no-progress --gitignore --unique || true
 
+      # 6️⃣ Rapport grammaire/conjugaison avec LanguageTool CLI
       - name: Rapport grammaire/conjugaison (LanguageTool)
         run: |
           echo "=== Rapport LanguageTool ==="
-          docker run --rm -v $PWD:/data silviof/docker-languagetool languagetool /data/**/*.md -l fr
+          languagetool "**/*.md" -l fr || true
 
