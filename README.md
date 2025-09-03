@@ -14,7 +14,7 @@ https://discord.gg/9hxtdc8rCQ
 ## 🗂️ Organisation des matières
 
 - ⚖️ **Droit Civil**
-- 🏛️ Droit Constitutionnel
+- 🏛️ **Droit Constitutionnel**
 - 📜 **Histoire du Droit**
 - 💼 **Droit Commercial**
 - 🌍 **Droit International Public**
