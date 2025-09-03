@@ -1,7 +1,8 @@
-# I. Histoire 
-## A. mise à l'écart du judiciare de l'administration
+#droit-administratif 
+# Section 1.  Histoire et organisation de la juridiction administrative ordinaire 
+## §1. Évolutions historiques
+### A. mise à l'écart du judiciare de l'administration
 La raison d'état
-
 Dans les deux même sens
 ***16 et 24 aout 1790*** : sur l'oj qui mets en oeuvre la séparation des pouvoirs.
 art.10 dispose que les fonction judiciaire sont et demeuront toujours séparés, les juges ne pourront à peine de forféture troubler de quelque manière que ce soit les opérations des corps administratif ni citez devant eux les administrateurs en raison de leurs fonctions
@@ -15,7 +16,7 @@ Volonté d'écarter le juge de l'admnistration :
 
 réclamation par les ministres eux même
 
-## B. L'émancipation de la juridiction administrative
+### B. L'émancipation de la juridiction administrative
 «Juger l'administration, c'est encore administrer»; cette citation d'**Henrion de Pansey illustre toute la complexité et le lien qu'il existe entre l'administration active et la juridiction administrative**. La notion d'administration a deux sens: organique ou matériel.
 
 Justice retenu, 
@@ -28,6 +29,17 @@ loi du 24 mai 1872 : donne au conseil d'état le pouvoir d ejuger de maniere sou
 
 Arrêt du CE 13 Décembre 1889 Cadot, le Ce arrête définitivement la théorie de ministre juge, et le juge admi devient le juge de droit commun du contencieux administratif
 
-## C. la consécration constitutionnelle de l'indépendance de la compétence de la juridiction administrative
+### C. la consécration constitutionnelle de l'indépendance de la compétence de la juridiction administrative
 
 l'article 16 de la ddhc pose la séparation des pouvoirs
+article 64 de la C 1858
+30 Juillet 2010 conseil constit indépendance de l'autorité pour le siège et le parquet
+Conseil constit 22 JUILLET 1980 pflr indépendance de la juridiction administrative de valeur constitutionnel confère implicitement une éxistence constit dualisme juridictionnel
+révision constit 23 juillet 2008 QPC article 61-1 COnseil d'etat 
+COnseil d'état 16 avril 2010 Alcady simultannément chargé par la C 
+
+## §2. Les juridictions administratives
+### A. Les juridictions de droit commun
+### B. Les juridictions administratives spécialisées
+
+# Section 2. La répartition des compétences
