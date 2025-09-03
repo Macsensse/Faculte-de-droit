@@ -3,7 +3,8 @@
 Bienvenue dans mes notes et ressources pour mes cours de **Licence 2 en Droit**.  
 Ce dépôt regroupe l’ensemble des matières étudiées.
 
-***Vers les cours clique ici*** [[0. Faculté de Droit]]
+***➡️ [Accéder au cours "Faculté de Droit"](./0.%20Facult%C3%A9%20de%20Droit.md)***
+
 
 Pour connaitre les mises à jours :
 https://discord.gg/9hxtdc8rCQ
