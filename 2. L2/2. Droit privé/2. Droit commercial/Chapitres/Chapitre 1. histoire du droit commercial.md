@@ -2,12 +2,14 @@
 # I. Le droit commercial coutumier 
 ## A. Les origines
 ### 1. L'antiquité
-Règle de la contribution au avarie commune les commerçant ayant affrété un navir dans l'objectif de vendre des marchandise à l'étrangé devron collectivement indémniser selon dont les marchandises auront du être saccrifier pendant le voyage, selon le succès de l'éxpédition.
+Les origines du doit commerciale remonte à l'Antiquité grecque /Syrie en créeant des usages propres aux activitées commerciales maritimes. Règle de la contribution au avarie commune les commerçant ayant affrété un navir dans l'objectif de vendre des marchandise à l'étrangé devron collectivement indémniser selon dont les marchandises auront du être saccrifier pendant le voyage, selon le succès de l'éxpédition ( ancêtre de la mutuelle )
 Pas question d'une branche du droit cohérente. Fase de déclin début moyen age suite au déclin des échanges. Très fort insécurité et la Féodalité n'existé pas en core 
 
 ### 2. XII Féodalité & moyen age
-Début de la justice seigneuriale, sécurité retrouvé.
- italie du notd comptabilité commerciale banque la société et la faillite  puis allemagne, les russes, et la france également va hébergé et démarqué par une grande attractivité économique comme Lyon et Troyes ou Dijon rytme des foires (gigantesque marché à ciel ouvert) sur plusieurs semaine et mois 
+Le droit commercial au début du Moyen Age subit un déclin qui nuit fortement aux échanges commerciaux avec une insécurité croissante des invasions barbares précipitant la chute de l'Empire romain d'Occident ( -476)
+Dès le XII ème siècle, le système féodal met en place des seigneurs locaux exercés par des pouvoirs de polices sur leurs terres 
+Début de la justice seigneuriale, sécurité retrouvé permet un nouvelle essort économique international.
+ italie du nord devient l'épicentre de la prospérité économique ( Gènes , Milan , Venise , Florence ) et crée de nouvelles techniques :  comptabilité commerciale banque la société et la faillite  puis allemagne, les russes, et la france également va hébergé et démarqué par une grande attractivité économique comme Lyon et Troyes ou Dijon vivant au  rytme des foires (gigantesque marché à ciel ouvert) sur plusieurs semaine et mois 
 
 lex mercatoria
 lettre de change premeir échange à l'étranger
