@@ -44,7 +44,8 @@ https://discord.gg/9hxtdc8rCQ
 
 © 2025 - Tous droits réservés.  
 Ces cours sont destinés à un usage **pédagogique et personnel**.  
-Toute reproduction ou diffusion sans autorisation est interdite. 
+Toute reproduction ou diffusion sans autorisation est interdite.
+
 [***Voir plus ici***](./LICENCE.md) 
 
 ---
