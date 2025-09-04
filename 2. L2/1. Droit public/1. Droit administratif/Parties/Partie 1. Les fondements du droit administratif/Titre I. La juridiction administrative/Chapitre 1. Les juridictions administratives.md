@@ -5,7 +5,7 @@
 La raison d'état
 Dans les deux même sens
 ***16 et 24 aout 1790*** :  loi qui mets en œuvre la séparation des pouvoirs.
-art.10 dispose que les fonction judiciaire sont et demeuront toujours séparés, les juges ne pourront à peine de forfaiture troubler de quelque manière que ce soit les opérations des corps administratif ni citez devant eux les administrateurs en raison de leurs fonctions
+art.10 dispose que << les fonction judiciaire sont et demeurons toujours séparés, les juges ne pourront à peine de forfaiture troubler de quelque manière que ce soit les opérations des corps administratif ni citez devant eux les administrateurs en raison de leurs fonctions >>
 
 **décret du 16 fructidor l'an III** : défense itérative sont faite au tribunaux de connaitre des actes d'administration de quelque espèce qu'il soit au peine de droit
 
@@ -31,8 +31,8 @@ Arrêt du CE 13 Décembre 1889 Cadot, le Ce arrête définitivement la théorie 
 
 ### C. la consécration constitutionnelle de l'indépendance de la compétence de la juridiction administrative
 
-l'article 16 de la ddhc pose la séparation des pouvoirs
-article 64 de la C 1858
+l'article 16 de la DDHC pose la séparation des pouvoirs
+article 64 de la C 1858 : << Président de la République est garant de l'autorité judicaire >>
 30 Juillet 2010 conseil constit indépendance de l'autorité pour le siège et le parquet
 Conseil constit 22 JUILLET 1980 pflr indépendance de la juridiction administrative de valeur constitutionnel confère implicitement une existence constit dualisme juridictionnel
 révision constit 23 juillet 2008 QPC article 61-1 Conseil d'Etat 
