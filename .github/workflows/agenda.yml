@@ -27,6 +27,7 @@ jobs:
       - name: Ajouter devoirs
         env:
           GC_CREDENTIALS: ${{ secrets.GC_CREDENTIALS }}
+          GC_CALENDAR_ID: maxence.campagne@gmail.com  # Remplace par l'email de ton calendrier partagé
         run: |
           python - <<'EOF'
           import os
@@ -40,6 +41,8 @@ jobs:
           creds_dict = json.loads(os.environ["GC_CREDENTIALS"])
           creds = service_account.Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
           service = build("calendar", "v3", credentials=creds)
+
+          calendar_id = os.environ["GC_CALENDAR_ID"]
 
           # Chemin du fichier agenda
           filename = "1.Agenda.md"
@@ -61,9 +64,9 @@ jobs:
           for date_str, title in matches:
               # Vérifier si l'événement existe déjà
               events_result = service.events().list(
-                  calendarId='primary',
-                  timeMin=f'{date_str}T00:00:00Z',
-                  timeMax=f'{date_str}T23:59:59Z',
+                  calendarId=calendar_id,
+                  timeMin=f'{date_str}T00:00:00+02:00',
+                  timeMax=f'{date_str}T23:59:59+02:00',
                   q=title
               ).execute()
 
@@ -74,11 +77,11 @@ jobs:
               # Créer l'événement sur toute la journée
               event = {
                   'summary': title,
-                  'start': {'date': date_str},
-                  'end': {'date': date_str},
+                  'start': {'date': date_str, 'timeZone': 'Europe/Paris'},
+                  'end': {'date': date_str, 'timeZone': 'Europe/Paris'},
               }
 
-              service.events().insert(calendarId='primary', body=event).execute()
+              service.events().insert(calendarId=calendar_id, body=event).execute()
               print(f"✅ Devoir ajouté : {date_str} - {title}")
           EOF
 
