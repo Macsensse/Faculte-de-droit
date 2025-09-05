@@ -24,7 +24,7 @@ jobs:
 
     - name: Save Google Credentials
       run: |
-        echo "$GC_CREDENTIALS" | base64 --decode > credentials.json
+        echo "$GC_CREDENTIALS" | tr -d '\r' | base64 --decode > credentials.json
 
     - name: Run sync script
       run: |
