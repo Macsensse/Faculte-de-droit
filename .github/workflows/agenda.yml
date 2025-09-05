@@ -1,89 +1,68 @@
-name: Sync Agenda to Google Calendar
+name: Ajouter devoirs dans Google Calendar
 
 on:
-  push:
-    paths:
-      - '1.Agenda.md'
+  workflow_dispatch:  # tu peux lancer manuellement
 
 jobs:
-  sync-agenda:
+  add_homework:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.11"
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib python-dateutil
+      - name: Install dependencies
+        run: pip install google-api-python-client google-auth
 
-    - name: Save Google Credentials
-      run: |
-        echo "$GC_CREDENTIALS" | tr -d '\r' | base64 --decode > credentials.json
+      - name: Ajouter devoirs depuis 1. Agenda.md
+        env:
+          GC_CREDENTIALS: ${{ secrets.GC_CREDENTIALS }}
+        run: |
+          python - <<'EOF'
+          import os
+          import json
+          import re
+          from google.oauth2 import service_account
+          from googleapiclient.discovery import build
 
-    - name: Run sync script
-      run: |
-        python3 <<'EOF'
-        import re
-        import datetime
-        from dateutil.parser import parse
-        from google.oauth2.credentials import Credentials
-        from google_auth_oauthlib.flow import InstalledAppFlow
-        from googleapiclient.discovery import build
+          # Connexion Google Calendar
+          SCOPES = ["https://www.googleapis.com/auth/calendar"]
+          creds_dict = json.loads(os.environ["GC_CREDENTIALS"])
+          creds = service_account.Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
+          service = build("calendar", "v3", credentials=creds)
 
-        SCOPES = ['https://www.googleapis.com/auth/calendar']
-        CREDENTIALS_FILE = 'credentials.json'
-        TOKEN_FILE = 'token.json'
+          # Lire le fichier 1. Agenda.md
+          filename = "1. Agenda.md"
+          try:
+              with open(filename, "r", encoding="utf-8") as f:
+                  agenda = f.read()
+          except FileNotFoundError:
+              print(f"⚠️ Fichier {filename} non trouvé !")
+              exit(1)
 
-        # --- Authentification Google Calendar ---
-        def get_calendar_service():
-            try:
-                creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
-            except:
-                flow = InstalledAppFlow.from_client_secrets_file(CREDENTIALS_FILE, SCOPES)
-                creds = flow.run_local_server(port=0)
-                with open(TOKEN_FILE, 'w') as f:
-                    f.write(creds.to_json())
-            return build('calendar', 'v3', credentials=creds)
+          # Extraire les devoirs au format "YYYY-MM-DD - Titre"
+          pattern = r"(\d{4}-\d{2}-\d{2}) - (.+)"
+          matches = re.findall(pattern, agenda)
 
-        # --- Lire agenda.md ---
-        def parse_agenda(file_path='1.Agenda.md'):
-            events = []
-            pattern = r'(\d{4}-\d{2}-\d{2})\s*-\s*(.*)'
-            with open(file_path, 'r') as f:
-                for line in f:
-                    match = re.match(pattern, line)
-                    if match:
-                        date_str, title = match.groups()
-                        events.append((parse(date_str), title))
-            return events
+          if not matches:
+              print("⚠️ Aucun devoir trouvé dans 1. Agenda.md")
+              exit(0)
 
-        # --- Ajouter les événements ---
-        def add_events(events):
-            service = get_calendar_service()
-            for date, title in events:
-                event = {
-                    'summary': title,
-                    'start': {'date': date.strftime('%Y-%m-%d')},
-                    'end': {'date': (date + datetime.timedelta(days=1)).strftime('%Y-%m-%d')},
-                }
-                service.events().insert(calendarId='primary', body=event).execute()
+          for date_str, title in matches:
+              # Événement sur toute la journée
+              event = {
+                  'summary': title,
+                  'start': {'date': date_str},
+                  'end': {'date': date_str},
+              }
 
-        # --- Vider agenda.md ---
-        def clear_agenda(file_path='1.Agenda.md'):
-            open(file_path, 'w').close()
+              # Ajouter l'événement
+              service.events().insert(calendarId='primary', body=event).execute()
+              print(f"✅ Devoir ajouté : {date_str} - {title}")
+          EOF
 
-        # --- Main ---
-        events = parse_agenda()
-        if events:
-            add_events(events)
-            clear_agenda()
-            print(f"{len(events)} événements ajoutés et agenda.md vidé.")
-        else:
-            print("Aucun événement trouvé.")
-        EOF
