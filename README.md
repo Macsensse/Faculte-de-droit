@@ -46,7 +46,6 @@ https://discord.gg/9hxtdc8rCQ
 Ces cours sont destinés à un usage **pédagogique et personnel**.  
 Toute reproduction ou diffusion sans autorisation est interdite.
 
-
 [***Voir plus ici***](./LICENCE.md) 
 
 ---
