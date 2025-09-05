@@ -1,68 +1,47 @@
-name: Ajouter devoirs dans Google Calendar
+- name: Ajouter devoirs depuis 1.Agenda.md
+  env:
+    GC_CREDENTIALS: ${{ secrets.GC_CREDENTIALS }}
+  run: |
+    python - <<'EOF'
+    import os
+    import json
+    import re
+    from google.oauth2 import service_account
+    from googleapiclient.discovery import build
 
-on:
-  workflow_dispatch:  # tu peux lancer manuellement
+    # Connexion Google Calendar
+    SCOPES = ["https://www.googleapis.com/auth/calendar"]
+    creds_dict = json.loads(os.environ["GC_CREDENTIALS"])
+    creds = service_account.Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
+    service = build("calendar", "v3", credentials=creds)
 
-jobs:
-  add_homework:
-    runs-on: ubuntu-latest
+    # Lire le fichier 1.Agenda.md
+    filename = "1.Agenda.md"
+    try:
+        with open(filename, "r", encoding="utf-8") as f:
+            agenda = f.read()
+    except FileNotFoundError:
+        print(f"⚠️ Fichier {filename} non trouvé !")
+        exit(1)
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    # Extraire les devoirs au format "YYYY-MM-DD - Titre"
+    pattern = r"(\d{4}-\d{2}-\d{2}) - (.+)"
+    matches = re.findall(pattern, agenda)
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
+    if not matches:
+        print("⚠️ Aucun devoir trouvé dans 1.Agenda.md")
+        exit(0)
 
-      - name: Install dependencies
-        run: pip install google-api-python-client google-auth
+    for date_str, title in matches:
+        # Événement sur toute la journée
+        event = {
+            'summary': title,
+            'start': {'date': date_str},
+            'end': {'date': date_str},
+        }
 
-      - name: Ajouter devoirs depuis 1. Agenda.md
-        env:
-          GC_CREDENTIALS: ${{ secrets.GC_CREDENTIALS }}
-        run: |
-          python - <<'EOF'
-          import os
-          import json
-          import re
-          from google.oauth2 import service_account
-          from googleapiclient.discovery import build
-
-          # Connexion Google Calendar
-          SCOPES = ["https://www.googleapis.com/auth/calendar"]
-          creds_dict = json.loads(os.environ["GC_CREDENTIALS"])
-          creds = service_account.Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
-          service = build("calendar", "v3", credentials=creds)
-
-          # Lire le fichier 1. Agenda.md
-          filename = "1. Agenda.md"
-          try:
-              with open(filename, "r", encoding="utf-8") as f:
-                  agenda = f.read()
-          except FileNotFoundError:
-              print(f"⚠️ Fichier {filename} non trouvé !")
-              exit(1)
-
-          # Extraire les devoirs au format "YYYY-MM-DD - Titre"
-          pattern = r"(\d{4}-\d{2}-\d{2}) - (.+)"
-          matches = re.findall(pattern, agenda)
-
-          if not matches:
-              print("⚠️ Aucun devoir trouvé dans 1. Agenda.md")
-              exit(0)
-
-          for date_str, title in matches:
-              # Événement sur toute la journée
-              event = {
-                  'summary': title,
-                  'start': {'date': date_str},
-                  'end': {'date': date_str},
-              }
-
-              # Ajouter l'événement
-              service.events().insert(calendarId='primary', body=event).execute()
-              print(f"✅ Devoir ajouté : {date_str} - {title}")
-          EOF
+        # Ajouter l'événement
+        service.events().insert(calendarId='primary', body=event).execute()
+        print(f"✅ Devoir ajouté : {date_str} - {title}")
+    EOF
 
