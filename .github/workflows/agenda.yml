@@ -1,47 +1,84 @@
-- name: Ajouter devoirs depuis 1.Agenda.md
-  env:
-    GC_CREDENTIALS: ${{ secrets.GC_CREDENTIALS }}
-  run: |
-    python - <<'EOF'
-    import os
-    import json
-    import re
-    from google.oauth2 import service_account
-    from googleapiclient.discovery import build
+name: Ajouter devoirs dans Google Calendar
 
-    # Connexion Google Calendar
-    SCOPES = ["https://www.googleapis.com/auth/calendar"]
-    creds_dict = json.loads(os.environ["GC_CREDENTIALS"])
-    creds = service_account.Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
-    service = build("calendar", "v3", credentials=creds)
+# Déclenchement manuel
+on:
+  workflow_dispatch:
 
-    # Lire le fichier 1.Agenda.md
-    filename = "1.Agenda.md"
-    try:
-        with open(filename, "r", encoding="utf-8") as f:
-            agenda = f.read()
-    except FileNotFoundError:
-        print(f"⚠️ Fichier {filename} non trouvé !")
-        exit(1)
+jobs:
+  ajouter-devoirs:
+    runs-on: ubuntu-latest
 
-    # Extraire les devoirs au format "YYYY-MM-DD - Titre"
-    pattern = r"(\d{4}-\d{2}-\d{2}) - (.+)"
-    matches = re.findall(pattern, agenda)
+    steps:
+      # 1️⃣ Récupérer le dépôt
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    if not matches:
-        print("⚠️ Aucun devoir trouvé dans 1.Agenda.md")
-        exit(0)
+      # 2️⃣ Installer Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
 
-    for date_str, title in matches:
-        # Événement sur toute la journée
-        event = {
-            'summary': title,
-            'start': {'date': date_str},
-            'end': {'date': date_str},
-        }
+      # 3️⃣ Installer les dépendances Google API
+      - name: Install dependencies
+        run: pip install google-api-python-client google-auth
 
-        # Ajouter l'événement
-        service.events().insert(calendarId='primary', body=event).execute()
-        print(f"✅ Devoir ajouté : {date_str} - {title}")
-    EOF
+      # 4️⃣ Ajouter les devoirs depuis 1.Agenda.md
+      - name: Ajouter devoirs
+        env:
+          GC_CREDENTIALS: ${{ secrets.GC_CREDENTIALS }}
+        run: |
+          python - <<'EOF'
+          import os
+          import json
+          import re
+          from google.oauth2 import service_account
+          from googleapiclient.discovery import build
+
+          # Connexion à Google Calendar
+          SCOPES = ["https://www.googleapis.com/auth/calendar"]
+          creds_dict = json.loads(os.environ["GC_CREDENTIALS"])
+          creds = service_account.Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
+          service = build("calendar", "v3", credentials=creds)
+
+          # Chemin du fichier agenda
+          filename = "1.Agenda.md"
+          try:
+              with open(filename, "r", encoding="utf-8") as f:
+                  agenda = f.read()
+          except FileNotFoundError:
+              print(f"⚠️ Fichier {filename} non trouvé !")
+              exit(1)
+
+          # Extraire les devoirs au format "YYYY-MM-DD - Titre"
+          pattern = r"(\d{4}-\d{2}-\d{2}) - (.+)"
+          matches = re.findall(pattern, agenda)
+
+          if not matches:
+              print("⚠️ Aucun devoir trouvé dans 1.Agenda.md")
+              exit(0)
+
+          for date_str, title in matches:
+              # Vérifier si l'événement existe déjà
+              events_result = service.events().list(
+                  calendarId='primary',
+                  timeMin=f'{date_str}T00:00:00Z',
+                  timeMax=f'{date_str}T23:59:59Z',
+                  q=title
+              ).execute()
+
+              if events_result['items']:
+                  print(f"⚠️ Devoir déjà présent : {date_str} - {title}")
+                  continue
+
+              # Créer l'événement sur toute la journée
+              event = {
+                  'summary': title,
+                  'start': {'date': date_str},
+                  'end': {'date': date_str},
+              }
+
+              service.events().insert(calendarId='primary', body=event).execute()
+              print(f"✅ Devoir ajouté : {date_str} - {title}")
+          EOF
 
