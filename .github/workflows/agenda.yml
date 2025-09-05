@@ -52,7 +52,7 @@ jobs:
             return build('calendar', 'v3', credentials=creds)
 
         # --- Lire agenda.md ---
-        def parse_agenda(file_path='agenda.md'):
+        def parse_agenda(file_path='1.Agenda.md'):
             events = []
             pattern = r'(\d{4}-\d{2}-\d{2})\s*-\s*(.*)'
             with open(file_path, 'r') as f:
@@ -75,7 +75,7 @@ jobs:
                 service.events().insert(calendarId='primary', body=event).execute()
 
         # --- Vider agenda.md ---
-        def clear_agenda(file_path='agenda.md'):
+        def clear_agenda(file_path='1.Agenda.md'):
             open(file_path, 'w').close()
 
         # --- Main ---
