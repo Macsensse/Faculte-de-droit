@@ -1,18 +1,8 @@
+# Section 1 : Le droit pénal entre protection de la société et répression des infractions.
 
+## §1 : le droit de la répression des infractions.
 
-Droit pénal
-
-- Méthodologie du droit pénal appliqué
-
-serrait le droit de punir.
-
-Les règles visent à maintenir une existence harmonieuse, en tout temps et, en société, les règles ne sont pas toujours respectées (pulsion…) dans tous les cas, les comportements antisocio qui cause un trouble d’une certaine gravité constitue le phénomène criminel. Il décrit le phénomène criminel et le droit pénal le sanctionne.
-
-Section 1 : Le droit pénal entre protection de la société et répression des infractions.
-
-§1 : le droit de la répression des infractions.
-
-A. Une vocation naturelle : défendre la société contre les infractions
+### A. Une vocation naturelle : défendre la société contre les infractions
 
 o Équation : Infraction = incrimination + sanction
 
@@ -32,7 +22,7 @@ o Fonction de resocialisation et d’éducation : la peine s’érige en guide e
 
 o Le droit pénal a une fonction essentiellement punitive, rétribuée et accessoirement
 
-B. Un défi concilié sécurité et liberté
+### B. Un défi concilié sécurité et liberté
 
 - Fonction essentiellement punitive
 
