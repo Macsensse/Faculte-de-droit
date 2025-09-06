@@ -27,7 +27,7 @@ jobs:
       - name: Ajouter devoirs
         env:
           GC_CREDENTIALS: ${{ secrets.GC_CREDENTIALS }}
-          GC_CALENDAR_ID: ton.email@gmail.com  # Remplace par l'email de ton calendrier partagé
+          GC_CALENDAR_ID: maxence.campagne@gmail.com  # Remplace par l'email de ton calendrier partagé
         run: |
           python - <<'EOF'
           import os
