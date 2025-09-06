@@ -48,10 +48,10 @@ La sanction pénale, garder en l’esprit l’individualisation de la peine ou l
 
 Un constat les interrogations existe sur le sens de la peine, la peine interroge a l’épreuve des faits certaine peine saveurs peu efficaces. Le droit pénal c’est humaniser, la privation de liberté occupe une place centrale dans la justice française (hors des murs ou dans les murs).
 
-§2. Le droit de la protection des valeurs essentielles de la société
+## §2. Le droit de la protection des valeurs essentielles de la société
 
-A. Le droit de la protection des valeurs sociale induite par l’incrimination des comportements a porté atteinte à l’ordre public.
+### A. Le droit de la protection des valeurs sociale induite par l’incrimination des comportements a porté atteinte à l’ordre public.
 
 L’incrimination d’un comportement a vocation à interdire la réalisation de celui-ci. Elle est révélatrice de la nature de celui-ci a porter atteinte a l’ordre public. D’ailleurs c’est le résultat qui fonde l’incrimination du comportement en question. Et corrélativement l’incrimination de ce comportement a vocation a protéger la valeur sociale qui l’est susceptible de laiser.
 
-B. Les mutations de la finilatité punitive du droit pénale, expression d’une protection accrue des valeurs essentiellement de la société.
+### B. Les mutations de la finilatité punitive du droit pénale, expression d’une protection accrue des valeurs essentiellement de la société.
