@@ -43,8 +43,28 @@ Il doit être direct, certain, légitime, personnel
 ***Préjudice direct*** : l'auteur ne doit pas réparer des conséquences trop lointaine du fait générateur 
 ***Préjudice certain*** : il doit être indubitable, ne peut pas être mit en doute exception perte de chance.
 ***Préjudice légitime*** : On ne répare pas le préjudice qui résulte d'une situation inégale
-victime directe mais aussi victime par ricochet
+victime directe mais aussi victime par ricochet.
+***préjudice:  prix de la douleur*** : réparation souffrance physique / psychique ------> [chambre civile 2ème cour de cassation 7 / 09 / 10 publié au bulletin numéro 155[[https://www.legifrance.gouv.fr/juri/id/JURITEXT000022826513/ ]]
 
+***préjudice esthétique*** : touche à l'apparence d'autant plus indemnisé que la personne est exposé ( médias, modèles etc. ) 
 
+***préjudice sexuel*** : atteinte vie sexuelle sous différentes formes : atteintes organes sexuelles , atteinte perte de libido , perte capacité à réaliser l'acte (💦) , difficultés de procréer cf  [Chambre civile 2ème 17/06/10 publié bulletin numéro 115 ]([ https://www.legifrance.gouv.fr/juri/id/JURITEXT000022368110/)
+
+***préjudice d'agrément*** : résulte des troubles ressentis : conditions d'existence , ici [[décision assemblée plénière 10/12/23 bulletin numéro 8]] https://www.legifrance.gouv.fr/juri/id/JURITEXT000048769030
+
+***préjudice d'établissement*** : perte d'espoir et de chances de réaliser projet de vie familiale ici : [Chambre civile 2ème 13/01/12](https://www.legifrance.gouv.fr/juri/id/JURITEXT000025152294/) 
+
+***préjudice de contamination*** : Spécifiquement apparu avec le SIDA il vise donc le préjudice de contamination par le VIH , ce préjudice va comprendre en lui même plusieurs préjudices concret :
+Ceux qui résultent des caractères physiques / psychiques fait à appréhender la diminution de l'espérance de vie ( psychique ) prévoir difficultés intégration sociale , perturbation vie sociale : famille , sexuelle , aussi souffrance crainte de ses préjudices esthétique aggravent ainsi que toutes affection opportuniste à la déclaration de la maladie .  
+
+***préjudice d'impréparation*** : défaut d'informations médicale atteinte a ce devoir d'information qui engendre le patient a des conséquences qu'un traitement / opérations qu'il aurait pu éviter . 
+
+Nomenclature tribunaux : Jean-Pierre Dintilhac (Magistrat français ) ( préjudice corporel ) formulaire qui va donner tout les types de préjudice pour se prévaloir en cas de dommages corporelles . Aucune valeur normative  [Nomenclature Dintilhac  ](https://sante.gouv.fr/ministere/acteurs/partenaires/article/nomenclature-des-postes-de-prejudices-rapport-de-m-dintilhac)
+
+***préjudice d'angoisse de mort imminente*** : cela vise la souffrance psychique résultant d'un état de conscience suffisant pour envisager sa propre fin . Ce type de préjudice apparait dans dans le cadre des préjudices des victimes d'accidents de circulation . [Chambre criminelle Cour de cassation décision 27/09/07 numéro pourvoi 15-84-238](https://www.legifrance.gouv.fr/juri/id/JURITEXT000033175972/)
+
+***préjudice d'anxiété*** : résulte situation d'inquiétude permanente face au risque de déclaration a tout moment d'une maladie lié a l'amiante et à l'obligation de subir les contrôles et examens régulier propres à réactiver cette angoisse . 
+
+***préjudice d'affection***  : perte chère d'un proche / animal
 
 [[THEME 2 La responsabilité civile extracontractuelle ou délictuelle Le lien de causalité (2ème condition commune à toutes les responsabilités)]]
