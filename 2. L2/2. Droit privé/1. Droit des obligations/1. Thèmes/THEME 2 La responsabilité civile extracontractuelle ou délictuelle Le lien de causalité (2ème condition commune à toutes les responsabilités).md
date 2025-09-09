@@ -36,14 +36,20 @@ ou
 Résponsabilité insolidum
 # II. Les cas et les conséquences de la pluralité de causes
 EN pratique rare sont les résponsabilité du à un seul fait. La plus part des cas à plusieurs cause, chaque réponsableest tenu avec les autres auteur de cause
+
+## A. Pluralité de causes et responsabilité in solidum
 Cette personne qui devra réparé l'intégralité du dommage en effet ce n'est pas à la victime de support le risque d'une insolvabilité.
 
 subrogatoire ou récursoire contres les autre cooreseponsabile obtenir remboursement partiel des faire qui ne sont pas de ça résponsabilié&
 eee
-## A. Pluralité de causes et responsabilité in solidum
 
 ## B. Pluralité de causes et exonération de responsabilité
+
 ### 1. incidence de la force majeure
+irésisitbile imprévisible etc
+évènement cli:atique
+ruptiure du lien de causalité en cas de force majeur supporte entièrement la causalité alors il est totalmeent éxonératoire mais quand conjugeuer a une faute alors partiellement
+viv 2 19 09 2024 23-10.668
 
 ### 2. incidence du fait de la victime
 
