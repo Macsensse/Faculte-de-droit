@@ -1,27 +1,3 @@
-Question + Tv sur décision de justice
-
-
-## 1. 
-Requête / Assignation -> 1 instance -> 2 instance -> Pourvoi en Cassation -> QPC -> Cour européenne
-
-## 2. 
-Juridiction suprême de l'ordre judiciaire : juge du droit et filtre pour les qpc, unification du droit
-
-## 3. Cas pratique
-
-Trycia de TROIREBORE à découvert que sont ancètre était Alexis de Tocquevillle depuis elle souhaite récupérer ce nom de famille en souvenir de sont illustre ancètre
-
-Dés lors la question se pose "Est-il possible de récupérer le nom de famille d'un ancètre ?"
-
-Selon l'article 61 du Code civil : Toute personne qui justifie d'un intérêt légitime peut demander à changer de nom. La demande de changement de nom peut avoir pour objet d'éviter l'extinction du nom porté par un ascendant ou un collatéral du demandeur jusqu'au quatrième degré. Le changement de nom est autorisé par décret.
-
-En l'espèce Trycia de TROIREBORE possède un intérët légime à changer de nom puisque il s'agit de la nécessité d'éviter l'extinction du nom porté par un ascendant inférieur au 4ème degré.
-
-
-Le changement de nom est autorisé par décret Trycia devra donc adressé une demande au ministère de la justice.
-
-
-
 QUESTION séance 2 méthodo :  
 
 1. Règle de droit 
@@ -61,4 +37,3 @@ Preuve des actes : écris requis pour les actes portant sur une somme ou une val
 Preuve des faits : Tous modes de preuve admis par tout moyen à condition qu’il n’y ait pas transgression de la loi (témoignage, présomptions…). Art 1358 du Code civil 
 
 Force probante : L’écrit fait foi jusqu’à preuve contraire qu’il soit électronique ou papier. Art 1366 du Code civil.
-
