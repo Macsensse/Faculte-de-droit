@@ -39,11 +39,7 @@ révision constit 23 juillet 2008 QPC article 61-1 Conseil d'Etat
 Conseil d'Etat 16 avril 2010 Alcady simultanément chargé par la C 
 
 ## §2. Les juridictions administratives
-
-
-1. Le Conseil d’État  
-    
-
+### 1. Le Conseil d’État  
 Origine : Créé en 1799, par l’article 52 de la constitution de l’an VIII, par Bonaparte, « sous la direction des consuls un Conseil d’état est charge de rédiger les projets de lois et les règlements d’administration public et de résoudre les difficultés qui s’élève en manière administratif » = rôle contentieux et consultatif. 
 
 Le Conseil d’État, est situé à Paris, au palais royal 
@@ -51,25 +47,18 @@ Le Conseil d’État, est situé à Paris, au palais royal 
 Composition : Le président du Conseil d’État est le Premier ministre, mais, c’est le vice-président qui exerce les activités et la présence effective du CE. Il y a 6 sections + 1 consultative :  
 
 - Section de l’Intérieur (projet de loi relative au pouvoirs public 
-    
 
-- Section des finances (finances public) 
-    
+- Section des finances (finances public)     
 
 - Section des travaux public (environnements, transports) 
-    
 
 - Section social (santé) 
-    
 
 - Section de l’administration  
-    
 
 - Section du rapport et des études  
-    
 
 - Section du contentieux 
-    
 
 Son rôle en tant qu’institution consultative :  Rôle de conseiller d’État : « Les projets de loi sont délibérés en conseil des ministres après avis du Conseil d'État » (Art 39), veille sur les projets d’ordonnances (Art 38), les projets de décrets en Conseil d’État (art 37). 
 
@@ -97,7 +86,7 @@ Litige concernant le recrutement / discipline des agents public nommé par décr
 - tout ça se traduit par des décisions juridictionnel rendu au nom du peuple français, 10 000 affaires jugé par le CE en 2024.  
     
 
-2- Les tribunaux administratifs  
+### 2. Les tribunaux administratifs  
 
 Le TA a succédé aux anciens tribunaux de préfectures mis en place par la loi 28 pluviôse an 8, ce sont les juridictions en premier ressort de la justice administrative (Art L211-1 CJA). Il sont juge du droit commun, juge en premier ressort contentieux administratif, la plupart des litiges administratifs relève en premier instance du TA, sauf si, une disposition spéciale déroge à ce principe.  
 
@@ -121,11 +110,9 @@ Les TA et CAA l113-1 : « avant de statuer sur une requête soulevant une 
 
 ### B. Les juridictions administratives spécialisées
 
-
 Présentes 2 caractéristiques principales :  
 
 - Compétence d’attribution, affaires confiées par un texte qui leur permet de statuer 
-    
 
 - Le Conseil d’État contrôle l’activité de ces juridictions administratives spécialisées, directement ou indirectement 
     
@@ -146,4 +133,116 @@ Contentieux disciplinaire et contentieux de l’aide sociale  
 Le contentieux des étrangers appartient à la Cour Nationale du Droit d’Asile (CNDA)  
 
 Ces juridiction sont spécialise existe pour désengorger les juridictions ordinaires, les juridictions de droit commun et specoa
-# Section 2. La répartition des compétences
+Super, merci pour ton extrait ! 🙌  
+Je vais te le **réorganiser et réécrire au propre** pour que tu aies une version claire, structurée et bien typographiée, tout en gardant le contenu juridique et les références.
+
+Voici une version rédigée proprement :
+
+---
+
+# Section 2. La répartition des compétences du judiciaire (dans le domaine administratif)
+
+#Séance3
+
+## Introduction
+
+La compétence du juge administratif est affirmée lorsqu’est en cause une personne morale de droit public, agissant sous un régime de **puissance publique**.  
+Ceci a été consacré par l’arrêt **Blanco** (TC, 8 février 1873).
+
+Dans le même sens, l’arrêt **CE, 6 février 1903, Terrier** marque une étape importante dans la définition de la compétence administrative.
+
+Ainsi, la jurisprudence et la doctrine (notamment **le GAJA**) distinguent deux grands types de services publics :
+
+- **SPA** : Services Publics Administratifs
+    
+- **SPIC** : Services Publics Industriels et Commerciaux
+    
+
+Par exception, il existe une compétence judiciaire en matière administrative, notamment lorsque l’activité administrative touche à certaines garanties constitutionnelles.  
+→ Exemple : **CC, 23 janvier 1987, Conseil de la concurrence**, qui reconnaît la compétence du juge judiciaire même lorsqu’une autorité administrative exerce des prérogatives de puissance publique, soit :
+
+- par nature (matières réservées à l’autorité judiciaire),
+    
+- soit parce qu’une loi l’a expressément prévu dans l’intérêt d’une bonne administration de la justice.
+:
+---
+
+# I. Les blocs de compétence judiciaire en matière administrative
+
+La compétence du juge administratif est le principe en droit français. Toutefois, par exception, certaines matières relèvent du juge judiciaire, même si elles concernent l’action administrative. Ces exceptions sont appelées **« blocs de compétence »**.  
+Elles trouvent leur fondement dans la Constitution et la Déclaration des droits de l’homme et du citoyen (DDHC).
+
+Deux grands blocs se dégagent :
+
+1. La sauvegarde de la liberté individuelle.
+    
+2. La protection du droit de propriété.
+    
+
+---
+
+## A. Le fondement constitutionnel : l’autorité judiciaire gardienne de la liberté individuelle
+
+L’article **66 de la Constitution de 1958** dispose que :
+
+> « Nul ne peut être arbitrairement détenu. – L’autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi. »
+
+Cet article établit un principe clair : **toute privation de liberté (arrestation, détention, emprisonnement) relève exclusivement du juge judiciaire**.  
+Autrement dit, même lorsqu’une autorité administrative est impliquée, seul le juge judiciaire peut autoriser, contrôler ou sanctionner une atteinte à la liberté individuelle au sens strict (c’est-à-dire la liberté physique de la personne).
+
+⚖️ **Tribunal des conflits, 18 décembre 1947, Hilaire** :  
+Il est affirmé que la sauvegarde de la liberté individuelle et la protection de la propriété privée relèvent « essentiellement » de la compétence de l’autorité judiciaire.
+
+---
+
+## B. Les libertés protégées par le juge judiciaire
+
+1. **La liberté individuelle (au sens de l’article 66 C°)**
+    
+    - Elle se limite à la protection contre l’arrestation et la détention arbitraire.
+        
+    - Elle est inspirée de l’**Habeas Corpus** anglais, c’est-à-dire le droit d’être présenté rapidement devant un juge afin de contrôler la régularité de la privation de liberté.
+        
+    - Le juge judiciaire doit intervenir pour autoriser certaines mesures attentatoires (détention provisoire, garde à vue, prolongation de privation de liberté).
+        
+2. **La protection du droit de propriété**
+    
+    - Fondement : **article 17 DDHC (1789)** : « La propriété étant un droit inviolable et sacré, nul ne peut en être privé si ce n’est lorsque la nécessité publique, légalement constatée, l’exige évidemment, et sous la condition d’une juste et préalable indemnité. »
+        
+    - Toute atteinte grave à la propriété (expropriation, dépossession arbitraire) relève du juge judiciaire.
+        
+
+---
+
+## C. Illustrations jurisprudentielles
+
+- **CC, 12 janvier 1977, Fouille de véhicules**  
+    Le Conseil constitutionnel censure une loi qui permettait aux forces de l’ordre d’effectuer des fouilles de véhicules sans contrôle judiciaire.  
+    → La liberté individuelle est érigée en principe fondamental : toute atteinte à la liberté physique ou au domicile doit être contrôlée par le juge judiciaire.
+    
+- **TC, 9 juin 1986, n°4, « Liberté d’aller et venir »**  
+    Le Tribunal des conflits décide que la liberté d’aller et venir, bien que fondamentale, **ne relève pas de l’article 66 de la Constitution** (elle n’est donc pas rattachée au bloc de compétence judiciaire), mais de la DDHC de 1789.  
+    → Cela signifie que la liberté d’aller et venir relève du juge administratif, sauf privation de liberté stricte (détention).
+    
+- **CE, 8 avril 1987, Ministre de l’Intérieur c/ Pelletier**  
+    Le Conseil d’État confirme que la liberté d’aller et venir est une liberté fondamentale protégée par la DDHC, mais son contrôle reste dans le champ du juge administratif.
+    
+- **Rapport CE, 1991**  
+    Le Conseil d’État précise que si l’autorité judiciaire est gardienne de la liberté individuelle (au sens de l’article 66), cela n’implique pas que toutes les mesures de sécurité (comme les interceptions téléphoniques administratives) doivent être placées sous son contrôle.
+    
+-  **CC, déc. n° 98-405 DC, 29 déc. 1998, Loi de finances 1999** :  
+	Le Conseil constitutionnel distingue la **liberté individuelle** (art. 66 C° → juge judiciaire) de la **vie privée** (DDHC art. 2 → juge administratif).  
+	⚖️ Confirmation de la position du Conseil d’État : la vie privée est une liberté fondamentale mais ne relève pas du bloc de compétence judiciaire.
+			La jurisprudence (notamment **CC, 29 déc. 1998, n° 98-405 DC**) illustre une **lecture littérale et non extensible** de l’article 66 de la Constitution :
+			- La compétence du **juge judiciaire** est limitée strictement à la **liberté individuelle** = protection contre l’arrestation et la détention arbitraire.
+			- Elle ne s’étend pas aux **autres libertés fondamentales** (vie privée, liberté d’aller et venir, liberté d’expression…), qui relèvent du **juge administratif**.
+
+Définiton plus étroite d ela liberté individuelle en se référrant à l'article 66 que dans le domaine des privation de liberté garde a vue rentention & hospitalisation sans consentement
+
+Emprise irrégulière prise de possession de l'administration d'un bien immobilier privé 
+
+
+MME PANIZO JURISPRUDENCE EMPRISE
+INjocntion à l''administration une situation d'emprise irrégulière
+
+Domaine public, domaine privé
