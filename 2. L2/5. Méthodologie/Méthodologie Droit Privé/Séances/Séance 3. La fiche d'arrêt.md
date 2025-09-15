@@ -1,0 +1,1 @@
+L'arrêt présenté, à été rendu le 28 juin 2024 par la Cour de Cassation en assemblée plénière. Cette arrêt 

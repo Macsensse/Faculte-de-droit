@@ -44,7 +44,7 @@ Conseil d'Etat 16 avril 2010 Alcady simultanément chargé par la C
 1. Le Conseil d’État  
     
 
-Origine : Créer en 1799, par l’article 52 de la constitution de l’an VIII, par Bonaparte, « sous la direction des consuls un Conseil d’état est charge de rédiger les projets de lois et les règlements d’administration public et de résoudre les difficultés qui s’élève en manière administratif » = rôle contentieux et consultatif. 
+Origine : Créé en 1799, par l’article 52 de la constitution de l’an VIII, par Bonaparte, « sous la direction des consuls un Conseil d’état est charge de rédiger les projets de lois et les règlements d’administration public et de résoudre les difficultés qui s’élève en manière administratif » = rôle contentieux et consultatif. 
 
 Le Conseil d’État, est situé à Paris, au palais royal 
 
