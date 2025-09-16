@@ -1,5 +1,4 @@
-
-
+#séance3 
 ### **Fiche d'arrêt – Cour de cassation, Assemblée plénière, 28 juin 2024, n° 22-84.760**
 
 L'arrêt présenté, à été **rendu le 28 juin 2024** par la Cour de Cassation en Assemblée plénière et publié au bulletin. Cet arrêt aborde la responsabilité civil des parents divorcés en fonction du logement du mineur.
@@ -22,19 +21,17 @@ La Cour de cassation **casse et annule** l'arrêt de la cour d'appel. Elle **
 La Cour opère un **revirement de jurisprudence**. Elle abandonne sa solution antérieure (qui datait de plus de 20 ans) pour plusieurs raisons :
 
  **Inadaptation** de l'ancienne jurisprudence (liant la responsabilité à la fixation judiciaire de la résidence) face à la diversification des modes de garde (garde alternée, conventions parentales sans juge).
-- **Critiques doctrinales** persistantes et **divergences** des juridictions du fond qui appliquaient déjà des solutions différentes.
+**Critiques doctrinales** persistantes et **divergences** des juridictions du fond qui appliquaient déjà des solutions différentes.
 
-- **Incohérence** avec l'**objectivation** de la responsabilité parentale, conçue comme un mécanisme d'indemnisation des victimes qui ne devrait pas dépendre des aléas de l'organisation familiale.
+**Incohérence** avec l'**objectivation** de la responsabilité parentale, conçue comme un mécanisme d'indemnisation des victimes qui ne devrait pas dépendre des aléas de l'organisation familiale.
 
-- **Incompatibilité** avec l'objectif de promotion de la **coparentalité** (principe issu de la loi du 4 mars 2002 et reflété par l'article 18-1 de la Convention internationale des droits de l'enfant), qui implique une communauté de droits et de devoirs entre les parents, y compris la responsabilité.
+**Incompatibilité** avec l'objectif de promotion de la **coparentalité** (principe issu de la loi du 4 mars 2002 et reflété par l'article 18-1 de la Convention internationale des droits de l'enfant), qui implique une communauté de droits et de devoirs entre les parents, y compris la responsabilité.
 
-- La Cour donne une **nouvelle interprétation** de la notion de "cohabitation" de l'article 1242, al. 4 : elle est désormais la **conséquence de l'exercice conjoint de l'autorité parentale**. Ainsi, les deux parents sont réputés cohabiter avec l'enfant tant que celui-ci n'a pas été **confié à un tiers** par une décision administrative ou judiciaire.
+La Cour donne une **nouvelle interprétation** de la notion de "cohabitation" de l'article 1242, al. 4 : elle est désormais la **conséquence de l'exercice conjoint de l'autorité parentale**. Ainsi, les deux parents sont réputés cohabiter avec l'enfant tant que celui-ci n'a pas été **confié à un tiers** par une décision administrative ou judiciaire.
 
 **Apport de l'arrêt :**  
-Cet arrêt de l'Assemblée plénière est **fondamental** et constitue un **revirement de jurisprudence majeur**. Son apport est triple :
+Cet arrêt de l'Assemblée plénière est **fondamental** et constitue un **revirement de jurisprudence majeur**. Son apport est double :
 
  **Pour le droit de la responsabilité :** Il renforce le caractère objectif de la responsabilité parentale en la détachant d'un critère factuel et incertain (la résidence) pour la lier à un critère juridique stable (l'exercice de l'autorité parentale), garantissant une meilleure indemnisation des victimes.
 
 **Pour le droit de la famille :** Il consacre juridiquement le principe de coparentalité en en tirant toutes les conséquences, notamment financières, après la séparation des parents. Il aligne la responsabilité civile sur les autres attributs de l'autorité parentale qui, elle, reste exercée en commun.
-
-**Sur le plan méthodologique :** La Cour expose de manière transparente et détaillée les raisons qui justifient son revirement (critiques, inadaptation, évolution des mœurs et du droit), offrant un modèle de motivation.
