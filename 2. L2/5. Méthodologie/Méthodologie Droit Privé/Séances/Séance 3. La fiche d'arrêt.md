@@ -15,7 +15,7 @@ Un mineur, [E] [L], a commis un fait dommageable. Ses parents sont divorcés. Un
 **Problème de droit :**  
 En cas de divorce et d'exercice conjoint de l'autorité parentale, **la responsabilité de plein droit des parents du fait de leur enfant mineur, prévue par l'article 1242, alinéa 4 du code civil, incombe-t-elle uniquement au parent chez lequel la résidence habituelle de l'enfant a été fixée, ou aux deux parents** ?
 
-**Solution (Dispositif) :**  
+**Solution :**  
 La Cour de cassation **casse et annule** l'arrêt de la cour d'appel. Elle **rejette** la solution qui limitait la responsabilité au seul parent chez lequel la résidence est fixée. Elle juge que **les deux parents exerçant conjointement l'autorité parentale sont solidairement responsables** de plein droit du dommage causé par leur enfant.
 
 **Motivation :**  
