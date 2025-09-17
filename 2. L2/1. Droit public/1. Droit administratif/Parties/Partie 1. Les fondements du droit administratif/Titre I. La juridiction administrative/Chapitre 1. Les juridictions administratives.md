@@ -190,6 +190,7 @@ Il est affirmé que la sauvegarde de la liberté individuelle et la protection d
 
 ### B. Les libertés protégées par le juge judiciaire
 1. **La liberté individuelle (au sens de l’article 66 C°)**
+
     - Elle se limite à la protection contre l’arrestation et la détention arbitraire.
         
     - Elle est inspirée de l’**Habeas Corpus** anglais, c’est-à-dire le droit d’être présenté rapidement devant un juge afin de contrôler la régularité de la privation de liberté.
@@ -200,6 +201,9 @@ Il est affirmé que la sauvegarde de la liberté individuelle et la protection d
     - Fondement : **article 17 DDHC (1789)** : « La propriété étant un droit inviolable et sacré, nul ne peut en être privé si ce n’est lorsque la nécessité publique, légalement constatée, l’exige évidemment, et sous la condition d’une juste et préalable indemnité. »
         
     - Toute atteinte grave à la propriété (expropriation, dépossession arbitraire) relève du juge judiciaire.
+
+[Conseil constit 12/01/77](https://www.conseil-constitutionnel.fr/decision/1977/7675DC.htm) : Liberté du domicile : Conseil constit va censurer sur fondement de la liberté individuelle érigé au rang de [PRLFR](https://www.dalloz.fr/documentation/Document?id=DZ%2FOASIS%2F001679) qui confie la garde de l'autorité judiciaire , veille a ce que la loi n'organise pas des perquisitions de domicile / fouille de véhicule sans droit de regard de l'autorité judiciaire.
+
 ## C. Illustrations jurisprudentielles
 - **CC, 12 janvier 1977, Fouille de véhicules**  
     Le Conseil constitutionnel censure une loi qui permettait aux forces de l’ordre d’effectuer des fouilles de véhicules sans contrôle judiciaire.  
@@ -222,11 +226,47 @@ Il est affirmé que la sauvegarde de la liberté individuelle et la protection d
 			- La compétence du **juge judiciaire** est limitée strictement à la **liberté individuelle** = protection contre l’arrestation et la détention arbitraire.
 			- Elle ne s’étend pas aux **autres libertés fondamentales** (vie privée, liberté d’aller et venir, liberté d’expression…), qui relèvent du **juge administratif**.
 
-Définiton plus étroite d ela liberté individuelle en se référrant à l'article 66 que dans le domaine des privation de liberté garde a vue rentention & hospitalisation sans consentement
+[Conseil constit 2/03/04 ](https://www.conseil-constitutionnel.fr/decision/2004/2004492DC.htm) : lois portant sur l'adaptation de la justice aux évolutions de la criminalité jurisprudence inviolabilité résidence privée  
+Définiton plus étroite de la liberté individuelle en se référant à l'article 66 que dans le domaine des privation de liberté garde a vue rétention & hospitalisation sans consentement.
 
-Emprise irrégulière prise de possession de l'administration d'un bien immobilier privé 
+[Tribunal des Conflits 8/04/1935 Action française](https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/les-grandes-decisions-depuis-1873/tribunal-des-conflits-8-avril-1935-action-francaise) dégage la notion de voix de fait 
 
-MME PANIZO JURISPRUDENCE EMPRISE
-INjocntion à l''administration une situation d'emprise irrégulière
+[TC 17/06/13 Bergoend contre ERDF](https://www.conseil-etat.fr/decisions-de-justice/jurisprudence/les-grandes-decisions-depuis-1873/tribunal-des-conflits-17-juin-2013-m.-bergoend-c-societe-erdf-annecy-leman)  M. Bergoend a acquis en 1990 une parcelle sur laquelle Electricité de France avait implanté un poteau en 1983, sans se conformer à une procédure prévue par un décret, ni conclure une convention avec lui. Après que les juridictions judiciaires du fond se sont déclarées incompétentes pour connaitre de cette affaire, la Cour de cassation a renvoyé au Tribunal des conflits le soin de répondre à la question de compétence soulevée.
+
+## Le sens et la portée de la décision
+
+Le Tribunal des conflits a redéfini la notion de voie de fait en abandonnant la jurisprudence née de sa décision Action française du 8 avril 1935. En vertu de la jurisprudence précédente, existait une voie de fait, justifiant la compétence du juge judiciaire, en cas d'atteinte grave à une liberté fondamentale ou à la propriété privée provoquée soit par une décision administrative manifestement insusceptible de se rattacher à un pouvoir de l'administration, soit par l'exécution forcée d'une décision, même légale, lorsque l'administration n'avait manifestement pas le pouvoir d'y procéder.
+
+Désormais, il n’y a voie de fait de la part de l’administration que dans deux hypothèses : lorsqu’elle a procédé à l’exécution forcée, dans des conditions irrégulières, d’une décision même régulière, portant atteinte à la liberté individuelle ou aboutissant à l’extinction d’un droit de propriété ; et lorsqu’elle a pris une décision qui a les mêmes effets d’atteinte à la liberté individuelle ou d’extinction d’un droit de propriété et qui est manifestement insusceptible d’être rattachée à un pouvoir appartenant à l’autorité administrative.
+
+Pour chacun de ces deux aspects, le champ de la voie de fait a été sensiblement réduit. Seuls ces cas justifient, par exception au principe de séparation des autorités administratives et judiciaires, la compétence des juridictions de l’ordre judiciaire pour ordonner la cessation ou la réparation des atteintes subies.
+
+**B) atteinte droit de propriété** 
+
+voix de fait , autre théorie qui porte exclusivement sur droit de propriété : Emprise irrégulière prise de possession de l'administration d'un bien immobilier privé sans titre ou vertu d'un titre illégale ( ART 17 DDHC) limite expropriation 
+
+situation emprise < voix de fait 
+car il s'agit d'une atteinte réversible ( on peut rendre la maison )
+
+[MME PANIZO JURISPRUDENCE EMPRISE IRRÉGULIÈRE](https://www.legifrance.gouv.fr/juri/id/JURITEXT000028677873) 
+Compétence juge administratif pour réparer conséquences dommageable d'emprise irrégulière.
+Injonction à l''administration une situation d'emprise irrégulière
 
 Domaine public, domaine privé
+
+**C) atteinte relevant activité privée**
+
+Le juge judiciaire à la compétence de l'activité privée même si l'administration est présente pour cette activité : SPIC 
+Contentieux SPIC sont compétences judiciaire se rapproche entreprise pv 
+Contentieux relatif aux bien du domaine privée des personnes publics
+
+**D)** **Bite** 
+
+[Loi peut donner compétence juge judiciaire 5/04/37](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000317023) : contentieux dommages causés enseignants  
+
+[Loi 31/12/57](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000310046#:~:text=les%20actions%20...-,Loi%20n%C2%B0%2057%2D1424%20du%2031%20d%C3%A9cembre%201957%20attribuant,de%20droit%20public%20(1).) : relative au dommages causés par véhicule de l'administration attribuant compétence aux tribunaux judiciaires pour statuer sur les actions en responsabilité des dommages causés par tout véhicule et dirigés contre une personne de droit public.
+
+[Loi 31/12/91](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000173965) : relative au préjudice lié au transfert sanguin. Porte sur l'obligation de l'employeur à évaluer (identifier et classer) les risques pour la santé et la sécurité des travailleurs. Suite à cette évaluation, l'employeur doit mettre en place des actions de prévention adaptées visant à réduire les risques identifiés.
+
+[Loi 9/09/86](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693912/) relative au préjudice liés aux dommages crées par le terrorisme. La loi proposée par le ministre de l'Intérieur Charles Pasqua sur les conditions d'entrée et de séjour des étrangers est votée. En 1986, la droite obtient la majorité aux élections législatives obligeant François Mitterrand à cohabiter avec un gouvernement de l'opposition.
+
