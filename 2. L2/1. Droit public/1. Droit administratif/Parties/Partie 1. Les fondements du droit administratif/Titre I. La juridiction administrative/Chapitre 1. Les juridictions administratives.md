@@ -156,33 +156,28 @@ Ainsi, la jurisprudence et la doctrine (notamment **le GAJA**) distinguent deux 
 - **SPA** : Services Publics Administratifs
     
 - **SPIC** : Services Publics Industriels et Commerciaux
-    
 
 Par exception, il existe une compétence judiciaire en matière administrative, notamment lorsque l’activité administrative touche à certaines garanties constitutionnelles.  
 → Exemple : **CC, 23 janvier 1987, Conseil de la concurrence**, qui reconnaît la compétence du juge judiciaire même lorsqu’une autorité administrative exerce des prérogatives de puissance publique, soit :
-
 - par nature (matières réservées à l’autorité judiciaire),
-    
+
 - soit parce qu’une loi l’a expressément prévu dans l’intérêt d’une bonne administration de la justice.
 :
 ---
 
-# I. Les blocs de compétence judiciaire en matière administrative
+## I. Les blocs de compétence judiciaire en matière administrative
 
 La compétence du juge administratif est le principe en droit français. Toutefois, par exception, certaines matières relèvent du juge judiciaire, même si elles concernent l’action administrative. Ces exceptions sont appelées **« blocs de compétence »**.  
 Elles trouvent leur fondement dans la Constitution et la Déclaration des droits de l’homme et du citoyen (DDHC).
 
 Deux grands blocs se dégagent :
-
 1. La sauvegarde de la liberté individuelle.
     
 2. La protection du droit de propriété.
-    
 
 ---
 
-## A. Le fondement constitutionnel : l’autorité judiciaire gardienne de la liberté individuelle
-
+### A. Le fondement constitutionnel : l’autorité judiciaire gardienne de la liberté individuelle
 L’article **66 de la Constitution de 1958** dispose que :
 
 > « Nul ne peut être arbitrairement détenu. – L’autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi. »
@@ -193,12 +188,8 @@ Autrement dit, même lorsqu’une autorité administrative est impliquée, seul 
 ⚖️ **Tribunal des conflits, 18 décembre 1947, Hilaire** :  
 Il est affirmé que la sauvegarde de la liberté individuelle et la protection de la propriété privée relèvent « essentiellement » de la compétence de l’autorité judiciaire.
 
----
-
-## B. Les libertés protégées par le juge judiciaire
-
+### B. Les libertés protégées par le juge judiciaire
 1. **La liberté individuelle (au sens de l’article 66 C°)**
-    
     - Elle se limite à la protection contre l’arrestation et la détention arbitraire.
         
     - Elle est inspirée de l’**Habeas Corpus** anglais, c’est-à-dire le droit d’être présenté rapidement devant un juge afin de contrôler la régularité de la privation de liberté.
@@ -206,16 +197,10 @@ Il est affirmé que la sauvegarde de la liberté individuelle et la protection d
     - Le juge judiciaire doit intervenir pour autoriser certaines mesures attentatoires (détention provisoire, garde à vue, prolongation de privation de liberté).
         
 2. **La protection du droit de propriété**
-    
     - Fondement : **article 17 DDHC (1789)** : « La propriété étant un droit inviolable et sacré, nul ne peut en être privé si ce n’est lorsque la nécessité publique, légalement constatée, l’exige évidemment, et sous la condition d’une juste et préalable indemnité. »
         
     - Toute atteinte grave à la propriété (expropriation, dépossession arbitraire) relève du juge judiciaire.
-        
-
----
-
 ## C. Illustrations jurisprudentielles
-
 - **CC, 12 janvier 1977, Fouille de véhicules**  
     Le Conseil constitutionnel censure une loi qui permettait aux forces de l’ordre d’effectuer des fouilles de véhicules sans contrôle judiciaire.  
     → La liberté individuelle est érigée en principe fondamental : toute atteinte à la liberté physique ou au domicile doit être contrôlée par le juge judiciaire.
@@ -240,7 +225,6 @@ Il est affirmé que la sauvegarde de la liberté individuelle et la protection d
 Définiton plus étroite d ela liberté individuelle en se référrant à l'article 66 que dans le domaine des privation de liberté garde a vue rentention & hospitalisation sans consentement
 
 Emprise irrégulière prise de possession de l'administration d'un bien immobilier privé 
-
 
 MME PANIZO JURISPRUDENCE EMPRISE
 INjocntion à l''administration une situation d'emprise irrégulière
