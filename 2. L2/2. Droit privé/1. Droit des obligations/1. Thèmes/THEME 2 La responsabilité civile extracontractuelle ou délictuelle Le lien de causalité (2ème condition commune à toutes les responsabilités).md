@@ -5,7 +5,7 @@ En matière de responsabilité civile extracontractuelle, l’examen de la causa
 # I. Les caractères du lien de causalité
 Le lien de causalité à deux caractères, il doit être direct mais aussi il doit être certain
 ## A. Le caractère direct du lien de causalité
-En jurisprudence lorsque on parle du caractère directe du lien de causalité, cela signifie que seul est source de résponsabilité le fait dommageable qui est la cause direct du dommage, dés lors pour déterminer les faits qui sont en lien direct avec le dommage ce sont principalement deux théories qui sont appliqués par les juges. 
+En jurisprudence lorsque on parle du caractère directe du lien de causalité, cela signifie que seul est source de responsabilité le fait dommageable qui est la cause direct du dommage, dés lors pour déterminer les faits qui sont en lien direct avec le dommage ce sont principalement deux théories qui sont appliqués par les juges. 
 
 - **la cause la plus proche**, cette théorie la a été écarté parceque on retenanait le dommage le plus proche mais pas le plus déterminant, 
 - **la cause efficiante** masi écartait toutes les autres causes.
@@ -61,3 +61,39 @@ viv 2 19 09 2024 23-10.668
 ### 2. incidence du fait de la victime
 
 ### 3. incidence du fait d’un tiers
+
+**I) élément objectif de la faute 
+
+Dalloz 2025 p 405 auteur N. Bonnardel titre : l'intérêt supérieur de l'enfant en doit de la responsabilité civile , une considération en devenir ?
+
+Il existe une manière de dicter comment doit le comportement , selon Kant le comportement non fautif : << Agis de tel sorte que ton comportement puisse être érigé en règle universelle >> 
+
+Responsabilité civile extra contractuelle du fait personnel codifié en 1804 art 1282 et 1283. Aujourd'hui càd depuis la réforme du contrat par ordonnance du 10/02/16 et applicable dès octobre 2016. Ces 2 articles devant 1240 et 1241 du Code civil. Le fait personnel / faute était au départ le seul fondement de responsabilité civile . Par ailleurs c'est le fondement de droit commun càd dès lors qu'il n y a pas de règles spéciale on peut se servir de ce fondement par ailleurs même si c'est le 1 er fondement de droit commun il fait partie des faits générateurs responsabilités à côté du fait des choses / autrui 
+
+En effet , lecture alinéa 1 er art 1242 . On trouve en substance que à côté de la faute on peut être responsable pour le fait des choses et fait d'autrui. Différence fait d'autrui c'est l'auteur de la faute qui indemnise. En effet quand on parle du fait d'autruit on distingue l'auteur d un fait et celui qui indemnise le fait qui engage la responsabilité partiel être fautif ou pas .
+
+Charge de la preuve+ importante et + difficile. Preuve reconnaissance constitutionnelle en efffet fondé sur [art 4 DDHC ](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527429). Il en découle donc que nul a le droit de nuir a autrui cela engage donc sa responsabilité en cas de faute , notion juridique de faute personnelle défini par le législateur art 1240 envisage faute volontaire alors que 1241 vise la faute involontaire càd la faute d'imprudence ou de négligence.
+
+Dèf faute : auteure doctrine Planiol << la faute se défini comme étant le manquement à une obligation pré existante >> 
+
+Le flou de cette définition est volontaire en effet on veux pouvoir l'adapter a un max de situation , dèf rattacher à celle de la << personnalité raisonnable >> S'agissant de personnes fautives : personnes physiques / morales . Pour personnes physique tenir compte discernement marqueur pour savoir si fautif ou non question imputabilité de la faute càd la capacité de la personne a comprendre la portée de ses actes , notion distingué de de l'imputation qui elle vise le lien établie entre le fait et son auteur , identifié l'auteur. 
+
+Ici la victime doit établir que l'auteur a eu un comportement ou une attitude contraire à une faute . Par ailleurs faute elle même pourra être neutraliser par un fait justificatif qui enlèvera caractère fautif à l'acte empêchant ainsi l'engagement de la responsabilité .
+
+**A)**
+
+Acte positif d'une abstention, dans un cas comme dans l'autre pas nécessaire que responsable est eu intention de nuire à la victime , faute simple engage la responsabilité . 
+
+Acte positif du responsable qui méconnais règle de conduite imposée par une obligation préalable. L'obligation méconnue peut être d'origine légale , obligation trouve donc sa source dans la loi  obligation peut être aussi d'origine coutumière ----> sport violent pas de règlement officiel. 
+Méconnaissance règle de conduite source contractuelle : 3 / 08 / 24 numéro 05-13-254
+
+Patrice Jourdain : << La société juge les actes et non les hommes >> 
+
+[27/02/51 auteur d'un journal qui ne cite pas E. Branly si faute d'abstention volontaire](https://aideauxtd.com/larret-branly-du-27-fevrier-1951/)  art 1241 C. civile. 
+
+Les conditions de la responsabilité : Le demandeur auteur de la faute peut demander l'éxonération totale ou partiel. Fait du tiers , faute de la victime , le cas de force majeur , légitime défence , état de nécessité, ordre de l'autorité légitime . Préjudice matériel / morale mais pas en cas de préjudice corporel 
+
+**II ) L'abandon subjectif de la faut ( asynchrone )**
+
+
+
