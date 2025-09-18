@@ -95,5 +95,63 @@ Les conditions de la responsabilité : Le demandeur auteur de la faute peut dema
 
 **II ) L'abandon subjectif de la faut ( asynchrone )**
 
+L'élément subjectif désigne les **prérogatives individuelles** que le droit objectif reconnaît et protège au profit des **sujets de droit** (personnes physiques ou morales). Il s'oppose au droit objectif, qui constitue l'ensemble des règles juridiques générales et impersonnelles régissant la société.
+
+#### Caractéristiques principales :
+
+**Prérogatives personnelles** : Les droits subjectifs sont attachés à une personne spécifique (exemple : droit de propriété, droit au respect de la vie privée).
+
+**Reconnaissance par le droit objectif** : Ils n'existent que parce que le droit objectif les consacre (exemple : l'article 544 du Code civil garantit le droit de propriété).
+
+ **Dualité droits patrimoniaux et extra-patrimoniaux** :
+
+ Les droits patrimoniaux  incluent les droits réels (ex : propriété) et les droits personnels (créances).  
+ Les droits extra-patrimoniaux (liés à la personne humaine, comme les droits fondamentaux) sont indisponibles et insaisissables.  
+#### Fondement juridique :
+
+Le Conseil constitutionnel français, dans sa jurisprudence, protège les droits subjectifs en les intégrant au **bloc de constitutionnalité**. Par exemple, il s'appuie sur la Déclaration des droits de l'homme de 1789 et le Préambule de la Constitution de 1946 pour censurer les lois portant atteinte aux libertés individuelles. Une illustration récente est la décision n° 2025-891 DC du [7 août 2025]([Décision n° 2025-891 DC du 7 août 2025 | Conseil constitutionnel](https://www.conseil-constitutionnel.fr/decision/2025/2025891DC.htm)) , où le Conseil a invalidé des dispositions législatives contraires à la Charte de l'environnement, affirmant ainsi la protection des droits subjectifs à un environnement sain.
+
+#### Sources juridiques :
+
+-**Code civil** : Article 544 (droit de propriété), Article 9 (vie privée).
+
+-**Conseil constitutionnel** : Décisions QPC (Question Prioritaire de Constitutionnalité) depuis 2010, permettant aux justiciables de contester la constitutionnalité d'une loi portant atteinte à leurs droits subjectifs.
+
+-L'élément subjectif est donc central dans la protection des individus contre l'arbitraire, et son invocation devant les juges constitutionnels ou ordinaires en garantit l'effectivité.
+
+### Distinction entre l'imputation et l'imputabilité en droit
+
+**Imputabilité** :  
+L'imputabilité désigne la capacité d'une personne à être tenue pour responsable d'un fait ou d'un dommage. Elle suppose que l'individu possède la conscience et la volonté nécessaires pour comprendre les conséquences de ses actes. . Elle est souvent liée à des conditions psychologiques ou morales, comme la distinction entre le bien et le mal .
+
+**Imputation** :  
+L'imputation est l'opération juridique consistant à attribuer un fait ou un dommage à une personne spécifique. Elle relève d'un processus technique et normatif, où le droit désigne le responsable sans nécessairement exiger une évaluation de sa capacité cognitive ou morale. 
 
 
+Les arrêts **Derguini** et **Lemaire** (Ass. plén., 9 mai 1984) sont  une rupture majeure en droit de la responsabilité civile en affirmant qu’« une faute civile n’exige pas la capacité de discernement de son auteur ».
+
+Dans **Derguini**, une enfant de 5 ans ayant traversé imprudemment la route a été jugée fautive ; dans **Lemaire**, un adolescent de 13 ans électrocuté en manipulant une installation défectueuse a vu sa faute retenue. Dans les deux cas, la Cour a écarté l’exigence traditionnelle de discernement.
+
+La faute devient ainsi **objective**, appréciée par référence au comportement d’une personne raisonnable, indépendamment de la conscience de l’auteur. La responsabilité civile se distingue alors nettement de la responsabilité pénale, où le discernement reste nécessaire.
+
+Cette évolution facilite le partage de responsabilité et l’indemnisation des victimes, mais elle suscite des critiques : certains estiment injuste d’appliquer le même standard à de très jeunes enfants. Malgré ces réserves, ces arrêts, complétés par **Fullenwarth**, constituent un tournant confirmé depuis par la jurisprudence, et restent essentiels pour comprendre l’autonomie de la responsabilité civile.
+
+### Résumé de l'article : « L'intérêt supérieur de l'enfant en droit de la responsabilité civile : une considération en devenir ? » par Nicolas Bonnardel
+
+L'article de Nicolas Bonnardel, publié au _Recueil Dalloz_ en 2025 (p. 405), explore la place de **l'intérêt supérieur de l'enfant** dans le droit de la responsabilité civile française. Alors que ce principe est bien établi en droit familial et pénal, son rôle en matière de responsabilité civile reste ambigu et en évolution. Bonnardel analyse si ce principe, pourtant consacré par la Convention internationale des droits de l'enfant (CIDE), influence véritablement les règles civiles de responsabilité, notamment dans le contexte des réformes jurisprudentielles récentes .
+
+**La notion d'intérêt supérieur de l'enfant** :  
+
+Un **droit substantiel** exigeant que l'enfant soit une considération primordiale.
+
+ Un **principe interprétatif** guidant l'application des textes juridiques.
+ 
+-Une **règle procédurale** assurant une représentation adéquate et une célérité des décisions .  
+Cependant, en droit civil, son application reste souvent indirecte et fragmentée.
+
+ **Responsabilité parentale et évolutions jurisprudentielles** :  
+
+N. Bonnardel examine le **revirement de jurisprudence de juin 2024** (Assemblée plénière de la Cour de cassation), qui étend la responsabilité solidaire des parents séparés pour les dommages causés par leur enfant mineur, même si l'enfant ne réside pas habituellement chez les deux parents. 
+Cette évolution, qui dépasse la condition traditionnelle de **cohabitation** (art. 1242 al. 4 du Code civil), s'aligne sur le principe de **coparentalité** et l'intérêt supérieur de l'enfant, en favorisant une indemnisation plus juste des victimes et en évitant la déresponsabilisation d'un parent
+N. Bonnardel défend l'idée que l'intérêt supérieur de l'enfant est **une considération en devenir** en droit de la responsabilité civile. 
+Les évolutions récentes, comme le revirement de 2024, montrent une volonté de l'ajouter aux objectifs traditionnels d'indemnisation et de répartition des risques. Cependant, pour éviter une application purement formelle, il appelle à une **réflexion approfondie** sur les modalités concrètes de sa mise en œuvre, incluant une possible réforme législative pour clarifier son rôle.
