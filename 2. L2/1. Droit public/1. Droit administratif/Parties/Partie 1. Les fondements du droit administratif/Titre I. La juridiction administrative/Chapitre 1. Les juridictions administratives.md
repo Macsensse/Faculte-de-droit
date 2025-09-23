@@ -260,7 +260,7 @@ Le juge judiciaire à la compétence de l'activité privée même si l'administr
 Contentieux SPIC sont compétences judiciaire se rapproche entreprise pv 
 Contentieux relatif aux bien du domaine privée des personnes publics
 
-**D)** **Bite** 
+**D)**  
 
 [Loi peut donner compétence juge judiciaire 5/04/37](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000317023) : contentieux dommages causés enseignants  
 
