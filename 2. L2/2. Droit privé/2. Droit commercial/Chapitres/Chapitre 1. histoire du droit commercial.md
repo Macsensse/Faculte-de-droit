@@ -171,3 +171,388 @@ Ceux qui reprennent les décrets simples sont précédés de la lettre **D**.
 Ont été abrogés les textes devenus inutiles, comme les mesures transitoires, et les dispositions faisant double emploi avec un texte de loi.
 
 La partie « Arrêtés » du Code de commerce a été l’œuvre de l’arrêté du 14 janvier 2009.
+
+1. La période après 1958 
+    
+
+À partir de 1958, le droit des affaires évolue dans un contexte de mondialisation et d’économie libérale. 
+
+1. L’internationalisation du droit des affaires 
+    
+
+Le commerce français s’ouvre au monde, et le droit international influence de plus en plus le droit français des affaires = internationalisation, par exemple : 
+
+- Accords internationaux : La France signe des accords comme le GATT (accord sur tarifs douaniers) puis participe à l’OMC (Organisation mondiale du commerce). 
+    
+
+- Sociétés internationales : Les grands groupes multinationaux jouent un rôle dans l’économie française. 
+    
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAl8AAAAFCAYAAAB7NYmlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAjSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAAAAADg1QAvcQABeUD+zAAAAABJRU5ErkJggg==) 
+
+2. L’ouverture européenne (phénomène majeur) 
+    
+
+Plus encore que la mondialisation, c’est l’Europe qui influence le droit commercial français. 
+
+La France est État fondateur de la Communauté économique européenne → aujourd’hui l’Union européenne. Le droit européen (traités, règlements, directives) s’impose et modifie le droit français, notamment en droit des affaires. Par exemple : 
+
+- Le droit de la concurrence européen se superpose au droit français 
+    
+
+- Existence d’outils européens : société européenne, marque européenne 
+    
+
+- De nombreuses directives encadrent : 
+    
+
+- le droit des sociétés 
+    
+
+- le droit boursier 
+    
+
+- le droit bancaire et des assurances 
+    
+
+- le droit des transports 
+    
+
+Européanisation, avec une influence massive du droit de l’UE sur le droit français (concurrence, sociétés, consommation…). 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAl8AAAAFCAYAAAB7NYmlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAjSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAAAAADg1QAvcQABeUD+zAAAAABJRU5ErkJggg==) 
+
+3.  Le néolibéralisme 
+    
+
+À partir de 1960, les doctrines néolibérales = ensemble d’idées économiques et politiques qui reposent sur la conviction que le marché libre est le meilleur moyen d’organiser l’économie et la société. 
+
+Ces doctrines cherchent à redonner un rôle central : 
+
+- à l’initiative individuelle, 
+    
+
+- et aux entreprises privées. 
+    
+
+- Elles considèrent que la concurrence est le meilleur régulateur de l’économie. 
+    
+
+⚠️ Mais deux limites importantes : 
+
+- La concurrence doit être protégée par des règles strictes → interdiction des ententes, des abus de domination, et limitation des concentrations d’entreprises. 
+    
+
+- L’État ne disparaît pas → il peut intervenir dans : 
+    
+
+- le social, 
+    
+
+- l’économie, mais de manière souple, en respectant le marché. 
+    
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAl8AAAAFCAYAAAB7NYmlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAjSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAAAAADg1QAvcQABeUD+zAAAAABJRU5ErkJggg==) 
+
+Crises et limites du néolibéralisme : 
+
+- Crise de 2008-2009 : Ne remet pas en cause l’économie de marché, mais met en avant la nécessité d’un encadrement juridique et d’une régulation financière. 
+    
+
+- À partir de 2011 et surtout après le Covid-19 (2020) : Retour massif de l’intervention de l’État pour : 
+    
+
+- soutenir l’économie 
+    
+
+- financer l’hôpital public et la défense 
+    
+
+- relocaliser certaines productions 
+    
+
+- accompagner la transition écologique. 
+    
+
+- Cela entraîne des dépenses énormes et un endettement. Certains parlent d’un passage à un monde post-libéral. 
+    
+
+Ce mouvement touche tous les États européens, pas seulement la France. On observe une contestation croissante de la supériorité du droit de l’UE sur le droit national. De nombreux partis politiques réclament une révision des traités européens. 
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAl8AAAAFCAYAAAB7NYmlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAjSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAAAAADg1QAvcQABeUD+zAAAAABJRU5ErkJggg==) 
+
+4. L’importance des branches voisines du droit des affaires 
+    
+
+Le droit des affaires ne fonctionne pas seul. Il est étroitement lié à d’autres branches qui influencent les décisions et les pratiques des entreprises : 
+
+- le droit fiscal, 
+    
+
+- le droit de la consommation, 
+    
+
+- le droit de l’environnement. 
+    
+
+A) Le droit fiscal 
+
+C’est central pour les entreprises : fiscalité = facteur décisif dans presque tous les choix (forme de société, contrat, financement, investissement). Un juriste d’affaires doit forcément avoir une formation minimale en fiscalité. 
+
+B)Le droit de la consommation 
+
+Importance croissante de la protection du consommateur. Le droit de la consommation déroge au droit civil et au droit commercial. 
+
+Ex : l’article L.211-2 C. consommation impose certaines mentions obligatoires dans les conditions générales de vente = Impact direct sur le droit de la distribution. 
+
+C) Le droit de l’environnement 
+
+Le respect de l’environnement touche toutes les branches du droit et s’impose aussi en droit des affaires. 
+
+La jurisprudence a reconnu la responsabilité civile pour préjudice écologique. 
+
+Le législateur a confirmé cette responsabilité (loi du 8 août 2016) → « Toute personne responsable d’un préjudice écologique est tenue de le réparer ». 
+
+Évolutions législatives importantes : 
+
+- Article L.225-102-1 C. com. : les sociétés anonymes doivent publier une déclaration extra-financière (impact sur climat, développement durable, gaspillage, bien-être animal, etc) 
+    
+
+- Code de l’environnement : l’exploitant d’un site polluant doit remettre en état le site après exploitation. 
+    
+
+- Loi PACTE (2019) : modification de l’article 1833 C. civ. → la société doit désormais prendre en compte les enjeux sociaux et environnementaux. 
+    
+
+Chapitre 2- Les Sources du Droit commercial 
+
+Les sources du droit = institutions qui produisent des règles de droit et leur donnent autorité. 
+
+En droit des affaires, on distingue : 
+
+- Les textes (loi interne, traités, droit européen) 
+    
+
+- Les usages commerciaux 
+    
+
+- La jurisprudence et les autorités 
+    
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAl8AAAAFCAYAAAB7NYmlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAjSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAAAAADg1QAvcQABeUD+zAAAAABJRU5ErkJggg==) 
+
+S1- Les textes 
+
+1. La Constitution 
+    
+
+La Constitution = sommet de la hiérarchie des normes. Peu de règles directes en droit des affaires, mais : 
+
+- Article 34 : inclut les principes du droit des obligations civiles et commerciales. 
+    
+
+- DDHC (art. 1 et 2) intégrée dans la Constitution → fonde la liberté d’entreprendre 
+    
+
+Depuis la création des QPC (questions prioritaires de constitutionnalité), le droit des affaires fait plus souvent l’objet de contrôle constitutionnel. 
+
+2- La loi au sens formel (lois votées par le Parlement) 
+
+Regroupées dans le Code de commerce (valeur de loi ordinaire). En théorie, l’art. 34 de la Constitution limite la loi aux « principes fondamentaux des obligations commerciales ». 
+
+En pratique, les lois sont très nombreuses, détaillées et instables, souvent mal rédigées. Le Parlement délègue de plus en plus au gouvernement via les ordonnances. 
+
+Le Code de commerce : 
+
+Code de 1807 (un des 5 grands codes napoléoniens) → rapidement devenu vieux, vidé de son contenu (moins de 150 articles utiles avant son abrogation). 
+
+- Tentative de changement en 1947 → échec 
+    
+
+- Ordonnance du 18 septembre 2000 : crée le nouveau Code de commerce 
+    
+
+Méthode de la codification à droit constant (on regroupe les textes existants sans modifier leur contenu). 
+
+Structure : 9 livres (commerce en général, sociétés, concurrence, difficultés des entreprises, professions réglementées, outre-mer, etc) 
+
+Critiques doctrinales : Code trop volumineux et hétérogène, mélange de textes parfois hors commerce (ex. droit de la concurrence), manque de cohérence sur ce qui doit relever du droit commercial. 
+
+- ❗️Ratifié par la loi du 3 janvier 2003 → valeur de loi ordinaire, plusieurs parties intéressante, partie réglementaire ajoutée en 2007, puis « Arrêtés » en 2009. 
+    
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAl8AAAAFCAYAAAB7NYmlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAjSURBVGhD7cExAQAAAMKg9U/tbwYgAAAAAAAAAAAAAADg1QAvcQABeUD+zAAAAABJRU5ErkJggg==) 
+
+3- Les règlements administratifs (2 catégories) : 
+
+- Règlements autonomes (l’art. 37 de la Constitution) → ex : règles sur le registre du commerce et des sociétés, procédure devant le tribunal de commerce. 
+    
+
+- Règlements d’application → complètent la loi (ex. sociétés, vente du fonds de commerce) 
+    
+
+⚠️ Problème : aucun principe clair pour décider ce qui relève de la loi ou du règlement → dépend souvent des ministères. 
+
+⚠️ Hiérarchie des textes : Constitution → lois → règlements. 
+
+S2- Le caractère européens (L’UE) 
+
+1. Les traités internationaux   
+    
+
+Il existe plusieurs catégories de traités :  
+
+- Traités internationaux qui respectent la diversité du droit national mais qui se donne l’objectif de coordonner, (ex : les traités d’établissement => concluent entre les états d’organiser la mobilité des entreprises à l’international = admettre qu’une entreprise étrangère puisse s’établir à l’international sous différentes conditions). 
+    
+
+- Traités qui visent à dépasser la diversité des systèmes nationaux en prévoyant des règles matérielles, (ex : Traité de Vienne pour la vente de marchandise). 
+    
+
+- Traités qui visent à instituer des organes internationaux et des institutions internationales qui vont secréter du droit international, (ex : Organisation mondiale de la propriété intellectuelle crée par la Convention de Stockholm/ Traités européens). 
+    
+
+B- Le droit de l’UE   
+
+Le droit de l’UE est un droit des affaires => du marché européen. L’influence du droit européen est double sur les droits nationaux => L’UE harmonise et modifie directement le droit français. 
+
+1) Les traités européens   
+
+- Traité du 18 avril 1951 => CECA => mise en place d’un cartel pour coordonner la production européenne en matière de charbon et d’acier.  
+
+- Traité de 1957 => Traité de Rome qui institut une communauté économique européenne.  
+
+- Traité de 1992 => Traité de Maastricht => union économique et monétaire entre les états, (ex : euro)  
+
+- Projet de constitution européenne en 2005 => pour élire un représentant.   
+
+- Traité 1 décembre 2019 => Traité de Lisbonne => institut l’UE. 
+
+2) Les objectifs de l’UE  
+
+Créer un marché intérieur => sans frontière   
+
+4 libertés fondamentales :  
+
+1. Libre circulation des marchandises  
+    
+
+2. Libre circulation des capitaux   
+    
+
+3. Libre circulation des personnes et des entreprises   
+    
+
+4. Libre concurrence => prix fixé par le jeu de la loi de l’offre et de la demande   
+    
+
+5) Les caractères de l’UE   
+
+Le droit de l’UE est un droit qui résulte des traités => droit originaire et aussi dérivé des institutions européennes (c’est-à-dire que l’ensemble des instruments normatifs sont créés par les institutions européennes, directives ou règlements européens). Il est appliqué sur l’ensemble du territoire selon 2 critères :  
+
+- Effet direct = Certaine disposition européenne sont applicables directement au sein des États 
+    
+
+- Supériorité = Le droit européen, prime sur le droit national, ce qui impose au juge national de laisser inappliqué la disposition nationale qui serait contraire au droit européen.   
+    
+
+⚠️ Au sommet de construction normative => Cour européenne qui assure l’unité d’interprétation de l’UE.  
+
+S3- Les usages  
+
+Historiquement la place des usages sociaux est importante, l’usage nait de la pratique des entreprises. Les usages répondent à certaines règles de droit. Les usages s’appliquent dans les relations internationales, il existe des instruments d’harmonisations qui ne sont pas parfait. L’usage est applicable à l’échelle nationale. 
+
+1. La nature de l’usage commercial 
+    
+
+Il existe deux types d’usages :  
+
+- Usage conventionnel = Tire sa force dans la volonté des partis à une opération commerciale => ils ne s’appliquent que parce qu’on présume qu’une partie à une transaction ont souhaité leur application. Il est lié à la volonté des parties partiellement à un contrat non formalisé.   
+    
+
+Ex : Usage en matière forestière risque de parasite dans le bois => l’acheteur doit assumer le risque et de payer le prix, même si le bois n’est pas exploitable   
+
+- Usage de droit = Tire sa force dans une pratique qui a obtenu une telle généralité que l’ensemble du groupe social est convaincu de son autorité. 
+    
+
+Ex : Chambre commerciale le 30/08/2003 => usage en vertu duquel il existe une présomption de solidarité passive entre les codébiteurs d’une dette commerciale, le créancier d’une obligation commerciale peut demander à l’un de ses codébiteurs solidaires le paiement complet de sa créance. 
+
+1. L’autorité des usages 
+    
+
+La partie qui revendique l’application d’un usage doit-elle rapporté la preuve de son existence ? 
+
+- Usage conventionnel= La partie doit prouver les faits par la partie => car c’est un usage de fait.  
+
+- Usage de droit = Assimilé à la loi donc le juge est sensé la connaitre.   
+
+Peut-on écarter l’usage en prouvant qu’on l’ignorer ?  
+
+- Usage conventionnel = Peut être écarté si une des parties montre qu’elle l’ignorait. 
+
+- Usage de droit= Application générale assimilé à la loi, car, nul n’est censé ignorer la loi.   
+
+L’usage peut-il prévaloir contre la loi écrite ?  
+
+- Usage conventionnel= Autorité inférieure à celle de la loi impérative MAIS l’usage conventionnel à une autorité supérieure à la loi supplétive de volonté (=loi à laquelle on peut déroger).   
+
+- Usage de droit= Même valeur qu’une loi impérative mais il a un champ d’application différent, l’usage de droit s’applique malgré l’existence d’une loi impérative sur le fondement de l’application prioritaire de la loi spéciale à celle de la loi générale. Car le spécial déroge aux générales. 
+
+Le nom respect d’un usage par le juge du fond est-il sanctionné par la cassation ?   
+
+- Usage conventionnel= Relève du fait donc son appréciation par le juge souverain.  
+
+- Usage de droit= Lié à la loi donc la Cour de cassation contrôle son application.  
+
+P3- La jurisprudence et ses autorités 
+
+A) La jurisprudence commerciale 
+
+La jurisprudence est un ensemble de décisions concordantes sur un même problème de droit, elle n’est une source de droit que si elle remplit certains caractères : concordance entre les juridictions, la règle jurisprudentielle doit présenter une certaine constance.  
+
+En droit des affaires, la jurisprudence est caractérisée par son lien avec la vie économique, en matière commercial la première instance est le tribunal de commerce, au niveau de l’appel un litige commercial rejoint le circuit judiciaire classique. La jurisprudence commerciale est l’une des plus créatives, elle forge de nouvelles techniques pour répondre aux problématique contemporaines (Ex : arrêt 12 février 2020 chambre commerciale rend un arrêt qui contredit et fait évoluer le droit de la responsabilité civile, pour les litiges de concurrence déloyale, la chambre commerciale admet que la victime de certains actes déloyales peuvent formuler leur demande au regard du caractère lucratif de la faute du responsable) = Désormais, il est possible de calculer le préjudice réparable, au regard de l’auteur de la faute, ce qui permet de sanctionner plus lourdement les auteurs de faute dont l’auteur tire profit.  
+
+B) Les institutions administratives et professionnels  
+
+1. Autorités administrative indépendantes  
+    
+
+En France le pouvoir règlementaire est détenu par le gouvernement, ce pouvoir concerne notamment la vie économique. Ce pouvoir réglementaire peut être délégués a des autorités administratives indépendantes. Ces autorités ont pour fonction de prendre des décisions contre les acteurs économiques, les contrôler, et peuvent émettre des lignes directrices et d’autres instruments normatifs. On trouve parmi ces autorités qui émettent des avis / rapports, le commissariat au plan qui vise à proposer de grandes opérations stratégiques et économiques (aujourd’hui pas très utile).   
+
+2. L’organisation principales 
+    
+
+Les chambres de commerces et de l’industrie existent dans chaque département, ce sont des établissements publics composé de commerçants. Ces chambres commerciales jouent un rôle de formations des chefs d’entreprises. Les syndicats quant a eu sont protégé par la loi du 21 mars 1884 qui repose sur la liberté de fonder un syndicat, a la liberté des salariés. Ces syndicats jouent un rôle normatifs importants, en créant du droit, et en négociant des accords pour les droits des salariés. 
+
+C)La doctrine 
+
+En face de ces nombreuses sources, il revient à la doctrine de faire preuve de réflexion. C’est à partir du milieu du 18 -ème siècle, qu’une doctrine commercialiste a émergé : Jean Marie Barbou. La doctrine contribue à réalisation pratique du droit, toutefois il faut rester prudent car seul une opinion concordance présente l’autorité nécessaire. 
+
+Chapitre 3 - Le domaine du droit commercial 
+
+S1- Droit des affaires et Droit civil 
+
+A) La spécificité du droit des affaires  
+
+La vie des affaires a ses exigences propres qui justifient certaines entaillent au droit commun, on parle ainsi de droit commercial a la place de droit civil. Premièrement, la vie des affaires exige une certaine rapidité dans les échanges économique. Le droit commercial s’est senti obligé d’appliquer un service rapide, le code de commerce prévoit une certaine dérogation en termes de preuve des actes juridiques (Article L110-3). Cet article déroge ainsi au principe inscrit dans le code civil, à l’égard des commerçants la preuve des actes de commerce est libre = il est possible de prouver un acte par tout moyen. 
+
+Exigence de sécurité, car certaines opérations sont complexes et la recherche de sécurité est légitime pour les agents économiques. Par exemple, l’usage de droit en vertu duquel deux commerçants s’engagent solidairement dans une opération. Ou bien encore, la clause de réserve de propriété, en vertu de laquelle le vendeur reste propriétaire de la chose vendu tant que le prix n’aura pas été totalement payé.  
+
+Exigence de technicité, mécanismes qui nécessitent l’intervention des juristes et de la jurisprudence commerciale. La pratique ne cesse de créer des contrats qui ont une valeur obligatoire. Par exemple un contrat créer par la pratique, celui de la franchise et de la distribution, en vertu duquel un fournisseur va mettre à la disposition de son distributeur un savoir-faire, mais également une marque que le distributeur devra exploiter pour conquérir un marché local (ex : MacDonald).  
+
+Exigence de confiance mutuel, le code ce commerce titre IV relatif au principe de la rupture brutal de relation commercial établi de ne pas mettre fin trop brutalement a un contrat économique.  
+
+Exigence de secret, peut manifeste une infraction et peut également être la condition du profit. C’est parce qu’une information est secrète que son titulaire peut exercer un profit. Article L151-1 et suivants protège le secret, il est désormais possible d’engager la responsabilité civile de la personne qui a divulgué les informations d’une affaire. 
+
+A l’inverse, le droit recherche parfois de la transparence, par exemple en matière comptable en obligent la publication des comptes chaque année. En droit financier, il y a une obligation de déclaration de franchissement de seuil, qui oblige le commerçant à déclarer à l’AMF le franchissement de certains seuils.  
+
+- Toutes ces exigences correspondent aux compétences des tribunaux.  
+    
+
+2. Influence du droit des affaire sûr le droit civil  
+    
+
+Le droit des affaires, a forge un certain nombre de techniques, dont le droit civil c’est inspiré. Les professionnels civils (agriculteurs, professions libéral) état exclu des procédures collectives. Depuis 2005, les procédures collectives ont été étendue a tous les processionnels.  
+
+S2- Droit des affaires et Droits commercial 
+
+Ces deux branches forment un ensemble inséparable, le droit commercial est plus vieux que le droit des affaires, c’est un droit des commerçants. Le droit des affaires est né de la complexification du droit commercial. La relation entre ces droits est insaisissable, car très difficiles de définir le droit commercial. Le droit des affaires est un droit des activités commercial qui s’applique aux actes de commerces. Ainsi, il est difficile d’établir une frontière précise entre ces deux disciplines. Le droit des affaires est un droit de l’entreprise car il vise l’ensemble des règles de droit applicables relatif aux entreprises.

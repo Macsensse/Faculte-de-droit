@@ -260,7 +260,13 @@ Le juge judiciaire à la compétence de l'activité privée même si l'administr
 Contentieux SPIC sont compétences judiciaire se rapproche entreprise pv 
 Contentieux relatif aux bien du domaine privée des personnes publics
 
-**D)**  
+**D)Textes donnant compétence au juge en matière de responsabilité publique 
+
+Ce  sont des lois qui donne des compétences particulières au juge judiciaire pour tel ou tel domaine.  
+
+-Loi 31 décembre 1957 : Relative aux dommages causés par les véhicules de l’administration 
+
+-Loi 9 septembre 1986 : Relative au contentieux des dommages causés par le terrorisme.**
 
 [Loi peut donner compétence juge judiciaire 5/04/37](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000317023) : contentieux dommages causés enseignants  
 
@@ -270,3 +276,97 @@ Contentieux relatif aux bien du domaine privée des personnes publics
 
 [Loi 9/09/86](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693912/) relative au préjudice liés aux dommages crées par le terrorisme. La loi proposée par le ministre de l'Intérieur Charles Pasqua sur les conditions d'entrée et de séjour des étrangers est votée. En 1986, la droite obtient la majorité aux élections législatives obligeant François Mitterrand à cohabiter avec un gouvernement de l'opposition.
 
+**E) Les autres domaines de compétences du juge judiciaire** 
+
+- Contentieux du service de l’État civil : compétence du juge judiciaire, bien que les décisions soit prises par le maire. (ex : décisions relatives au livret de famille, TC 17 juin 1991 / refus de procéder à un mariage CE 25 octobre 1953) 
+
+- Contentieux relatif aux personnes 
+
+- Contentieux de nationalité : ex : naturalisation 
+
+- Contentieux de l’électorat : contentieux inscrit sur les listes électoral  
+
+- Contentieux de régime de sécurité sociale 
+
+- Contentieux des impositions indirectes  
+
+S2- La question de l’interprétation des actes administratifs  
+
+Le juge pénal c’est-à-dire le juge civil peut être amené à se pencher sur la question de la légalité du litige, est ce que le juge civile / pénal a la compétence pour apprécier la légalité de cet acte ?  
+
+TC, 5 juillet 1951 Avranches Desmarets : Le prince est à l’article L111-5 du code pénal « Les juridictions pénales sont compétentes pour interpréter les actes administratifs, réglementaires ou individuels et pour en apprécier la légalité lorsque, de cet examen, dépend la solution du procès pénal qui leur est soumis » = Le juge pénal peut interpréter tous les actes administratifs, mais ne peut apprécier la légalité d’un acte administratif que lorsque l’issu du procès pénal en dépend. 
+
+Jurisprudence Septfonds TC 7 juin 1923 : Le juge civil ne peut pas apprécier la légalité d’un acte administratif.  Il y a une exception pour les actes administratif manifestement illégaux qui porte atteinte à la liberté individuelle, le juge judiciaire a le droit d’apprécier la légalité.  
+
+Évolution jurisprudentielle : TC 17 octobre 2011 Sceau du Cheneau / 12 décembre 2011 société green et yellow contre EDF : Le juge civil n’est pas compétent pour apprécier la légalité d’un acte administratif SAUF s’il existe une jurisprudence établie par le juge administratif, auquel il pourrait se référer. 
+
+- Aujourd’hui on retient que le juge civil peut interpréter les actes administratifs règlementaires mais pas individuelles. Et le juge pénal peut interpréter tous les actes administratifs. Concernant, l’appréciation de l’acte, le juge pénal est compétent pour apprécier la légalité et le juge civil n’est pas compétent sauf en vue d’une juridiction établi par le juge administratif.  
+    
+
+S3- Le Tribunal des conflits  
+
+1. L’évolution historique  
+    
+
+En 1848, la constitution avec l’article 89 prévoit un tribunal spécial pour régler les conflits d’attributions entre l’autorité administratif et judiciaire compose de conseillers de Cour de cassation et conseillé du Conseil d’État. Le Second Empire vient remplacer ce système. Plus tard, la loi du 24 mai 1872 remet en place ce système, ces conflits d’attributions sont réglés par un tribunal spécial composé du garde Desseaux (président) de 3 conseillers d’États et 3 conseillers de Cour de cassation.  
+
+2. La composition 
+    
+
+Le tribunal des conflits se situe au palais royal, strictement paritaire (judiciaire et administratif), 4 conseillers d’États élu par l’Assemblée général du Conseil d’État, et 4 magistrats du siège hors hiérarchie de la Cour de cassation élu par les magistrats du siège de la Cour de cassation. Et 2 suppléants (1 par le CE / 1 Cour de cassation). La président du TA est assuré par le garde des sceaux, ministre de la Justice (loi 1872), et la loi de 2015 a supprimé la présidence historique par le ministre de la Justice, car atteinte à la séparation des pouvoirs. Désormais, les membres du TA sont élus pour 3 ans, parmi eux un président qui est issu du CE ou de la Cour de cassation alternativement.  
+
+3. Les décisions  
+    
+
+Le conflit positif : Le préfet estime que la connaissance d’un litige porté devant une juridiction de l’ordre judicaire, relève de la compétence administrative. Le préfet va alors solliciter le ministère public, et adresse un déclinatoire de compétences dans lequel il explique à qui appartient la compétence. Le préfet peut prendre un arrêté de conflit si la juridiction conteste, le conflit est alors élevé. Le TA est saisi et statue dans une délai de 3 mois. Cette procédure permet à l’administration via le préfet de défendre les prérogatives du juge judiciaire qui n’empiète pas sur les compétences du juge administratif. 
+
+Le conflit négatif : C’est le déni de justice, art 4 du code civil : « Le juge qui refusera de juger, sous prétexte du silence, de l'obscurité ou de l'insuffisance de la loi, pourra être poursuivi comme coupable de déni de justice ». Dans ce cas c’est le plaideur lui-même qui saisit le TA, va statuer sur une décision. 3 conditions qui permettent de soulever un conflit négatif : 
+
+- 2 décisions d’incompétences successives (juge administratif et juge judiciaire) 
+    
+
+- 1 seul cas de litige  
+    
+
+- La motivation de l’ordre de juridiction = raison de l’incompétence  
+    
+
+Il y a des hypothèses de renvoi facultatifs ou obligatoires pour les juridictions qui hésite sur leur compétence qui peuvent saisir le TA, afin d’éviter d’arriver à un conflit positif ou négatif.  
+
+Chapitre 2 : La procédure contentieuse  
+
+Tiens compte des spécificités de l‘action publique (menée dans l’intérêt général). Quand on parle de PANC (procédure administrative non contentieuse) on parle d’un recours administratif classique et des modes alternatifs des règlements des différends. Quand on parle de contentieux on parle de procès, on essaye de limites les procès, et de favoriser les litiges sans procès, tenter de dialoguer avec l’aide d’un tiers pour trouver un accord avant que le procès commence. Seulement si aucun dialogue ne peut se faire, qu’un procès est enclenché et que le juge tranche. 
+
+S1- Le recours administratif préalable  
+
+Un administré rencontre un problème avec l’administration, il va s’adresser à l’administration elle-même, pour essayer de trouver une solution = recours administratifs. Soit il fait un recours hiérarchique soit un recours gracieux. 
+
+Recours hiérarchique : s’adresser au supérieur hiérarchique de l’auteur de l’acte 
+
+Recours gracieux : s’adresser de façon plus ou moins informel, à l’auteur de l’acte administratif, permet à l’administration de corriger l’erreur ou bien de maintenir la décision. 
+
+- Cette possibilité est considérée par le Conseil d’État comme un principe général du droit. Ce système est le même pour les deux recours, le délai de ces deux recours doit être exercé dans les 2 mois. Ce délai de 2 mois recommence dès que la décision est prise en compte. Ces deux recours (hiérarchique et gracieux) sont facultatifs. 
+    
+
+- Au fils des années, il en résulte que le nombre de recours administratifs est devenus obligatoire -> recours administratifs préalable obligatoire. L'idée de ces recours est de désengorger les juridictions et de donner une chance supplémentaire à la résolution amiable du litige. 
+    
+
+Modes alternatifs : La médiation administrative (article L.213-1 du CJA) est un service ouvert à tous pour régler les différends eux-mêmes. La médiation doit être acceptée par les parties chacune actrice principale, elles doivent être loyales et avoir la volonté d’aboutir à une solution. Elles peuvent choisir le médiateur qui doit être impartial, compétent et diligent (article L.213-2 du CJA). Le médiateur peut alors proposer des solutions à une partie sans que l’autre soit présente.  
+
+Article 2044 du code civil : « La transaction est un contrat par lequel les parties, par des concessions réciproques, terminent une contestation née, ou préviennent une contestation à naître. Ce contrat doit être rédigé par écrit ». L’administration au sens large, a le droit de procéder à la transaction. Le recours à la transaction reste limité, notamment grâce au CE du 19 mars 1991 Mergui, une personne publique ne peut pas être condamne à payer une somme qu’elle ne doit pas, c’est l’interdiction des libéralités pour les personnes publiques.  
+
+S2- Les caractères principaux de la procédure administrative 
+
+Sous réserve de respecter certaines conditions de recevabilité, toute personne peut saisir le juge administratif afin de contester la régularité ou la légalité d’une décision administrative, ou encore pour obtenir réparation d’un préjudice. L’arrêt CE, 17 février 1950, Dame Lamotte consacre d’ailleurs un principe général du droit selon lequel il existe toujours la possibilité d’exercer un recours pour excès de pouvoir contre toute décision administrative. 
+
+Le JA juge selon le droit et non plus selon l’équité. La procédure administrative suit des règles très précises qui sont désormais codifiées dans le CJA et est caractérisée par : 
+
+- Une procédure écrite : l’oralité à une part assez minime -> lecture des conclusions et brève 
+    
+
+observation des parties. 
+
+- Une procédure contradictoire : les parties doivent échanger leurs arguments avant que le juge étudie le dossier au fond -> principe général du respect des droits de la défense par le CE le 5 mai 1944 “Dame veuve Trompier-Gravier". 
+    
+
+- Une procédure inquisitoriale ≠ Accusatoire (parties font tout) : le juge va administrer le procès -> il mène la procédure en conduisant l’instruction, en décidant des mesures particulières, en intervenant dans la recherche de la preuve, en exigeant la production d’un document par l’administration -> arrêt du CE, 1954 “Sieur Barel, s'intéresse au principe de l'égalité d'accès à tous les Français aux emplois et fonctions publics et aux différents pouvoirs d'instruction du juge administratif.
